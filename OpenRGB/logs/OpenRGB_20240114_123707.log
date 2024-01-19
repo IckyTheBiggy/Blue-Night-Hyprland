@@ -1,0 +1,42 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240114_123707
+====================================================================================================
+
+0     |Info:    Found file: Main.orp attempting to validate header
+0     |Info:    Valid v4 profile found for Main
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    |               Start device detection               |
+1002  |Info:    ------------------------------------------------------
+1002  |Info:    Initializing HID interfaces: Success
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |             Detecting I2C interfaces               |
+1005  |Info:    ------------------------------------------------------
+1010  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2482 Subsystem: 1043:880E
+1010  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2482 Subsystem: 1043:880E
+1010  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:2482 Subsystem: 1043:880E
+1010  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2482 Subsystem: 1043:880E
+1010  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2482 Subsystem: 1043:880E
+1011  |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:43A3 Subsystem: 1462:7D07
+1011  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2482 Subsystem: 1043:880E
+1011  |Info:    ------------------------------------------------------
+1011  |Info:    |               Detecting I2C devices                |
+1011  |Info:    ------------------------------------------------------
+1240  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1262  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1353  |Info:    ------------------------------------------------------
+1353  |Info:    |               Detecting I2C PCI devices            |
+1353  |Info:    ------------------------------------------------------
+1609  |Info:    [ASUS ROG STRIX 3070Ti O8G GAMING] Registering RGB controller
+1779  |Info:    ------------------------------------------------------
+1779  |Info:    |               Detecting HID devices                |
+1779  |Info:    ------------------------------------------------------
+1792  |Info:    [KLM] Created new Full 104 key ISO QWERTY with 6 rows and 21 columns containing 105 keys
+1792  |Info:    [Razer Cynosa Chroma V2] Registering RGB controller
+2180  |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+2325  |Info:    [Corsair Commander Core] Registering RGB controller
+2396  |Info:    [MSI MPG Z590 GAMING EDGE WIFI (MS-7D07)] Registering RGB controller
+2406  |Info:    [Razer Goliathus] Registering RGB controller
+2406  |Info:    ------------------------------------------------------
+2406  |Info:    |            Detecting libusb HID devices            |
+2406  |Info:    ------------------------------------------------------

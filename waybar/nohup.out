@@ -1,0 +1,81 @@
+[2024-01-18 14:10:09.494] [info] Using configuration file /home/BNN/.config/waybar/config
+[2024-01-18 14:10:09.495] [info] Using CSS file /home/BNN/.config/waybar/style.css
+[2024-01-18 14:10:09.498] [warning] module network: Unknown module: network
+[2024-01-18 14:10:09.498] [info] Hyprland IPC starting
+[2024-01-18 14:10:09.499] [warning] module tray: Unknown module: tray
+sh: line 1: swaymsg: command not found
+sh: line 1: swaync-client: command not found
+[2024-01-18 14:10:09.507] [error] notification stopped unexpectedly, is it endless?
+[2024-01-18 14:10:19.811] [info] Using configuration file /home/BNN/.config/waybar/config
+[2024-01-18 14:10:19.811] [info] Using CSS file /home/BNN/.config/waybar/style.css
+[2024-01-18 14:10:19.814] [warning] module network: Unknown module: network
+[2024-01-18 14:10:19.814] [info] Hyprland IPC starting
+[2024-01-18 14:10:19.815] [warning] module tray: Unknown module: tray
+sh: line 1: swaymsg: command not found
+sh: line 1: swaync-client: command not found
+[2024-01-18 14:10:19.819] [error] notification stopped unexpectedly, is it endless?
+[2024-01-18 14:10:24.816] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-01-18 14:10:24.816] [warning] [wireplumber]: (onMixerChanged) - Object with id 108 not found
+[2024-01-18 14:10:24.816] [warning] [wireplumber]: (onMixerChanged) - Object with id 107 not found
+[2024-01-18 14:10:24.816] [warning] [wireplumber]: (onMixerChanged) - Object with id 106 not found
+[2024-01-18 14:10:24.816] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-01-18 14:10:24.816] [warning] [wireplumber]: (onMixerChanged) - Object with id 111 not found
+[2024-01-18 14:10:24.816] [warning] [wireplumber]: (onMixerChanged) - Object with id 112 not found
+[2024-01-18 14:10:24.817] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-01-18 14:10:24.817] [warning] [wireplumber]: (onMixerChanged) - Object with id 108 not found
+[2024-01-18 14:10:24.817] [warning] [wireplumber]: (onMixerChanged) - Object with id 107 not found
+[2024-01-18 14:10:24.817] [warning] [wireplumber]: (onMixerChanged) - Object with id 106 not found
+[2024-01-18 14:10:24.817] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-01-18 14:10:24.818] [warning] [wireplumber]: (onMixerChanged) - Object with id 111 not found
+[2024-01-18 14:10:24.818] [warning] [wireplumber]: (onMixerChanged) - Object with id 112 not found
+[2024-01-18 14:10:24.823] [warning] [wireplumber]: (onMixerChanged) - Object with id 117 not found
+[2024-01-18 14:10:24.823] [warning] [wireplumber]: (onMixerChanged) - Object with id 118 not found
+[2024-01-18 14:10:24.832] [warning] [wireplumber]: (onMixerChanged) - Object with id 117 not found
+[2024-01-18 14:10:24.833] [warning] [wireplumber]: (onMixerChanged) - Object with id 118 not found
+[2024-01-18 14:10:24.924] [warning] [wireplumber]: (onMixerChanged) - Object with id 109 not found
+[2024-01-18 14:10:24.924] [warning] [wireplumber]: (onMixerChanged) - Object with id 108 not found
+[2024-01-18 14:10:24.924] [warning] [wireplumber]: (onMixerChanged) - Object with id 107 not found
+[2024-01-18 14:10:24.924] [warning] [wireplumber]: (onMixerChanged) - Object with id 106 not found
+[2024-01-18 14:10:24.924] [warning] [wireplumber]: (onMixerChanged) - Object with id 110 not found
+[2024-01-18 14:10:24.924] [warning] [wireplumber]: (onMixerChanged) - Object with id 111 not found
+[2024-01-18 14:10:24.926] [warning] [wireplumber]: (onMixerChanged) - Object with id 112 not found
+[2024-01-18 14:10:24.931] [warning] [wireplumber]: (onMixerChanged) - Object with id 117 not found
+[2024-01-18 14:10:37.555] [warning] [wireplumber]: (onMixerChanged) - Object with id 170 not found
+[2024-01-18 14:10:37.556] [warning] [wireplumber]: (onMixerChanged) - Object with id 170 not found
+[2024-01-18 14:10:37.559] [warning] [wireplumber]: (onMixerChanged) - Object with id 170 not found
+[2024-01-18 14:10:37.562] [warning] [wireplumber]: (onMixerChanged) - Object with id 175 not found
+[2024-01-18 14:10:37.563] [warning] [wireplumber]: (onMixerChanged) - Object with id 175 not found
+[2024-01-18 14:10:37.567] [warning] [wireplumber]: (onMixerChanged) - Object with id 175 not found
+[2024-01-18 14:10:47.465] [warning] [wireplumber]: (onMixerChanged) - Object with id 175 not found
+[2024-01-18 14:10:47.471] [warning] [wireplumber]: (onMixerChanged) - Object with id 175 not found
+[2024-01-18 14:10:47.471] [warning] [wireplumber]: (onMixerChanged) - Object with id 179 not found
+[2024-01-18 14:10:47.473] [warning] [wireplumber]: (onMixerChanged) - Object with id 179 not found
+[2024-01-18 14:10:47.478] [warning] [wireplumber]: (onMixerChanged) - Object with id 175 not found
+[2024-01-18 14:10:47.480] [warning] [wireplumber]: (onMixerChanged) - Object with id 179 not found
+[2024-01-18 14:10:56.112] [warning] [wireplumber]: (onMixerChanged) - Object with id 190 not found
+[2024-01-18 14:10:56.113] [warning] [wireplumber]: (onMixerChanged) - Object with id 190 not found
+[2024-01-18 14:10:56.117] [warning] [wireplumber]: (onMixerChanged) - Object with id 190 not found
+[2024-01-18 14:10:56.139] [warning] [wireplumber]: (onMixerChanged) - Object with id 196 not found
+[2024-01-18 14:10:56.140] [warning] [wireplumber]: (onMixerChanged) - Object with id 196 not found
+[2024-01-18 14:10:56.145] [warning] [wireplumber]: (onMixerChanged) - Object with id 196 not found
+[2024-01-18 14:10:56.181] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:10:56.182] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:10:56.187] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:10:56.219] [warning] [wireplumber]: (onMixerChanged) - Object with id 208 not found
+[2024-01-18 14:10:56.220] [warning] [wireplumber]: (onMixerChanged) - Object with id 208 not found
+[2024-01-18 14:10:56.225] [warning] [wireplumber]: (onMixerChanged) - Object with id 208 not found
+[2024-01-18 14:10:56.260] [warning] [wireplumber]: (onMixerChanged) - Object with id 214 not found
+[2024-01-18 14:10:56.261] [warning] [wireplumber]: (onMixerChanged) - Object with id 214 not found
+[2024-01-18 14:10:56.266] [warning] [wireplumber]: (onMixerChanged) - Object with id 214 not found
+[2024-01-18 14:10:56.300] [warning] [wireplumber]: (onMixerChanged) - Object with id 196 not found
+[2024-01-18 14:10:56.301] [warning] [wireplumber]: (onMixerChanged) - Object with id 196 not found
+[2024-01-18 14:10:56.306] [warning] [wireplumber]: (onMixerChanged) - Object with id 196 not found
+[2024-01-18 14:10:56.342] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:10:56.343] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:10:56.348] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:10:57.365] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:10:57.366] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:10:57.371] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:11:06.847] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:11:06.848] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
+[2024-01-18 14:11:06.853] [warning] [wireplumber]: (onMixerChanged) - Object with id 202 not found
