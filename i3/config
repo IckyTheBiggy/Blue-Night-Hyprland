@@ -38,7 +38,7 @@ exec setxkbmap -layout gb, de
 exec picom
 
 exec steam
-exec discord
+exec flatpak run com.discordapp.Discord
 exec openrgb
 
 # Use pactl to adjust volume in PulseAudio.

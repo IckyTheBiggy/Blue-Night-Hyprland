@@ -711,7 +711,7 @@ image_backend="ascii"
 image_source="auto"
 
 
-# Ascii Options
+# Ascii Optionsy
 
 # Ascii distro
 # Which distro's ascii art to display.
