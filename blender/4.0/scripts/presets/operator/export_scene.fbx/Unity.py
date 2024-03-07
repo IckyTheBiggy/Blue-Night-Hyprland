@@ -1,7 +1,7 @@
 import bpy
 op = bpy.context.active_operator
 
-op.filepath = '/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/Blend/Zombie(Optimized).fbx'
+op.filepath = '/home/bnn/untitled.fbx'
 op.use_selection = True
 op.use_visible = False
 op.use_active_collection = False
@@ -9,8 +9,8 @@ op.global_scale = 1.0
 op.apply_unit_scale = True
 op.apply_scale_options = 'FBX_SCALE_UNITS'
 op.use_space_transform = True
-op.bake_space_transform = True
-op.object_types = {'OTHER', 'ARMATURE', 'MESH'}
+op.bake_space_transform = False
+op.object_types = {'MESH', 'OTHER', 'ARMATURE'}
 op.use_mesh_modifiers = True
 op.use_mesh_modifiers_render = True
 op.mesh_smooth_type = 'OFF'
