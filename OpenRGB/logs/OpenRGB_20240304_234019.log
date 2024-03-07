@@ -1,0 +1,42 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240304_234019
+====================================================================================================
+
+0     |Info:    Found file: Main.orp attempting to validate header
+1     |Info:    Valid v4 profile found for Main
+1007  |Info:    ------------------------------------------------------
+1007  |Info:    |               Start device detection               |
+1007  |Info:    ------------------------------------------------------
+1008  |Info:    Initializing HID interfaces: Success
+1027  |Info:    ------------------------------------------------------
+1027  |Info:    |             Detecting I2C interfaces               |
+1027  |Info:    ------------------------------------------------------
+1027  |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:43A3 Subsystem: 1462:7D07
+1027  |Info:    ------------------------------------------------------
+1027  |Info:    |               Detecting I2C devices                |
+1027  |Info:    ------------------------------------------------------
+1100  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1122  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1372  |Info:    ------------------------------------------------------
+1372  |Info:    |               Detecting I2C PCI devices            |
+1372  |Info:    ------------------------------------------------------
+1372  |Info:    ------------------------------------------------------
+1372  |Info:    |               Detecting HID devices                |
+1372  |Info:    ------------------------------------------------------
+1385  |Info:    [KLM] Created new Full 104 key ISO QWERTY with 6 rows and 21 columns containing 105 keys
+1385  |Info:    [Razer Cynosa Chroma V2] Registering RGB controller
+1496  |Info:    [Corsair Commander Core] Registering RGB controller
+1571  |Info:    [MSI MPG Z590 GAMING EDGE WIFI (MS-7D07)] Registering RGB controller
+1959  |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+1969  |Info:    [Razer Goliathus] Registering RGB controller
+1969  |Info:    ------------------------------------------------------
+1969  |Info:    |            Detecting libusb HID devices            |
+1969  |Info:    ------------------------------------------------------
+1984  |Info:    [HyperX Quadcast S] Registering RGB controller
+1984  |Info:    ------------------------------------------------------
+1984  |Info:    |              Detecting other devices               |
+1984  |Info:    ------------------------------------------------------
+1988  |Info:    ------------------------------------------------------
+1988  |Info:    |                Detection completed                 |
+1988  |Info:    ------------------------------------------------------

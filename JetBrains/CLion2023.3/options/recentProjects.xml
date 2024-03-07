@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/tmp/Flax.code-workspace8898034107769585553">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Flax.code-workspace – Flax.code-workspace" projectWorkspaceId="2dHvDUEQ0UATMtiaD5nydcjjFWb">
+              <option name="activationTimestamp" value="1709677769028" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-233.14475.31" />
+              <option name="buildTimestamp" value="1707817620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="962" y="-16" width="953" height="1091" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1709677698690" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/FlaxEngine/Source">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Source" opened="true" projectWorkspaceId="2dHyiRJ7X0Af6VUqY3YEOkIGliF">
+              <option name="activationTimestamp" value="1709679440249" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-233.14475.31" />
+              <option name="buildTimestamp" value="1707817620000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="960" y="-21" width="960" height="1101" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1709677891080" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/FlaxEngine/Source" />
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Development/C#/Errgine" value="true" />
+        <entry key="$USER_HOME$/Development/C#/Errgine/.idea/.idea.Errgine" value="true" />
+        <entry key="$USER_HOME$/Development/NdotProjects/SomeZombieShooter" value="true" />
+        <entry key="$USER_HOME$/Development/NdotProjects/SomeZombieShooter/.idea/.idea.SomeSimpleZombieShooter5" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/AstroCraft" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/SourceGame" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/SourceGame/.idea/.idea.SourceGame" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

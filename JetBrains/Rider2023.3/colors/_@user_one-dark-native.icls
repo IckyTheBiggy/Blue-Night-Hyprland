@@ -1,0 +1,233 @@
+<scheme name="_@user_one-dark-native" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2023-08-25T15:07:08</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2023.2.1.0.0</property>
+    <property name="modified">2024-03-06T22:32:23</property>
+    <property name="originalScheme">one-dark-native</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">hu.aradipatrik.nightowlnative</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <colors>
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="3d9a33" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="485848" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="715353" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="80805a" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value />
+    </option>
+    <option name="ReSharper.CSHARP_ACCESSOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_BUILTIN_TYPE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CONSTANT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CONTROL_FLOW_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CONTROL_TRANSFER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="637777" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="5c6370" />
+        <option name="EFFECT_COLOR" value="629755" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="5c6370" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DOC_COMMENT_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="5c6370" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_LATE_BOUND_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_LOCAL_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_OVERFLOW_CHECKED_OPERATION">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_OVERLOADED_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="82aaff" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PREPROCESSOR_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PRIMARY_CONSTRUCTOR_PARAMETER_CAPTURED_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PRIMARY_CONSTRUCTOR_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_TUPLE_COMPONENT_NAME">
+      <value>
+        <option name="FOREGROUND" value="d6deeb" />
+      </value>
+    </option>
+    <option name="ReSharper.HINT">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="SUGGESTION">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="1a6dce" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a8c023" />
+        <option name="ERROR_STRIPE_COLOR" value="3d9a33" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="be9117" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="ERROR_STRIPE_COLOR" value="b56277" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

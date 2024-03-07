@@ -1,0 +1,5 @@
+[Bookmarks]
+[Recent]
+/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/FBX/
+/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/Blend/
+/home/bnn/UnityProjects/AstroCraft/Assets/Models/

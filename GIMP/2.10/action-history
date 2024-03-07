@@ -1,0 +1,10 @@
+# GIMP action-history
+
+(history-item "image-scale" 2)
+(history-item "select-invert" 1)
+(history-item "edit-clear" 1)
+(history-item "edit-copy-visible" 0)
+(history-item "edit-paste" 0)
+(history-item "file-save" 1)
+
+# end of action-history

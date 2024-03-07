@@ -1,0 +1,12 @@
+  metarigAction
+0 metarigAction
+0 Idle.001
+0 Running.001
+0 Action
+0 Running
+  Attack
+  Idle
+0 Attack
+  MetaRig
+0 Idle
+  Running

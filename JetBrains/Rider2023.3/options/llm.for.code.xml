@@ -1,0 +1,6 @@
+<application>
+  <component name="LLMSettings">
+    <option name="commit_generate_summary" value="true" />
+    <option name="name_suggestions" value="false" />
+  </component>
+</application>
