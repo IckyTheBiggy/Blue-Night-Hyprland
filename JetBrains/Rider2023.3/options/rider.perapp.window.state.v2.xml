@@ -29,7 +29,7 @@
           "order": 0,
           "contentUiType": "COMBO",
           "isVisible": true,
-          "weight": 0.4992097
+          "weight": 0.14297125
         },
         {
           "id": "Commit",
@@ -55,7 +55,7 @@
         {
           "id": "Build",
           "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.32707128
         },
         {
           "id": "Dynamic Program Analysis",
@@ -85,7 +85,7 @@
         {
           "id": "NuGet",
           "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.32707128
         },
         {
           "id": "dotMemory Profiler",
@@ -111,14 +111,15 @@
         {
           "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32707128
         },
         {
           "id": "Run",
           "order": 4,
           "anchor": "BOTTOM",
           "isVisible": true,
-          "weight": 0.3272472
+          "weight": 0.32707128
         },
         {
           "id": "Services",
@@ -178,8 +179,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.4992097,
-        "bottom": 0.3272472,
+        "left": 0.14297125,
+        "bottom": 0.32707128,
         "right": 0.33008432
       }
     }
