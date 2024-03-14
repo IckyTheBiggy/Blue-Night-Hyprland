@@ -2,11 +2,15 @@
   <component name="TrustedSolutionStore">
     <option name="trustedLocations">
       <set>
+        <option value="$USER_HOME$/Development/C#/3DMusicVisualizer/.idea/.idea.3DMusicVisualizer" />
         <option value="$USER_HOME$/Development/C#/Errgine/.idea/.idea.Errgine" />
         <option value="$USER_HOME$/Development/C#/Errgine/.idea/.idea.Errgine.dir" />
+        <option value="$USER_HOME$/Development/C#/GtkTest/.idea/.idea.GtkTest" />
+        <option value="$USER_HOME$/Development/C#/OpenTKLearnShite/.idea/.idea.OpenTKLearnShite" />
         <option value="$USER_HOME$/Development/C#/RayEngine/.idea/.idea.RayEngine" />
         <option value="$USER_HOME$/Development/NdotProjects/SomeZombieShooter/.idea/.idea.SomeSimpleZombieShooter5" />
         <option value="$USER_HOME$/UnityProjects/AstroCraft/.idea/.idea.AstroCraft" />
+        <option value="$USER_HOME$/UnityProjects/Music_Visualizer/.idea/.idea.Music_Visualizer" />
         <option value="$USER_HOME$/UnityProjects/SourceGame/.idea/.idea.SourceGame" />
       </set>
     </option>

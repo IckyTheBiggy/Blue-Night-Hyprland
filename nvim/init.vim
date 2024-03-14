@@ -15,9 +15,13 @@ syntax on
 "Mouse Support
 set mouse=a
 
-"Make nvim use terminal colors
+"Make Nvim Use Terminal Colors
 set termguicolors
 set background=dark
+
+"Control + Backspace Delte The Whole Word Behind
+inoremap <C-BS> <C-w>
+
 
 "Syntax Colors
 hi Comment guifg=#6FA5C7
@@ -41,6 +45,11 @@ call plug#begin('~/.config/nvim/plugins')
     Plug 'https://github.com/vim-airline/vim-airline.git'
     Plug 'https://github.com/preservim/nerdtree.git'
     Plug 'https://github.com/vim-airline/vim-airline-themes.git'
+    Plug 'neovim/nvim-lspconfig'
 call plug#end()
 
 "Make vim-airline use system colors
+
+
+"local lspconfig = require('lspconfig')
+"lspconfig.clangd.setup{}

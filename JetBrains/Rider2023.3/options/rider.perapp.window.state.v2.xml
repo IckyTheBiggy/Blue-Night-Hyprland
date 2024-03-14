@@ -29,7 +29,7 @@
           "order": 0,
           "contentUiType": "COMBO",
           "isVisible": true,
-          "weight": 0.14297125
+          "weight": 0.23083067
         },
         {
           "id": "Commit",
@@ -55,7 +55,7 @@
         {
           "id": "Build",
           "anchor": "BOTTOM",
-          "weight": 0.32707128
+          "weight": 0.4137765
         },
         {
           "id": "Dynamic Program Analysis",
@@ -85,7 +85,7 @@
         {
           "id": "NuGet",
           "anchor": "BOTTOM",
-          "weight": 0.32707128
+          "weight": 0.41351604
         },
         {
           "id": "dotMemory Profiler",
@@ -95,7 +95,8 @@
         {
           "id": "Version Control",
           "order": 0,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.38687152
         },
         {
           "id": "Problems",
@@ -106,25 +107,31 @@
           "id": "Problems View",
           "order": 2,
           "anchor": "BOTTOM",
-          "weight": 0.33034027
+          "weight": 0.38687152
         },
         {
           "id": "Terminal",
           "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.32707128
+          "weight": 0.38687152
         },
         {
           "id": "Run",
           "order": 4,
           "anchor": "BOTTOM",
-          "isVisible": true,
-          "weight": 0.32707128
+          "floatingBounds": [
+            119,
+            701,
+            1828,
+            75
+          ],
+          "weight": 0.084296726
         },
         {
           "id": "Services",
           "order": 4,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.38687152
         },
         {
           "id": "Unity",
@@ -145,6 +152,12 @@
           "id": "IL Viewer",
           "anchor": "RIGHT",
           "isShowStripeButton": false
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
         },
         {
           "id": "Notifications",
@@ -179,8 +192,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.14297125,
-        "bottom": 0.32707128,
+        "left": 0.23083067,
+        "bottom": 0.084296726,
         "right": 0.33008432
       }
     }

@@ -1,0 +1,573 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="3DMusicVisualizer" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <marker date="1709914322525" expanded="true" signature="20:189" ph="{...}" />
+                <marker date="1709914322525" expanded="true" signature="40:187" ph="{...}" />
+                <marker date="1709914322525" expanded="true" signature="86:181" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/App.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+              <folding>
+                <marker date="1709916010667" expanded="true" signature="6:132" ph="..." />
+                <marker date="1709916010667" expanded="true" signature="154:1656" ph="{...}" />
+                <marker date="1709916010667" expanded="true" signature="190:1654" ph="{...}" />
+                <marker date="1709916010667" expanded="true" signature="506:664" ph="{...}" />
+                <marker date="1709916010667" expanded="true" signature="706:923" ph="{...}" />
+                <marker date="1709916010667" expanded="true" signature="984:1051" ph="{...}" />
+                <marker date="1709916010667" expanded="true" signature="1119:1312" ph="{...}" />
+                <marker date="1709916010667" expanded="true" signature="1380:1549" ph="{...}" />
+                <marker date="1709916010667" expanded="true" signature="1593:1648" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParticleSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+              <folding>
+                <marker date="1709915920070" expanded="true" signature="6:55" ph="..." />
+                <marker date="1709915920070" expanded="true" signature="77:1986" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="111:1167" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="225:370" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="417:558" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="476:548" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="588:842" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="722:797" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="880:1161" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="933:1151" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="1194:1984" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="1401:1540" ph="{...}" />
+                <marker date="1709915920070" expanded="true" signature="1587:1978" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AudioAnalyzer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+              <folding>
+                <marker date="1709915173170" expanded="true" signature="6:32" ph="..." />
+                <marker date="1709915173170" expanded="true" signature="54:1760" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="87:1758" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="307:408" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="447:1291" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="485:1255" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="845:942" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="1062:1201" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="1320:1568" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="1359:1558" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="1596:1752" ph="{...}" />
+                <marker date="1709915173170" expanded="true" signature="1634:1742" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <marker date="1709914022313" expanded="true" signature="6:140" ph="..." />
+                <marker date="1709914022313" expanded="true" signature="162:3439" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="188:3437" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="343:1751" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="1503:1741" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="1778:1833" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="1890:1971" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="2022:2133" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="2188:2299" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="2358:2485" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="2544:2655" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="2710:3077" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="2877:3067" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="3131:3431" ph="{...}" />
+                <marker date="1709914022313" expanded="true" signature="3304:3421" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="6" lastUsed="1709915337780" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ShaderProgram.cs" />
+      <option value="$PROJECT_DIR$/Shader.cs" />
+      <option value="$PROJECT_DIR$/Program.cs" />
+      <option value="$PROJECT_DIR$/AudioAnalyzer.cs" />
+      <option value="$PROJECT_DIR$/ParticleSystem.cs" />
+      <option value="$PROJECT_DIR$/App.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.3DMusicVisualizer/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="6" lastUsage="1709915337780" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="3DMusicVisualizer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="3DMusicVisualizer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="3DMusicVisualizer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="3DMusicVisualizer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="3DMusicVisualizer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ParticleSystem.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.33008432" />
+          </value>
+        </entry>
+        <entry key="Bookmarks">
+          <value>
+            <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info anchor="bottom" id="Build" weight="0.4137765" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="1" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Database Changes">
+          <value>
+            <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Dynamic Program Analysis">
+          <value>
+            <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Endpoints">
+          <value>
+            <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="File Transfer">
+          <value>
+            <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="IL Viewer">
+          <value>
+            <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Learn">
+          <value>
+            <window_info id="Learn" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Merge Requests">
+          <value>
+            <window_info id="Merge Requests" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" id="Notifications" order="0" weight="0.33008432" />
+          </value>
+        </entry>
+        <entry key="NuGet">
+          <value>
+            <window_info anchor="bottom" id="NuGet" weight="0.41351604" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" weight="0.38687152" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23083067" />
+          </value>
+        </entry>
+        <entry key="Pull Requests">
+          <value>
+            <window_info id="Pull Requests" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" show_stripe_button="false" weight="0.084296726" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="4" weight="0.38687152" />
+          </value>
+        </entry>
+        <entry key="Space Code Reviews">
+          <value>
+            <window_info id="Space Code Reviews" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="TODO">
+          <value>
+            <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info anchor="bottom" id="Terminal" order="3" weight="0.38687152" />
+          </value>
+        </entry>
+        <entry key="TypeScript">
+          <value>
+            <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Unit Tests">
+          <value>
+            <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Unit Tests Coverage">
+          <value>
+            <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Unity">
+          <value>
+            <window_info anchor="bottom" id="Unity" order="4" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" weight="0.38687152" />
+          </value>
+        </entry>
+        <entry key="documentation.v2">
+          <value>
+            <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="dotMemory Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="dotTrace Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.3DMusicVisualizer" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="3DMusicVisualizer-history">
+        <shellCommand>
+          <arg value="/usr/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3559000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23083067" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.4137765" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NuGet" weight="0.41351604" />
+      <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.38687152" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.38687152" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.38687152" />
+      <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" show_stripe_button="false" weight="0.084296726" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.38687152" />
+      <window_info anchor="bottom" id="Unity" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33008432" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33008432" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.084296726" left="0.23083067" right="0.33008432" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Build</value>
+      <value>NuGet</value>
+      <value>Services</value>
+      <value>Version Control</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="288" width="430" height="479" key="FileChooserDialogImpl" timestamp="1709913710456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="288" width="430" height="479" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1709913710456" />
+    <state width="1796" height="45" key="GridCell.Tab.0.bottom" timestamp="1709917238664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1796" height="45" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1709917238664" />
+    <state width="1796" height="45" key="GridCell.Tab.0.center" timestamp="1709917238664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1796" height="45" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1709917238664" />
+    <state width="1796" height="45" key="GridCell.Tab.0.left" timestamp="1709917238664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1796" height="45" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1709917238664" />
+    <state width="1796" height="45" key="GridCell.Tab.0.right" timestamp="1709917238664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1796" height="45" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1709917238664" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Shader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1709914022313" expanded="true" signature="6:140" ph="..." />
+            <marker date="1709914022313" expanded="true" signature="162:3439" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="188:3437" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="343:1751" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="1503:1741" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="1778:1833" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="1890:1971" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="2022:2133" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="2188:2299" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="2358:2485" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="2544:2655" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="2710:3077" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="2877:3067" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="3131:3431" ph="{...}" />
+            <marker date="1709914022313" expanded="true" signature="3304:3421" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AudioAnalyzer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+          <folding>
+            <marker date="1709915173170" expanded="true" signature="6:32" ph="..." />
+            <marker date="1709915173170" expanded="true" signature="54:1760" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="87:1758" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="307:408" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="447:1291" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="485:1255" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="845:942" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="1062:1201" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="1320:1568" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="1359:1558" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="1596:1752" ph="{...}" />
+            <marker date="1709915173170" expanded="true" signature="1634:1742" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParticleSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <marker date="1709915920070" expanded="true" signature="6:55" ph="..." />
+            <marker date="1709915920070" expanded="true" signature="77:1986" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="111:1167" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="225:370" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="417:558" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="476:548" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="588:842" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="722:797" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="880:1161" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="933:1151" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="1194:1984" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="1401:1540" ph="{...}" />
+            <marker date="1709915920070" expanded="true" signature="1587:1978" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1709914322525" expanded="true" signature="20:189" ph="{...}" />
+            <marker date="1709914322525" expanded="true" signature="40:187" ph="{...}" />
+            <marker date="1709914322525" expanded="true" signature="86:181" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <marker date="1709916010667" expanded="true" signature="6:132" ph="..." />
+            <marker date="1709916010667" expanded="true" signature="154:1656" ph="{...}" />
+            <marker date="1709916010667" expanded="true" signature="190:1654" ph="{...}" />
+            <marker date="1709916010667" expanded="true" signature="506:664" ph="{...}" />
+            <marker date="1709916010667" expanded="true" signature="706:923" ph="{...}" />
+            <marker date="1709916010667" expanded="true" signature="984:1051" ph="{...}" />
+            <marker date="1709916010667" expanded="true" signature="1119:1312" ph="{...}" />
+            <marker date="1709916010667" expanded="true" signature="1380:1549" ph="{...}" />
+            <marker date="1709916010667" expanded="true" signature="1593:1648" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240313_134414
+====================================================================================================
+
+1     |Info:    Found file: Main.orp attempting to validate header
+1     |Info:    Valid v4 profile found for Main
+1007  |Info:    ------------------------------------------------------
+1007  |Info:    |               Start device detection               |
+1007  |Info:    ------------------------------------------------------
+1008  |Info:    Initializing HID interfaces: Success
+1026  |Info:    ------------------------------------------------------
+1026  |Info:    |             Detecting I2C interfaces               |
+1026  |Info:    ------------------------------------------------------
+1026  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2482 Subsystem: 1043:880E
+1026  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2482 Subsystem: 1043:880E
+1026  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:2482 Subsystem: 1043:880E
+1026  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2482 Subsystem: 1043:880E
+1027  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2482 Subsystem: 1043:880E
+1027  |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:43A3 Subsystem: 1462:7D07
+1027  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2482 Subsystem: 1043:880E
+1027  |Info:    ------------------------------------------------------
+1027  |Info:    |               Detecting I2C devices                |
+1027  |Info:    ------------------------------------------------------
+1098  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1120  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1373  |Info:    ------------------------------------------------------
+1373  |Info:    |               Detecting I2C PCI devices            |
+1373  |Info:    ------------------------------------------------------
+1582  |Info:    [ASUS ROG STRIX 3070Ti O8G GAMING] Registering RGB controller
+1744  |Info:    ------------------------------------------------------
+1744  |Info:    |               Detecting HID devices                |
+1744  |Info:    ------------------------------------------------------
+21893 |Info:    Detection abort requested

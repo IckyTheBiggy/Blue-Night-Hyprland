@@ -1,0 +1,263 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="OpenTKLearnShite" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/OpenTKLearnShite/App.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2335">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <marker date="1707771776050" expanded="true" signature="6:182" ph="..." />
+                <marker date="1707771776050" expanded="true" signature="200:7917" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="236:7915" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="305:1969" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="562:606" ph="/* bottomleft vert ... */" />
+                <marker date="1707771776050" expanded="true" signature="836:879" ph="/* bottomleft vert ... */" />
+                <marker date="1707771776050" expanded="true" signature="1113:1156" ph="/* bottomleft vert ... */" />
+                <marker date="1707771776050" expanded="true" signature="1390:1432" ph="/* bottomleft vert ... */" />
+                <marker date="1707771776050" expanded="true" signature="1662:1707" ph="/* bottomleft vert ... */" />
+                <marker date="1707771776050" expanded="true" signature="2014:2387" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="2028:2069" ph="/* first face ... */" />
+                <marker date="1707771776050" expanded="true" signature="2845:3003" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="3045:4498" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="4559:4727" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="4796:4889" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="4957:5911" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="5979:7608" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="7141:7268" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="7286:7598" ph="{...}" />
+                <marker date="1707771776050" expanded="true" signature="7652:7909" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenTKLearnShite/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1707771082250" expanded="true" signature="31:228" ph="{...}" />
+                <marker date="1707771082250" expanded="true" signature="51:226" ph="{...}" />
+                <marker date="1707771082250" expanded="true" signature="97:220" ph="{...}" />
+                <marker date="1707771082250" expanded="true" signature="168:210" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OpenTKLearnShite/Shader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="111" column="1" selection-end-line="111" selection-end-column="1" />
+              <folding>
+                <marker date="1707770690080" expanded="true" signature="6:140" ph="..." />
+                <marker date="1707770690080" expanded="true" signature="158:3440" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="189:3438" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="344:1752" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="1504:1742" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="1779:1834" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="1891:1972" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="2023:2134" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="2189:2300" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="2359:2486" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="2545:2656" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="2711:3078" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="2878:3068" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="3132:3432" ph="{...}" />
+                <marker date="1707770690080" expanded="true" signature="3305:3422" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="3" lastUsed="1709914290674" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.OpenTKLearnShite/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="3" lastUsage="1709914290674" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenTKLearnShite" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenTKLearnShite" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpenTKLearnShite" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="OpenTKLearnShite" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OpenTKLearnShite" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Program.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1525000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23089172" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.4137765" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NuGet" visible="true" weight="0.41351604" />
+      <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.38687152" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.38687152" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.38687152" />
+      <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" visible="true" weight="0.084296726" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.38687152" />
+      <window_info anchor="bottom" id="Unity" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33008432" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33008432" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.084296726" left="0.23089172" right="0.33008432" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OpenTKLearnShite/Shader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="111" column="1" selection-end-line="111" selection-end-column="1" />
+          <folding>
+            <marker date="1707770690080" expanded="true" signature="6:140" ph="..." />
+            <marker date="1707770690080" expanded="true" signature="158:3440" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="189:3438" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="344:1752" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="1504:1742" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="1779:1834" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="1891:1972" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="2023:2134" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="2189:2300" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="2359:2486" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="2545:2656" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="2711:3078" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="2878:3068" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="3132:3432" ph="{...}" />
+            <marker date="1707770690080" expanded="true" signature="3305:3422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenTKLearnShite/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1707771082250" expanded="true" signature="31:228" ph="{...}" />
+            <marker date="1707771082250" expanded="true" signature="51:226" ph="{...}" />
+            <marker date="1707771082250" expanded="true" signature="97:220" ph="{...}" />
+            <marker date="1707771082250" expanded="true" signature="168:210" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OpenTKLearnShite/App.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2335">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1707771776050" expanded="true" signature="6:182" ph="..." />
+            <marker date="1707771776050" expanded="true" signature="200:7917" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="236:7915" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="305:1969" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="562:606" ph="/* bottomleft vert ... */" />
+            <marker date="1707771776050" expanded="true" signature="836:879" ph="/* bottomleft vert ... */" />
+            <marker date="1707771776050" expanded="true" signature="1113:1156" ph="/* bottomleft vert ... */" />
+            <marker date="1707771776050" expanded="true" signature="1390:1432" ph="/* bottomleft vert ... */" />
+            <marker date="1707771776050" expanded="true" signature="1662:1707" ph="/* bottomleft vert ... */" />
+            <marker date="1707771776050" expanded="true" signature="2014:2387" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="2028:2069" ph="/* first face ... */" />
+            <marker date="1707771776050" expanded="true" signature="2845:3003" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="3045:4498" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="4559:4727" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="4796:4889" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="4957:5911" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="5979:7608" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="7141:7268" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="7286:7598" ph="{...}" />
+            <marker date="1707771776050" expanded="true" signature="7652:7909" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,56 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240313_154533
+====================================================================================================
+
+1     |Info:    Found file: Main.orp attempting to validate header
+1     |Info:    Valid v4 profile found for Main
+1006  |Info:    ------------------------------------------------------
+1006  |Info:    |               Start device detection               |
+1006  |Info:    ------------------------------------------------------
+1007  |Info:    Initializing HID interfaces: Success
+1014  |Info:    ------------------------------------------------------
+1014  |Info:    |             Detecting I2C interfaces               |
+1014  |Info:    ------------------------------------------------------
+1014  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2482 Subsystem: 1043:880E
+1014  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2482 Subsystem: 1043:880E
+1014  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:2482 Subsystem: 1043:880E
+1014  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2482 Subsystem: 1043:880E
+1015  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2482 Subsystem: 1043:880E
+1015  |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:43A3 Subsystem: 1462:7D07
+1015  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2482 Subsystem: 1043:880E
+1015  |Info:    ------------------------------------------------------
+1015  |Info:    |               Detecting I2C devices                |
+1015  |Info:    ------------------------------------------------------
+1087  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1109  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1361  |Info:    ------------------------------------------------------
+1361  |Info:    |               Detecting I2C PCI devices            |
+1361  |Info:    ------------------------------------------------------
+1574  |Info:    [ASUS ROG STRIX 3070Ti O8G GAMING] Registering RGB controller
+1737  |Info:    ------------------------------------------------------
+1737  |Info:    |               Detecting HID devices                |
+1737  |Info:    ------------------------------------------------------
+1848  |Info:    [Corsair Commander Core] Registering RGB controller
+1918  |Info:    [MSI MPG Z590 GAMING EDGE WIFI (MS-7D07)] Registering RGB controller
+2305  |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+2315  |Info:    [Razer Goliathus] Registering RGB controller
+2315  |Info:    ------------------------------------------------------
+2315  |Info:    |            Detecting libusb HID devices            |
+2315  |Info:    ------------------------------------------------------
+2329  |Info:    [HyperX Quadcast S] Registering RGB controller
+2329  |Info:    ------------------------------------------------------
+2329  |Info:    |              Detecting other devices               |
+2329  |Info:    ------------------------------------------------------
+2335  |Info:    ------------------------------------------------------
+2335  |Info:    |                Detection completed                 |
+2335  |Info:    ------------------------------------------------------
+5790  |Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-0, address 0x59
+5790  |Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-0, address 0x5B
+5790  |Info:    Profile loading: Succeeded for ASUS ROG STRIX 3070Ti O8G GAMING @ I2C: /dev/i2c-1, address 0x67
+5790  |Info:    Profile loading: Succeeded for Corsair Commander Core @ HID: /dev/hidraw4
+5790  |Info:    Profile loading: Succeeded for MSI MPG Z590 GAMING EDGE WIFI (MS-7D07) @ HID: /dev/hidraw0
+5790  |Info:    Profile loading: Succeeded for G502 HERO Gaming Mouse @ HID: /dev/hidraw3 (Receiver) 
+Wireless Index: 255
+5790  |Info:    Profile loading: Succeeded for Razer Goliathus @ HID: /dev/hidraw8
+5790  |Info:    Profile loading: FAILED! for HyperX Quadcast S @ 1-12.1:1.0

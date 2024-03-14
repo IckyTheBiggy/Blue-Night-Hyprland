@@ -2,4 +2,6 @@
 [Recent]
 /home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/FBX/
 /home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/Blend/
+/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/SourceFiles/Medkit/medkit/source/
+/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/SourceFiles/Medkit/medkit/medkit/source/
 /home/bnn/UnityProjects/AstroCraft/Assets/Models/

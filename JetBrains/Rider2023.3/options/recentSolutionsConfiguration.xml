@@ -2,6 +2,14 @@
   <component name="SolutionConfigurationStore">
     <option name="configurations">
       <map>
+        <entry key="$USER_HOME$/Development/C#/3DMusicVisualizer/3DMusicVisualizer.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Development/C#/Errgine/Errgine.csproj">
           <value>
             <ConfigurationInfo />
@@ -10,6 +18,22 @@
         <entry key="$USER_HOME$/Development/C#/Errgine/Errgine.sln">
           <value>
             <ConfigurationInfo />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/C#/GtkTest/GtkTest.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/C#/OpenTKLearnShite/OpenTKLearnShite.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/Development/C#/RayEngine/RayEngine.sln">
@@ -29,6 +53,14 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/UnityProjects/AstroCraft/AstroCraft.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/UnityProjects/Music_Visualizer/Music_Visualizer.sln">
           <value>
             <ConfigurationInfo>
               <option name="activeConfiguration" value="Debug" />

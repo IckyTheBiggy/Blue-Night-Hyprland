@@ -2,12 +2,20 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/Development/C#/3DMusicVisualizer" value="true" />
+        <entry key="$USER_HOME$/Development/C#/3DMusicVisualizer/.idea/.idea.3DMusicVisualizer" value="true" />
         <entry key="$USER_HOME$/Development/C#/Errgine" value="true" />
         <entry key="$USER_HOME$/Development/C#/Errgine/.idea/.idea.Errgine" value="true" />
+        <entry key="$USER_HOME$/Development/C#/Errgine/.idea/.idea.Errgine.dir" value="true" />
+        <entry key="$USER_HOME$/Development/C#/GtkTest" value="true" />
+        <entry key="$USER_HOME$/Development/C#/OpenTKLearnShite" value="true" />
+        <entry key="$USER_HOME$/Development/C#/OpenTKLearnShite/.idea/.idea.OpenTKLearnShite" value="true" />
         <entry key="$USER_HOME$/Development/C#/RayEngine" value="true" />
         <entry key="$USER_HOME$/Development/NdotProjects/SomeZombieShooter" value="true" />
         <entry key="$USER_HOME$/Development/NdotProjects/SomeZombieShooter/.idea/.idea.SomeSimpleZombieShooter5" value="true" />
         <entry key="$USER_HOME$/UnityProjects/AstroCraft" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/Music_Visualizer" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/Music_Visualizer/.idea/.idea.Music_Visualizer" value="true" />
         <entry key="$USER_HOME$/UnityProjects/SourceGame" value="true" />
         <entry key="$USER_HOME$/UnityProjects/SourceGame/.idea/.idea.SourceGame" value="true" />
       </map>

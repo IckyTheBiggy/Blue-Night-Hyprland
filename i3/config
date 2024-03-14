@@ -34,8 +34,9 @@ exec --no-startup-id nm-applety
 exec xrandr --output HDMI-0 --mode 1920x1080 --rate 74.97
 exec xinput --set-prop 20 'libinput Accel Profile Enabled' 0, 1
 
-exec setxkbmap -layout gb, de
+exec setxkbmap -layout us, de
 exec picom
+exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 exec steam
 exec flatpak run com.discordapp.Discord

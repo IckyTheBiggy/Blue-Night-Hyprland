@@ -1,1 +1,2 @@
+/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/Blend/Medkit.blend
 /home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/Blend/Zombie(Optimized).blend

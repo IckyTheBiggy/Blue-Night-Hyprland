@@ -1,0 +1,136 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240310_124506
+====================================================================================================
+
+0     |Info:    Found file: Main.orp attempting to validate header
+0     |Info:    Valid v4 profile found for Main
+1004  |Info:    ------------------------------------------------------
+1004  |Info:    |               Start device detection               |
+1004  |Info:    ------------------------------------------------------
+1004  |Info:    Initializing HID interfaces: Success
+1008  |Info:    ------------------------------------------------------
+1008  |Info:    |             Detecting I2C interfaces               |
+1008  |Info:    ------------------------------------------------------
+1008  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2482 Subsystem: 1043:880E
+1008  |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2482 Subsystem: 1043:880E
+1008  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:2482 Subsystem: 1043:880E
+1008  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2482 Subsystem: 1043:880E
+1008  |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2482 Subsystem: 1043:880E
+1009  |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:43A3 Subsystem: 1462:7D07
+1009  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2482 Subsystem: 1043:880E
+1009  |Info:    ------------------------------------------------------
+1009  |Info:    |               Detecting I2C devices                |
+1009  |Info:    ------------------------------------------------------
+1080  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1103  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1352  |Info:    ------------------------------------------------------
+1352  |Info:    |               Detecting I2C PCI devices            |
+1352  |Info:    ------------------------------------------------------
+1566  |Info:    [ASUS ROG STRIX 3070Ti O8G GAMING] Registering RGB controller
+1729  |Info:    ------------------------------------------------------
+1729  |Info:    |               Detecting HID devices                |
+1729  |Info:    ------------------------------------------------------
+1876  |Info:    [Corsair Commander Core] Registering RGB controller
+1948  |Info:    [MSI MPG Z590 GAMING EDGE WIFI (MS-7D07)] Registering RGB controller
+2336  |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+2346  |Info:    [Razer Goliathus] Registering RGB controller
+2346  |Info:    ------------------------------------------------------
+2346  |Info:    |            Detecting libusb HID devices            |
+2346  |Info:    ------------------------------------------------------
+2360  |Info:    [HyperX Quadcast S] Registering RGB controller
+2360  |Info:    ------------------------------------------------------
+2360  |Info:    |              Detecting other devices               |
+2360  |Info:    ------------------------------------------------------
+2365  |Info:    ------------------------------------------------------
+2365  |Info:    |                Detection completed                 |
+2365  |Info:    ------------------------------------------------------
+7603  |Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-0, address 0x59
+7603  |Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-0, address 0x5B
+7603  |Info:    Profile loading: Succeeded for ASUS ROG STRIX 3070Ti O8G GAMING @ I2C: /dev/i2c-1, address 0x67
+7603  |Info:    Profile loading: Succeeded for Corsair Commander Core @ HID: /dev/hidraw6
+7603  |Info:    Profile loading: Succeeded for MSI MPG Z590 GAMING EDGE WIFI (MS-7D07) @ HID: /dev/hidraw0
+7603  |Info:    Profile loading: Succeeded for G502 HERO Gaming Mouse @ HID: /dev/hidraw3 (Receiver) 
+Wireless Index: 255
+7603  |Info:    Profile loading: Succeeded for Razer Goliathus @ HID: /dev/hidraw4
+7603  |Info:    Profile loading: FAILED! for HyperX Quadcast S @ 1-12.1:1.0
+11892 |Info:    ------------------------------------------------------
+11892 |Info:    |               Start device detection               |
+11892 |Info:    ------------------------------------------------------
+11892 |Info:    Initializing HID interfaces: Success
+11895 |Info:    ------------------------------------------------------
+11895 |Info:    |             Detecting I2C interfaces               |
+11895 |Info:    ------------------------------------------------------
+11895 |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2482 Subsystem: 1043:880E
+11895 |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2482 Subsystem: 1043:880E
+11895 |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:2482 Subsystem: 1043:880E
+11895 |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2482 Subsystem: 1043:880E
+11895 |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2482 Subsystem: 1043:880E
+11895 |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:43A3 Subsystem: 1462:7D07
+11895 |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2482 Subsystem: 1043:880E
+11895 |Info:    ------------------------------------------------------
+11895 |Info:    |               Detecting I2C devices                |
+11895 |Info:    ------------------------------------------------------
+11966 |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+11988 |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+12240 |Info:    ------------------------------------------------------
+12240 |Info:    |               Detecting I2C PCI devices            |
+12240 |Info:    ------------------------------------------------------
+12506 |Info:    [ASUS ROG STRIX 3070Ti O8G GAMING] Registering RGB controller
+12665 |Info:    ------------------------------------------------------
+12665 |Info:    |               Detecting HID devices                |
+12665 |Info:    ------------------------------------------------------
+12772 |Info:    [Corsair Commander Core] Registering RGB controller
+12844 |Info:    [MSI MPG Z590 GAMING EDGE WIFI (MS-7D07)] Registering RGB controller
+13231 |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+13241 |Info:    [Razer Goliathus] Registering RGB controller
+13241 |Info:    ------------------------------------------------------
+13241 |Info:    |            Detecting libusb HID devices            |
+13241 |Info:    ------------------------------------------------------
+13250 |Info:    [HyperX Quadcast S] Registering RGB controller
+13250 |Info:    ------------------------------------------------------
+13250 |Info:    |              Detecting other devices               |
+13250 |Info:    ------------------------------------------------------
+13251 |Info:    ------------------------------------------------------
+13251 |Info:    |                Detection completed                 |
+13251 |Info:    ------------------------------------------------------
+15779 |Info:    ------------------------------------------------------
+15779 |Info:    |               Start device detection               |
+15779 |Info:    ------------------------------------------------------
+15779 |Info:    Initializing HID interfaces: Success
+15782 |Info:    ------------------------------------------------------
+15782 |Info:    |             Detecting I2C interfaces               |
+15782 |Info:    ------------------------------------------------------
+15782 |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:2482 Subsystem: 1043:880E
+15782 |Info:    Registering I2C interface: /dev/i2c-1 Device 10DE:2482 Subsystem: 1043:880E
+15782 |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:2482 Subsystem: 1043:880E
+15782 |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2482 Subsystem: 1043:880E
+15782 |Info:    Registering I2C interface: /dev/i2c-2 Device 10DE:2482 Subsystem: 1043:880E
+15782 |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:43A3 Subsystem: 1462:7D07
+15782 |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2482 Subsystem: 1043:880E
+15782 |Info:    ------------------------------------------------------
+15782 |Info:    |               Detecting I2C devices                |
+15782 |Info:    ------------------------------------------------------
+15852 |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+15875 |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+16125 |Info:    ------------------------------------------------------
+16125 |Info:    |               Detecting I2C PCI devices            |
+16125 |Info:    ------------------------------------------------------
+16391 |Info:    [ASUS ROG STRIX 3070Ti O8G GAMING] Registering RGB controller
+16551 |Info:    ------------------------------------------------------
+16551 |Info:    |               Detecting HID devices                |
+16551 |Info:    ------------------------------------------------------
+16661 |Info:    [Corsair Commander Core] Registering RGB controller
+16730 |Info:    [MSI MPG Z590 GAMING EDGE WIFI (MS-7D07)] Registering RGB controller
+17117 |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+17126 |Info:    [Razer Goliathus] Registering RGB controller
+17126 |Info:    ------------------------------------------------------
+17126 |Info:    |            Detecting libusb HID devices            |
+17126 |Info:    ------------------------------------------------------
+17136 |Info:    [HyperX Quadcast S] Registering RGB controller
+17136 |Info:    ------------------------------------------------------
+17136 |Info:    |              Detecting other devices               |
+17136 |Info:    ------------------------------------------------------
+17136 |Info:    ------------------------------------------------------
+17136 |Info:    |                Detection completed                 |
+17136 |Info:    ------------------------------------------------------

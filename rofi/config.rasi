@@ -12,7 +12,7 @@ configuration {
 }
 
 
-@theme "~/.config/rofi/themes/nord.rasi"
+@theme "~/.config/rofi/themes/bluenight.rasi"
 
 listview {
 	lines: 10;
