@@ -1,0 +1,134 @@
+First of all make sure you have all stuff related to virtualisation enabled in your BIOS and IOMMU aswell
+
+Arch linux and modprobe only
+In /etc/default/grub on the line
+add these at the start im not sure if it matters but just in case add the at the start and the rest of your stuff goes after
+also remove quite from it if you want to see more stuff on boot
+
+For INTEL CPUS
+GRUB_CMDLINE_LINUX_DEFAULT="intel_iommu=on iommu=pt"
+
+For AMD CPUS
+GRUB_CMDLINE_LINUX_DEFAULT="amd_iommu=on iommu=pt" 
+
+Then you want to do to your /etc/mkinitcpio.conf and in MODULES add thse
+vfio_pci vfio vfio_iommu_type1
+ 
+and the rest of your stuff goes after make sure they go first before all of the other stuff thats important
+also double check that in your HOOKS you have
+
+ modconf if its not there add it 
+
+
+Now make the virtual machine and when you make it you want to set
+
+Display to VNC if it doesnt let you cause of spice edit the XML and remove the graphics and audio spice and apply and re add it
+Set the Adress to all interfaces and apply
+
+Set the Video to QXL
+Remove the USB Redirection hardware devices
+
+And add a new storage device thats a disk device and set its bus type to VirtIO and make its size 0.1GiB
+
+Now go to https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md and download the
+STABLE iso once you do that
+
+Add another storage device this time its a type CDROM and then select custom storage and locate the ISO and finish that aswell
+
+Now boot the virtual machine if everything went fine it should boot and have all of the storage devices added to it click the
+virtio drive and install the drivers once you install them poweroff your virtual machine
+
+Now go back into settings and remove the CDROM device and the small VirtIO drive you made
+then go to your main storage device and change its bus type to VirtIO aswell
+
+VIRTUALMACHINENAME = The name of the virtual machine you made in virt manager
+
+Install VNC Client on different PC such as tiger VNC
+
+Run lspci -nnk and get the numbers from your gpus you will see next to your GPU VGA compatible controller 01:00:0 or something
+like that copy that and put it in here
+
+where the 01_00_0 start the 0000 should stay there
+
+so if your number was 01:00:4
+you would do pci_0000_01_00_4
+
+on virsh nodedev-detach pci_0000_01_00_0
+
+then the next one you want to do your audio controller for nvidia
+remember to do it in that order beacause on the revert.sh you wanna do the reverse of that
+so if
+
+your gpu is 0000_01_00_4
+and your audio controller is 0000_01_00_5
+in your start.sh
+
+in the revert.sh the first one would be
+your audio controller so 0000_01_00_5
+and then your gpu second so 0000_01_00_4
+
+
+Hooks
+
+Make start.sh in /etc/libvrt/hooks/qemu.d/VIRTUALMACHINENAME/prepare/begin/
+
+start.sh
+
+!/bin/bash
+# Helpful to read output when debugging
+set -x
+
+# Stop display manager
+systemctl stop display-manager.service
+## Uncomment the following line if you use GDM
+#killall gdm-x-session
+sudo rmmod nvidia-drm
+sudo rmmod nvidia_uvm
+sudo rmmod nvidia_modeset
+sudo rmmod nvidia
+
+# Unbind VTconsoles
+echo 0 > /sys/class/vtconsole/vtcon0/bind
+echo 0 > /sys/class/vtconsole/vtcon1/bind
+
+# Unbind EFI-Framebuffer
+echo efi-framebuffer.0 > /sys/bus/platform/drivers/efi-framebuffer/unbind
+
+# Avoid a Race condition by waiting 2 seconds. This can be calibrated to be shorter or longer if required for your system
+sleep 2
+
+# Unbind the GPU from display driver
+virsh nodedev-detach pci_0000_01_00_0
+virsh nodedev-detach pci_0000_01_00_1
+
+# Load VFIO Kernel Module
+modprobe vfio-pci
+
+Make revert.sh in /etc/libvirt/hooks/qemu.d/VIRTUALMACHINENAME/release/end/revert.sh
+
+revert.sh
+
+#!/bin/bash
+set -x
+
+# Re-Bind GPU to Nvidia Driver
+virsh nodedev-reattach pci_0000_01_00_1
+virsh nodedev-reattach pci_0000_01_00_0
+
+# Reload nvidia modules
+modprobe nvidia
+modprobe nvidia_modeset
+modprobe nvidia_uvm
+modprobe nvidia_drm
+
+# Rebind VT consoles
+echo 1 > /sys/class/vtconsole/vtcon0/bind
+# Some machines might have more than 1 virtual console. Add a line for each corresponding VTConsole
+#echo 1 > /sys/class/vtconsole/vtcon1/bind
+
+nvidia-xconfig --query-gpu-info > /dev/null 2>&1
+echo "efi-framebuffer.0" > /sys/bus/platform/drivers/efi-framebuffer/bind
+
+# Restart Display Manager
+systemctl start display-manager.service
+

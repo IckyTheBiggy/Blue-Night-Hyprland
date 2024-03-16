@@ -1,0 +1,59 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240315_172706
+====================================================================================================
+
+0     |Info:    Found file: Main.orp attempting to validate header
+1     |Info:    Valid v4 profile found for Main
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |               Start device detection               |
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    Initializing HID interfaces: Success
+1009  |Info:    ------------------------------------------------------
+1009  |Info:    |             Detecting I2C interfaces               |
+1009  |Info:    ------------------------------------------------------
+1009  |Info:    Registering I2C interface: /dev/i2c-3 Device 8086:4C8A Subsystem: 1462:7D07
+1009  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1009  |Info:    Registering I2C interface: /dev/i2c-10 Device 0000:0000 Subsystem: 0000:0000
+1009  |Info:    Registering I2C interface: /dev/i2c-1 Device 8086:4C8A Subsystem: 1462:7D07
+1009  |Info:    Registering I2C interface: /dev/i2c-8 Device 8086:4C8A Subsystem: 1462:7D07
+1009  |Info:    Registering I2C interface: /dev/i2c-6 Device 8086:4C8A Subsystem: 1462:7D07
+1010  |Info:    Registering I2C interface: /dev/i2c-4 Device 8086:4C8A Subsystem: 1462:7D07
+1010  |Info:    Registering I2C interface: /dev/i2c-2 Device 8086:4C8A Subsystem: 1462:7D07
+1010  |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:43A3 Subsystem: 1462:7D07
+1010  |Info:    Registering I2C interface: /dev/i2c-9 Device 8086:4C8A Subsystem: 1462:7D07
+1010  |Info:    Registering I2C interface: /dev/i2c-7 Device 8086:4C8A Subsystem: 1462:7D07
+1010  |Info:    Registering I2C interface: /dev/i2c-5 Device 8086:4C8A Subsystem: 1462:7D07
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    |               Detecting I2C devices                |
+1010  |Info:    ------------------------------------------------------
+1414  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1437  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1687  |Info:    ------------------------------------------------------
+1687  |Info:    |               Detecting I2C PCI devices            |
+1687  |Info:    ------------------------------------------------------
+1687  |Info:    ------------------------------------------------------
+1687  |Info:    |               Detecting HID devices                |
+1687  |Info:    ------------------------------------------------------
+1795  |Info:    [Corsair Commander Core] Registering RGB controller
+1871  |Info:    [MSI MPG Z590 GAMING EDGE WIFI (MS-7D07)] Registering RGB controller
+2258  |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+2269  |Info:    [Razer Goliathus] Registering RGB controller
+2269  |Info:    ------------------------------------------------------
+2269  |Info:    |            Detecting libusb HID devices            |
+2269  |Info:    ------------------------------------------------------
+2283  |Info:    [HyperX Quadcast S] Registering RGB controller
+2283  |Info:    ------------------------------------------------------
+2283  |Info:    |              Detecting other devices               |
+2283  |Info:    ------------------------------------------------------
+2288  |Info:    ------------------------------------------------------
+2288  |Info:    |                Detection completed                 |
+2288  |Info:    ------------------------------------------------------
+3666  |Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-0, address 0x59
+3666  |Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-0, address 0x5B
+3666  |Info:    Profile loading: Succeeded for Corsair Commander Core @ HID: /dev/hidraw5
+3666  |Info:    Profile loading: Succeeded for MSI MPG Z590 GAMING EDGE WIFI (MS-7D07) @ HID: /dev/hidraw0
+3666  |Info:    Profile loading: Succeeded for G502 HERO Gaming Mouse @ HID: /dev/hidraw3 (Receiver) 
+Wireless Index: 255
+3666  |Info:    Profile loading: Succeeded for Razer Goliathus @ HID: /dev/hidraw8
+3666  |Info:    Profile loading: FAILED! for HyperX Quadcast S @ 1-12.1:1.0
