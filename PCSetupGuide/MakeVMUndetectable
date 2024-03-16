@@ -1,10 +1,16 @@
 This XML Config does the following
 
-Makes you smbios use the sysinfo you put here replace the UUID on the sys info and the virtual machine UUID with your virtual machine UUID which can be found in details and overview section in virt manager
+Makes your smbios mode use sysinfo which is set in the sysinfo field
+
+To use this config replace both of the UUIDs in <uuid>YourVMUUID</uuid> and the one in <entry name="uuid">YourVMUUID</entry> with your UUID
+
+To find your Virtual Machines UUID you can go open the virtual machine the show virtual machine details and the in the overview tab details you should see
+under the Name the UUID copy that and patse it in those fields
+
 
 <domain type="kvm">
   <name>win10</name>
-  <uuid>6014a275-50aa-4f92-b559-d365a7ae1a90</uuid>
+  <uuid>YourVMUUID</uuid>
   <metadata>
     <libosinfo:libosinfo xmlns:libosinfo="http://libosinfo.org/xmlns/libvirt/domain/1.0">
       <libosinfo:os id="http://microsoft.com/win/10"/>
@@ -24,7 +30,7 @@ Makes you smbios use the sysinfo you put here replace the UUID on the sys info a
       <entry name="product">ROG STRIX X570-F GAMING</entry>
       <entry name="version">x.0x</entry>
       <entry name="serial">xxxxxxxxxx</entry>
-      <entry name="uuid">6014a275-50aa-4f92-b559-d365a7ae1a90</entry>
+      <entry name="uuid">YourVMUUID</entry>
       <entry name="sku">SKU</entry>
       <entry name="family">X570 MB</entry>
     </system>
