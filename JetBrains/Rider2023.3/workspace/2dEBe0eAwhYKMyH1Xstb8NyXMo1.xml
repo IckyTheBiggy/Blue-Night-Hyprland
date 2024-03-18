@@ -11,16 +11,16 @@
       <file>
         <entry file="file://$PROJECT_DIR$/PlayerMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+            <state relative-caret-position="624">
+              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
               <folding>
-                <marker date="1709659636811" expanded="true" signature="67:2005" ph="{...}" />
-                <marker date="1709659636811" expanded="true" signature="626:682" ph="{...}" />
-                <marker date="1709659636811" expanded="true" signature="735:1520" ph="{...}" />
-                <marker date="1709659636811" expanded="true" signature="1247:1331" ph="{...}" />
-                <marker date="1709659636811" expanded="true" signature="1339:1475" ph="{...}" />
-                <marker date="1709659636811" expanded="true" signature="1568:2003" ph="{...}" />
-                <marker date="1709659636811" expanded="true" signature="1616:2000" ph="{...}" />
+                <marker date="1710791008369" expanded="true" signature="67:2001" ph="{...}" />
+                <marker date="1710791008369" expanded="true" signature="622:678" ph="{...}" />
+                <marker date="1710791008369" expanded="true" signature="731:1516" ph="{...}" />
+                <marker date="1710791008369" expanded="true" signature="1243:1327" ph="{...}" />
+                <marker date="1710791008369" expanded="true" signature="1335:1471" ph="{...}" />
+                <marker date="1710791008369" expanded="true" signature="1564:1999" ph="{...}" />
+                <marker date="1710791008369" expanded="true" signature="1612:1996" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -30,7 +30,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="C#">
-      <summary usageCount="4" lastUsed="1709658763818" />
+      <summary usageCount="6" lastUsed="1710791551676" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
@@ -47,7 +47,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="C#">
-      <summary usageCount="4" lastUsage="1709658763819" />
+      <summary usageCount="6" lastUsage="1710791551678" />
     </language>
   </component>
   <component name="ProjectView">
@@ -99,7 +99,7 @@
         </entry>
         <entry key="Build">
           <value>
-            <window_info anchor="bottom" id="Build" show_stripe_button="false" />
+            <window_info anchor="bottom" id="Build" weight="0.4137765" />
           </value>
         </entry>
         <entry key="Commit">
@@ -164,7 +164,7 @@
         </entry>
         <entry key="NuGet">
           <value>
-            <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
+            <window_info anchor="bottom" id="NuGet" weight="0.41351604" />
           </value>
         </entry>
         <entry key="Problems">
@@ -174,12 +174,12 @@
         </entry>
         <entry key="Problems View">
           <value>
-            <window_info anchor="bottom" id="Problems View" order="2" weight="0.33034027" />
+            <window_info anchor="bottom" id="Problems View" order="2" weight="0.38687152" />
           </value>
         </entry>
         <entry key="Project">
           <value>
-            <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+            <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23083067" />
           </value>
         </entry>
         <entry key="Pull Requests">
@@ -189,12 +189,12 @@
         </entry>
         <entry key="Run">
           <value>
-            <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.33034027" />
+            <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" visible="true" weight="0.084296726" />
           </value>
         </entry>
         <entry key="Services">
           <value>
-            <window_info anchor="bottom" id="Services" order="4" />
+            <window_info anchor="bottom" id="Services" order="4" weight="0.38687152" />
           </value>
         </entry>
         <entry key="Space Code Reviews">
@@ -214,7 +214,7 @@
         </entry>
         <entry key="Terminal">
           <value>
-            <window_info anchor="bottom" id="Terminal" order="3" />
+            <window_info anchor="bottom" id="Terminal" order="3" weight="0.38687152" />
           </value>
         </entry>
         <entry key="TypeScript">
@@ -239,7 +239,12 @@
         </entry>
         <entry key="Version Control">
           <value>
-            <window_info anchor="bottom" id="Version Control" order="0" />
+            <window_info anchor="bottom" id="Version Control" order="0" weight="0.38687152" />
+          </value>
+        </entry>
+        <entry key="documentation.v2">
+          <value>
+            <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
           </value>
         </entry>
         <entry key="dotMemory Profiler">
@@ -256,7 +261,7 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7396000" />
+    <option name="totallyTimeSpent" value="8125000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -274,35 +279,36 @@
       <window_info id="Merge Requests" show_stripe_button="false" />
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23083067" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.4137765" />
       <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
       <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
-      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NuGet" weight="0.41351604" />
       <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.38687152" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33034027" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.33034027" />
-      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.38687152" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.38687152" />
+      <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" visible="true" weight="0.084296726" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.38687152" />
       <window_info anchor="bottom" id="Unity" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" id="Notifications" order="0" weight="0.33008432" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.33008432" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.33034027" left="0.25" right="0.33008432" />
+      <unified_weights bottom="0.084296726" left="0.23083067" right="0.33008432" />
     </layoutV2>
   </component>
   <component name="WindowStateProjectService">
@@ -318,16 +324,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PlayerMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        <state relative-caret-position="624">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
           <folding>
-            <marker date="1709659636811" expanded="true" signature="67:2005" ph="{...}" />
-            <marker date="1709659636811" expanded="true" signature="626:682" ph="{...}" />
-            <marker date="1709659636811" expanded="true" signature="735:1520" ph="{...}" />
-            <marker date="1709659636811" expanded="true" signature="1247:1331" ph="{...}" />
-            <marker date="1709659636811" expanded="true" signature="1339:1475" ph="{...}" />
-            <marker date="1709659636811" expanded="true" signature="1568:2003" ph="{...}" />
-            <marker date="1709659636811" expanded="true" signature="1616:2000" ph="{...}" />
+            <marker date="1710791008369" expanded="true" signature="67:2001" ph="{...}" />
+            <marker date="1710791008369" expanded="true" signature="622:678" ph="{...}" />
+            <marker date="1710791008369" expanded="true" signature="731:1516" ph="{...}" />
+            <marker date="1710791008369" expanded="true" signature="1243:1327" ph="{...}" />
+            <marker date="1710791008369" expanded="true" signature="1335:1471" ph="{...}" />
+            <marker date="1710791008369" expanded="true" signature="1564:1999" ph="{...}" />
+            <marker date="1710791008369" expanded="true" signature="1612:1996" ph="{...}" />
           </folding>
         </state>
       </provider>
