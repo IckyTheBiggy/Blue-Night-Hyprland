@@ -29,7 +29,7 @@
           "order": 0,
           "contentUiType": "COMBO",
           "isVisible": true,
-          "weight": 0.23083067
+          "weight": 0.14829606
         },
         {
           "id": "Commit",
@@ -116,6 +116,12 @@
           "weight": 0.38687152
         },
         {
+          "id": "Debug",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.084296726
+        },
+        {
           "id": "Run",
           "order": 4,
           "anchor": "BOTTOM",
@@ -193,7 +199,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.23083067,
+        "left": 0.14829606,
         "bottom": 0.084296726,
         "right": 0.33008432
       }

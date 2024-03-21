@@ -10,5 +10,16 @@
 0 Idle
   Running
   MetaRig
-Generate ▸ Remesh
+   Chaingun_Texture
+   PlasmaGun_Texture
+   Shotgun_Texture
+   Pistol_Texture
+   Imp_Texture
+   Cacodemon_Texture
+Gradient Texture ▸Fac
+Input ▸ Color Attribute
 Generate ▸ Decimate
+Texture ▸ Environment Texture
+Generate ▸ Remesh
+Texture ▸ Image Texture
+Shader ▸ Emission

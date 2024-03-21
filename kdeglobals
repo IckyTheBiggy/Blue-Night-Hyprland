@@ -5,6 +5,9 @@ update_info=filepicker.upd:filepicker-remove-old-previews-entry
 BackgroundAlternate=#65b3e2
 BackgroundNormal=#101b24
 
+[KDE]
+ShowDeleteCommand=false
+
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
@@ -24,3 +27,6 @@ Sort hidden files last=false
 Sort reversed=false
 Speedbar Width=172
 View Style=DetailTree
+
+[PreviewSettings]
+MaximumRemoteSize=0

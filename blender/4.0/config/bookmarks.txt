@@ -1,7 +1,12 @@
 [Bookmarks]
 [Recent]
-/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/FBX/
-/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/Blend/
-/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/SourceFiles/Medkit/medkit/source/
-/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/SourceFiles/Medkit/medkit/medkit/source/
-/home/bnn/UnityProjects/AstroCraft/Assets/Models/
+/home/bnn/.config/blender/Scripts/
+/home/bnn/GameDevStuff/DoomRemakeAssets/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/rank-3-police-unit/source/r3pu/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/doom-eternal-crucible/source/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/Keycard/simple-keycard/source/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/Keycard/source/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/Key/door-key/source/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/Cacodemon/doom-eternal-cacodemon/source/
+/home/bnn/Downloads/
+/home/bnn/GameDevStuff/DoomRemakeAssets/FBXFiles/Shotgun/

@@ -1,20 +1,143 @@
-
 configuration {
-    font: "CaskaydiaCoveNerdFont-Regular 16";
+    font: "Iosevka Nerd Font 14";
     line-margin: 10;
 
     display-ssh:    "";
     display-run:    "";
-    display-drun:   "";
+    display-drun:   "";
     display-window: "";
     display-combi:  "";
     show-icons:     true;
+    icon-theme: "Papirus";
 }
 
 
-@theme "~/.config/rofi/themes/bluenight.rasi"
+@theme "/dev/null"
 
 listview {
 	lines: 10;
 	columns: 1;
+}
+
+
+
+* {
+	color0: #2e3440;
+	color1: #3b4252;
+	color2: #434c5e;
+	color3: #101b24;
+
+	color4: #d8dee9;
+	color5: #e5e9f0;
+	color6: #eceff4;
+
+	color7: #8fbcbb;
+	color8: #88c0d0;
+	color9: #81a1c1;
+	color10: #65b3e2;
+	color11: #bf616a;
+
+	color12: #d08770;
+	color13: #ebcb8b;
+	color14: #a3be8c;
+	color15: #b48ead;
+
+    foreground: #65b3e2;
+    backlight: @color8;
+    background-color: transparent;
+    transparency: "real";
+    highlight:     underline bold #a3be8c;
+}
+
+window {
+    location: center;
+    anchor: center;
+	width: 100%;
+	height: 100%;
+    border: 30% 35% 35% 35%;
+    border-radius: 10px;
+    background-color:transparent; 
+    spacing: 0;
+    children:  [mainbox];
+    orientation: horizontal;
+}
+
+mainbox {
+    spacing: 0;
+    children: [ inputbar, message, listview ];
+}
+
+message {
+    color: @color0;
+    padding: 5;
+    border-color: @foreground;
+    border:  0px 2px 2px 2px;
+    background-color: @color7;
+}
+
+inputbar {
+    color: #65b3e2;
+    padding: 16px;
+    background-color: rgba(16,27,36,0.6);
+
+    border: 3px;
+    border-radius:  0px 0px 0px 0px;
+    border-color: @color10;
+}
+
+entry, prompt, case-indicator {
+    text-font: inherit;
+    text-color:inherit;
+}
+
+prompt {
+    margin: 0px 1em 0em 0em ;
+}
+
+listview {
+    padding: 0px;
+    border-radius: 0px 0px 0px 0px;
+    border-color: @color10;
+    border: 0px 3px 3px 3px;
+    background-color: rgba(16,27,36,0.6);
+    dynamic: false;
+}
+
+element {
+    padding: 15px 25px 15px 6px;
+    vertical-align: 0.5;
+    border-radius: 0px;
+    background-color: transparent;
+    color: @foreground;
+    text-color: @color8;
+}
+
+element-icon{
+	size: 1em;
+	padding: 0px 25px 0px 0px;
+}
+
+element selected.normal {
+	background-color: @color3;
+	text-color: @color13;
+}
+
+element-text, element-icon {
+    background-color: inherit;
+    text-color:       inherit;
+}
+
+button {
+    padding: 6px;
+    color: @foreground;
+    horizontal-align: 0.5;
+
+    border: 2px 0px 2px 2px;
+    border-radius: 4px 0px 0px 4px;
+    border-color: @foreground;
+}
+
+button selected normal {
+    border: 2px 0px 2px 2px;
+    border-color: @foreground;
 }
