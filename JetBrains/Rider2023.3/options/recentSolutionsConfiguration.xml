@@ -44,6 +44,14 @@
             </ConfigurationInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/C#/Raygine/Raygine.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Development/NdotProjects/SomeZombieShooter/SomeSimpleZombieShooter5.sln">
           <value>
             <ConfigurationInfo>
@@ -69,6 +77,14 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/UnityProjects/Music_Visualizer/Music_Visualizer.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/UnityProjects/PortalShift/Project/Unity/PortalShift/PortalShift.sln">
           <value>
             <ConfigurationInfo>
               <option name="activeConfiguration" value="Debug" />

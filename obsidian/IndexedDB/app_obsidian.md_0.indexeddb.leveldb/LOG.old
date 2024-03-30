@@ -1,3 +1,3 @@
-2024/03/21-04:21:06.908 cc40 Reusing MANIFEST /home/bnn/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/21-04:21:06.908 cc40 Recovering log #3
-2024/03/21-04:21:06.939 cc40 Reusing old log /home/bnn/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2024/03/21-04:21:09.650 cd10 Reusing MANIFEST /home/bnn/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/21-04:21:09.650 cd10 Recovering log #3
+2024/03/21-04:21:09.680 cd10 Reusing old log /home/bnn/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 

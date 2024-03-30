@@ -179,9 +179,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/UnityProjects/PortalShift/Project/Unity/PortalShift/PortalShift.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PortalShift – PlaceableObjectScript.cs" opened="true" projectWorkspaceId="2eE6m433jdErZVnCddPWyATNVAV">
+              <option name="activationTimestamp" value="1711622881379" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-233.14015.60" />
+              <option name="buildTimestamp" value="1705611180000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="18" y="-1" width="1884" height="1063" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1711611443964" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/C#/Raygine/Raygine.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Raygine – App.cs" opened="true" projectWorkspaceId="2eP8i68nGoHRnE2w2NSxW4Ddui8">
+              <option name="activationTimestamp" value="1711803016285" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-233.14015.60" />
+              <option name="buildTimestamp" value="1705611180000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="18" y="-1" width="1884" height="1063" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1711794976660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/UnityProjects/DoomRemake/DoomRemake.sln" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/C#/Raygine/Raygine.sln" />
     <option name="lastProjectLocation" value="$USER_HOME$/Development/C#" />
   </component>
 </application>

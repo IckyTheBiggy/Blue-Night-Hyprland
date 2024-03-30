@@ -1,0 +1,267 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Raygine" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Raygine/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <marker date="1711796427551" expanded="true" signature="6:54" ph="..." />
+                <marker date="1711796427551" expanded="true" signature="73:1397" ph="{...}" />
+                <marker date="1711796427551" expanded="true" signature="93:1395" ph="{...}" />
+                <marker date="1711796427551" expanded="true" signature="129:251" ph="{...}" />
+                <marker date="1711796427551" expanded="true" signature="291:411" ph="{...}" />
+                <marker date="1711796427551" expanded="true" signature="460:1389" ph="{...}" />
+                <marker date="1711796427551" expanded="true" signature="1081:1332" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Raygine/App.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding>
+                <marker date="1711796749629" expanded="true" signature="35:81" ph="{...}" />
+                <marker date="1711796749629" expanded="true" signature="58:79" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Raygine/Renderer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <folding>
+                <marker date="1711796092359" expanded="true" signature="44:157" ph="{...}" />
+                <marker date="1711796092359" expanded="true" signature="72:155" ph="{...}" />
+                <marker date="1711796092359" expanded="true" signature="107:140" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Raygine/GameObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding>
+                <marker date="1711796324154" expanded="true" signature="35:223" ph="{...}" />
+                <marker date="1711796324154" expanded="true" signature="65:221" ph="{...}" />
+                <marker date="1711796324154" expanded="true" signature="155:215" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="5" lastUsed="1711796678074" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Raygine/Renderer.cs" />
+      <option value="$PROJECT_DIR$/Raygine/GameObject.cs" />
+      <option value="$PROJECT_DIR$/Raygine/Program.cs" />
+      <option value="$PROJECT_DIR$/Raygine/App.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Raygine/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="5" lastUsage="1711796678074" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Raygine" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Raygine" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Raygine" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Raygine" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Raygine" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.Raygine" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2424000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14829606" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.4137765" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NuGet" weight="0.16329479" />
+      <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.38687152" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.38687152" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.38687152" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.084296726" />
+      <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" show_stripe_button="false" weight="0.17196532" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.38687152" />
+      <window_info anchor="bottom" id="Unity" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33008432" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33008432" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.17196532" left="0.14829606" right="0.33008432" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>NuGet</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1796" height="136" key="GridCell.Tab.0.bottom" timestamp="1711803017797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1796" height="136" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1711803017797" />
+    <state width="1796" height="136" key="GridCell.Tab.0.center" timestamp="1711803017797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1796" height="136" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1711803017797" />
+    <state width="1796" height="136" key="GridCell.Tab.0.left" timestamp="1711803017797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1796" height="136" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1711803017797" />
+    <state width="1796" height="136" key="GridCell.Tab.0.right" timestamp="1711803017797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1796" height="136" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1711803017797" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Raygine/Renderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <marker date="1711796092359" expanded="true" signature="44:157" ph="{...}" />
+            <marker date="1711796092359" expanded="true" signature="72:155" ph="{...}" />
+            <marker date="1711796092359" expanded="true" signature="107:140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Raygine/GameObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1711796324154" expanded="true" signature="35:223" ph="{...}" />
+            <marker date="1711796324154" expanded="true" signature="65:221" ph="{...}" />
+            <marker date="1711796324154" expanded="true" signature="155:215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Raygine/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <marker date="1711796427551" expanded="true" signature="6:54" ph="..." />
+            <marker date="1711796427551" expanded="true" signature="73:1397" ph="{...}" />
+            <marker date="1711796427551" expanded="true" signature="93:1395" ph="{...}" />
+            <marker date="1711796427551" expanded="true" signature="129:251" ph="{...}" />
+            <marker date="1711796427551" expanded="true" signature="291:411" ph="{...}" />
+            <marker date="1711796427551" expanded="true" signature="460:1389" ph="{...}" />
+            <marker date="1711796427551" expanded="true" signature="1081:1332" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Raygine/App.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <marker date="1711796749629" expanded="true" signature="35:81" ph="{...}" />
+            <marker date="1711796749629" expanded="true" signature="58:79" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+[Bookmarks]
+[Recent]
+/home/bnn/MyPrintableModels/
+/home/bnn/Downloads/
+/home/bnn/.config/blender/Scripts/
+/home/bnn/GameDevStuff/DoomRemakeAssets/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/rank-3-police-unit/source/r3pu/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/doom-eternal-crucible/source/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/Keycard/simple-keycard/source/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/Keycard/source/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/Key/door-key/source/
+/home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/Cacodemon/doom-eternal-cacodemon/source/

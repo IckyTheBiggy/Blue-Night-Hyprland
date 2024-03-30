@@ -85,7 +85,7 @@
         {
           "id": "NuGet",
           "anchor": "BOTTOM",
-          "weight": 0.41351604
+          "weight": 0.16329479
         },
         {
           "id": "dotMemory Profiler",
@@ -132,7 +132,7 @@
             75
           ],
           "isVisible": true,
-          "weight": 0.084296726
+          "weight": 0.17196532
         },
         {
           "id": "Services",
@@ -195,12 +195,18 @@
           "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
+        },
+        {
+          "id": "Coverage",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.14829606,
-        "bottom": 0.084296726,
+        "bottom": 0.17196532,
         "right": 0.33008432
       }
     }

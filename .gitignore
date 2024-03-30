@@ -2,6 +2,8 @@
 !/.git
 !/.gitignore
 !/awesome/
+!/alacritty/
+!/audacity/
 !/background.jpg
 !/blender/
 !/btop/
@@ -19,8 +21,10 @@
 !/inkscape/
 !/JetBrains/
 !/kdeglobals
+!/kdeconnect/
 !/kdenlive-layoutsrc
 !/kdenliverc
+!/kwalletrc
 !/kitty/
 !/kritadisplayrc
 !/kritarc

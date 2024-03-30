@@ -1,9 +1,9 @@
 <application>
   <component name="DimensionService">
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1796" height="45" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1796" height="45" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1796" height="45" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1796" height="45" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1796" height="136" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1796" height="136" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1796" height="136" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1796" height="136" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1796" height="45" />
     <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1796" height="45" />
     <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1796" height="45" />
@@ -29,13 +29,13 @@
     <frame x="18" y="-1" width="1884" height="1063" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="743" y="287" width="452" height="477" key="FileChooserDialogImpl" timestamp="1710810085542">
+    <state x="743" y="287" width="452" height="477" key="FileChooserDialogImpl" timestamp="1711453072626">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="743" y="287" width="452" height="477" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1710810085542" />
-    <state x="960" y="530" width="1884" height="1063" key="WELCOME_SCREEN" timestamp="1710987789717">
+    <state x="743" y="287" width="452" height="477" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1711453072626" />
+    <state x="482" y="530" width="948" height="1083" key="WELCOME_SCREEN" timestamp="1711794975914">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="960" y="530" width="1884" height="1063" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1710987789717" />
+    <state x="482" y="530" width="948" height="1083" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1711794975914" />
   </component>
 </application>
