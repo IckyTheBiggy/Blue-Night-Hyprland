@@ -2,4 +2,6 @@
   Cube.001
   Cylinder.001
    Holes
+   Batteries
+Generate ▸ Solidify
 Generate ▸ Boolean

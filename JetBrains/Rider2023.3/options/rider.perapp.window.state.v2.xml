@@ -29,7 +29,7 @@
           "order": 0,
           "contentUiType": "COMBO",
           "isVisible": true,
-          "weight": 0.14829606
+          "weight": 0.12931034
         },
         {
           "id": "Commit",
@@ -132,7 +132,7 @@
             75
           ],
           "isVisible": true,
-          "weight": 0.17196532
+          "weight": 0.16907515
         },
         {
           "id": "Services",
@@ -205,8 +205,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.14829606,
-        "bottom": 0.17196532,
+        "left": 0.12931034,
+        "bottom": 0.16907515,
         "right": 0.33008432
       }
     }

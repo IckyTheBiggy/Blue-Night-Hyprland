@@ -84,7 +84,7 @@
         </entry>
         <entry key="$USER_HOME$/Development/C#/OpenTKLearnShite/OpenTKLearnShite.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="OpenTKLearnShite – App.cs" opened="true" projectWorkspaceId="2cCyvAZNL5UmdYO6BpFrTNCwFFR">
+            <RecentProjectMetaInfo frameTitle="OpenTKLearnShite – App.cs" projectWorkspaceId="2cCyvAZNL5UmdYO6BpFrTNCwFFR">
               <option name="activationTimestamp" value="1709917441744" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-233.14015.60" />
@@ -100,7 +100,7 @@
         </entry>
         <entry key="$USER_HOME$/UnityProjects/Music_Visualizer/Music_Visualizer.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="~/UnityProjects/Music_Visualizer/Assets/ConfigInitializer.cs" opened="true" projectWorkspaceId="2dPlCMMJoaBJutKHrZmAWReXMOX">
+            <RecentProjectMetaInfo frameTitle="~/UnityProjects/Music_Visualizer/Assets/ConfigInitializer.cs" projectWorkspaceId="2dPlCMMJoaBJutKHrZmAWReXMOX">
               <option name="activationTimestamp" value="1710032372146" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-233.14015.60" />
@@ -116,7 +116,7 @@
         </entry>
         <entry key="$USER_HOME$/UnityProjects/SourceGame/SourceGame.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="SourceGame – MedkitScript.cs" opened="true" projectWorkspaceId="2dQgNJZ1oDgb5KSoZuuSDGIAhZJ">
+            <RecentProjectMetaInfo frameTitle="SourceGame – MedkitScript.cs" projectWorkspaceId="2dQgNJZ1oDgb5KSoZuuSDGIAhZJ">
               <option name="activationTimestamp" value="1710736508309" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-233.14015.60" />
@@ -132,7 +132,7 @@
         </entry>
         <entry key="$USER_HOME$/Development/NdotProjects/SomeZombieShooter/SomeSimpleZombieShooter5.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="SomeSimpleZombieShooter5 – PlayerMovement.cs" opened="true" projectWorkspaceId="2dEBe0eAwhYKMyH1Xstb8NyXMo1">
+            <RecentProjectMetaInfo frameTitle="SomeSimpleZombieShooter5 – PlayerMovement.cs" projectWorkspaceId="2dEBe0eAwhYKMyH1Xstb8NyXMo1">
               <option name="activationTimestamp" value="1710791560276" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-233.14015.60" />
@@ -146,26 +146,9 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Development/C#/Errgine/Errgine.csproj">
-          <value>
-            <RecentProjectMetaInfo displayName="Errgine" frameTitle="Errgine – GameObject.cs" opened="true" projectWorkspaceId="2dI3dOQbaDmno481h0ym4ZNseXV">
-              <option name="activationTimestamp" value="1710982144637" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="RD-233.14015.60" />
-              <option name="buildTimestamp" value="1705611180000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="18" y="-1" width="1884" height="1063" />
-              <option name="metadata" value="Errgine|/home/bnn/Development/C#/Errgine/Errgine.csproj" />
-              <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1710980266927" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/UnityProjects/DoomRemake/DoomRemake.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="DoomRemake – EnemyScript.cs" opened="true" projectWorkspaceId="2dswRbN90dTtfE571NZpF7I1AoN">
+            <RecentProjectMetaInfo frameTitle="DoomRemake – EnemyScript.cs" projectWorkspaceId="2dswRbN90dTtfE571NZpF7I1AoN">
               <option name="activationTimestamp" value="1711003627936" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-233.14015.60" />
@@ -181,7 +164,7 @@
         </entry>
         <entry key="$USER_HOME$/UnityProjects/PortalShift/Project/Unity/PortalShift/PortalShift.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="PortalShift – PlaceableObjectScript.cs" opened="true" projectWorkspaceId="2eE6m433jdErZVnCddPWyATNVAV">
+            <RecentProjectMetaInfo frameTitle="PortalShift – PlaceableObjectScript.cs" projectWorkspaceId="2eE6m433jdErZVnCddPWyATNVAV">
               <option name="activationTimestamp" value="1711622881379" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-233.14015.60" />
@@ -197,8 +180,8 @@
         </entry>
         <entry key="$USER_HOME$/Development/C#/Raygine/Raygine.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="Raygine – App.cs" opened="true" projectWorkspaceId="2eP8i68nGoHRnE2w2NSxW4Ddui8">
-              <option name="activationTimestamp" value="1711803016285" />
+            <RecentProjectMetaInfo frameTitle="Raygine – GameObject.cs" projectWorkspaceId="2eP8i68nGoHRnE2w2NSxW4Ddui8">
+              <option name="activationTimestamp" value="1712069992024" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-233.14015.60" />
               <option name="buildTimestamp" value="1705611180000" />
@@ -207,13 +190,30 @@
               </option>
               <frame x="18" y="-1" width="1884" height="1063" />
               <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1711794976660" />
+              <option name="projectOpenTimestamp" value="1712068406414" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/C#/Errgine/Errgine.csproj">
+          <value>
+            <RecentProjectMetaInfo displayName="Errgine" frameTitle="Errgine – GameObject.cs" opened="true" projectWorkspaceId="2dI3dOQbaDmno481h0ym4ZNseXV">
+              <option name="activationTimestamp" value="1712069992705" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-233.14015.60" />
+              <option name="buildTimestamp" value="1705611180000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="-19" width="1920" height="1099" />
+              <option name="metadata" value="Errgine|/home/bnn/Development/C#/Errgine/Errgine.csproj" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1712068707110" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Development/C#/Raygine/Raygine.sln" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/C#/Errgine/Errgine.csproj" />
     <option name="lastProjectLocation" value="$USER_HOME$/Development/C#" />
   </component>
 </application>

@@ -14,7 +14,6 @@
             <state>
               <caret column="13" selection-start-column="13" selection-end-column="13" />
               <folding>
-                <marker date="1709681834850" expanded="true" signature="6:27" ph="..." />
                 <marker date="1709681834850" expanded="true" signature="42:181" ph="{...}" />
                 <marker date="1709681834850" expanded="true" signature="80:179" ph="{...}" />
                 <marker date="1709681834850" expanded="true" signature="139:173" ph="{...}" />
@@ -26,11 +25,10 @@
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ImGuiController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5326">
+            <state relative-caret-position="7056">
               <caret line="303" column="57" selection-start-line="303" selection-start-column="57" selection-end-line="303" selection-end-column="57" />
               <folding>
-                <marker date="1709681834850" expanded="true" signature="6:319" ph="..." />
-                <marker date="1709681834850" expanded="true" signature="367:25494" ph="{...}" />
+                <element signature="e#0#319#0" expanded="true" />
                 <marker date="1709681834850" expanded="true" signature="1091:1173" ph="/// Constructs a new ImGuiController. ... " />
                 <marker date="1709681834850" expanded="true" signature="1227:2209" ph="{...}" />
                 <marker date="1709681834850" expanded="true" signature="2267:2357" ph="{...}" />
@@ -142,7 +140,7 @@
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Camera.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="671">
+            <state relative-caret-position="890">
               <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
               <folding>
                 <marker date="1709681834850" expanded="true" signature="43:2232" ph="{...}" />
@@ -165,8 +163,8 @@
       <file>
         <entry file="file://$PROJECT_DIR$/Graphics/GameObject.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="251" lean-forward="true" selection-start-line="251" selection-end-line="251" />
+            <state>
+              <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
               <folding>
                 <marker date="1710982133993" expanded="true" signature="6:359" ph="..." />
                 <marker date="1710982133993" expanded="true" signature="377:10465" ph="{...}" />
@@ -211,11 +209,10 @@
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2099">
-              <caret line="382" column="28" lean-forward="true" selection-start-line="382" selection-start-column="28" selection-end-line="382" selection-end-column="28" />
+            <state relative-caret-position="24">
+              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
               <folding>
-                <marker date="1710981728897" expanded="true" signature="6:455" ph="..." />
-                <marker date="1710981728897" expanded="true" signature="473:13232" ph="{...}" />
+                <element signature="e#0#455#0" expanded="true" />
                 <marker date="1710981728897" expanded="true" signature="509:13230" ph="{...}" />
                 <marker date="1710981728897" expanded="true" signature="1994:2163" ph="{...}" />
                 <marker date="1710981728897" expanded="true" signature="2193:5723" ph="{...}" />
@@ -248,7 +245,7 @@
         <entry file="file://$PROJECT_DIR$/Editor/Editor.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <marker date="1710981755151" expanded="true" signature="6:38" ph="..." />
                 <marker date="1710981755151" expanded="true" signature="56:621" ph="{...}" />
@@ -280,7 +277,6 @@
             <state relative-caret-position="408">
               <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
               <folding>
-                <marker date="1709681834850" expanded="true" signature="43:451" ph="{...}" />
                 <marker date="1709681834850" expanded="true" signature="67:449" ph="{...}" />
                 <marker date="1709681834850" expanded="true" signature="189:251" ph="{...}" />
                 <marker date="1709681834850" expanded="true" signature="294:443" ph="{...}" />
@@ -293,13 +289,13 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="C#">
-      <summary usageCount="18" lastUsed="1710980993960" />
+      <summary usageCount="32" lastUsed="1712068707103" />
     </fileType>
     <fileType name="DockerIgnore file">
       <summary usageCount="1" lastUsed="1709681888337" />
     </fileType>
     <fileType name="GLSL shader">
-      <summary usageCount="4" lastUsed="1710980266812" />
+      <summary usageCount="8" lastUsed="1712068707094" />
     </fileType>
     <fileType name="PLAIN_TEXT">
       <summary usageCount="2" lastUsed="1709850463223" />
@@ -331,13 +327,13 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="C#">
-      <summary usageCount="18" lastUsage="1710980993960" />
+      <summary usageCount="32" lastUsage="1712068707103" />
     </language>
     <language id="DockerIgnore">
       <summary usageCount="1" lastUsage="1709681888338" />
     </language>
     <language id="GLSL">
-      <summary usageCount="4" lastUsage="1710980266812" />
+      <summary usageCount="8" lastUsage="1712068707094" />
     </language>
     <language id="TEXT">
       <summary usageCount="2" lastUsage="1709850463223" />
@@ -378,8 +374,6 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Errgine" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Editor" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Editor.cs" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </select>
         </subPane>
@@ -417,6 +411,11 @@
             <window_info id="Commit" order="1" weight="0.25" />
           </value>
         </entry>
+        <entry key="Coverage">
+          <value>
+            <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+          </value>
+        </entry>
         <entry key="Database">
           <value>
             <window_info anchor="right" id="Database" order="2" weight="0.25" />
@@ -429,7 +428,7 @@
         </entry>
         <entry key="Debug">
           <value>
-            <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.084296726" />
+            <window_info anchor="bottom" id="Debug" order="4" weight="0.084296726" />
           </value>
         </entry>
         <entry key="Dynamic Program Analysis">
@@ -479,7 +478,7 @@
         </entry>
         <entry key="NuGet">
           <value>
-            <window_info anchor="bottom" id="NuGet" weight="0.41351604" />
+            <window_info anchor="bottom" id="NuGet" weight="0.16329479" />
           </value>
         </entry>
         <entry key="Problems">
@@ -494,7 +493,7 @@
         </entry>
         <entry key="Project">
           <value>
-            <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14829606" />
+            <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12931034" />
           </value>
         </entry>
         <entry key="Pull Requests">
@@ -504,7 +503,7 @@
         </entry>
         <entry key="Run">
           <value>
-            <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" show_stripe_button="false" weight="0.084296726" />
+            <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" visible="true" weight="0.16907515" />
           </value>
         </entry>
         <entry key="Services">
@@ -581,7 +580,7 @@
     </history>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2910000" />
+    <option name="totallyTimeSpent" value="4494000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,7 +598,7 @@
       <window_info id="Merge Requests" show_stripe_button="false" />
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14829606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12931034" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -610,14 +609,14 @@
       <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
       <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
-      <window_info anchor="bottom" id="NuGet" weight="0.41351604" />
+      <window_info anchor="bottom" id="NuGet" weight="0.16329479" />
       <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.38687152" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.38687152" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.38687152" />
-      <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.084296726" />
-      <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" show_stripe_button="false" weight="0.084296726" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.084296726" />
+      <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" visible="true" weight="0.16907515" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.38687152" />
       <window_info anchor="bottom" id="Unity" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
@@ -629,13 +628,9 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.084296726" left="0.14829606" right="0.33008432" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.16907515" left="0.12931034" right="0.33008432" />
     </layoutV2>
-    <recentWindows>
-      <value>Run</value>
-      <value>Debug</value>
-      <value>Project</value>
-    </recentWindows>
   </component>
   <component name="WindowStateProjectService">
     <state width="1796" height="45" key="GridCell.Tab.0.bottom" timestamp="1710982146188">
@@ -737,13 +732,24 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.dockerignore" />
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1709681834850" expanded="true" signature="42:181" ph="{...}" />
+            <marker date="1709681834850" expanded="true" signature="80:179" ph="{...}" />
+            <marker date="1709681834850" expanded="true" signature="139:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ImGuiController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5326">
-          <caret line="303" column="57" lean-forward="true" selection-start-line="303" selection-start-column="57" selection-end-line="303" selection-end-column="57" />
+        <state relative-caret-position="7056">
+          <caret line="303" column="57" selection-start-line="303" selection-start-column="57" selection-end-line="303" selection-end-column="57" />
           <folding>
-            <marker date="1709681834850" expanded="true" signature="6:319" ph="..." />
-            <marker date="1709681834850" expanded="true" signature="367:25494" ph="{...}" />
+            <element signature="e#0#319#0" expanded="true" />
             <marker date="1709681834850" expanded="true" signature="1091:1173" ph="/// Constructs a new ImGuiController. ... " />
             <marker date="1709681834850" expanded="true" signature="1227:2209" ph="{...}" />
             <marker date="1709681834850" expanded="true" signature="2267:2357" ph="{...}" />
@@ -851,12 +857,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Shaders/shader.frag">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shaders/shader.vert">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="78" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AABB.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
           <folding>
-            <marker date="1709681834850" expanded="true" signature="43:451" ph="{...}" />
             <marker date="1709681834850" expanded="true" signature="67:449" ph="{...}" />
             <marker date="1709681834850" expanded="true" signature="189:251" ph="{...}" />
             <marker date="1709681834850" expanded="true" signature="294:443" ph="{...}" />
@@ -864,30 +879,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Shaders/shader.vert">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="78" lean-forward="true" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <marker date="1709681834850" expanded="true" signature="6:27" ph="..." />
-            <marker date="1709681834850" expanded="true" signature="42:181" ph="{...}" />
-            <marker date="1709681834850" expanded="true" signature="80:179" ph="{...}" />
-            <marker date="1709681834850" expanded="true" signature="139:173" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Camera.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        <state relative-caret-position="890">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
           <folding>
             <marker date="1709681834850" expanded="true" signature="43:2232" ph="{...}" />
             <marker date="1709681834850" expanded="true" signature="69:2230" ph="{...}" />
@@ -905,16 +900,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Shaders/shader.frag">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/App.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2099">
-          <caret line="382" column="28" lean-forward="true" selection-start-line="382" selection-start-column="28" selection-end-line="382" selection-end-column="28" />
+        <state relative-caret-position="24">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
           <folding>
-            <marker date="1710981728897" expanded="true" signature="6:455" ph="..." />
-            <marker date="1710981728897" expanded="true" signature="473:13232" ph="{...}" />
+            <element signature="e#0#455#0" expanded="true" />
             <marker date="1710981728897" expanded="true" signature="509:13230" ph="{...}" />
             <marker date="1710981728897" expanded="true" signature="1994:2163" ph="{...}" />
             <marker date="1710981728897" expanded="true" signature="2193:5723" ph="{...}" />
@@ -945,7 +936,7 @@
     <entry file="file://$PROJECT_DIR$/Editor/Editor.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <marker date="1710981755151" expanded="true" signature="6:38" ph="..." />
             <marker date="1710981755151" expanded="true" signature="56:621" ph="{...}" />
@@ -958,8 +949,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Graphics/GameObject.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="251" lean-forward="true" selection-start-line="251" selection-end-line="251" />
+        <state>
+          <caret line="111" lean-forward="true" selection-start-line="111" selection-end-line="111" />
           <folding>
             <marker date="1710982133993" expanded="true" signature="6:359" ph="..." />
             <marker date="1710982133993" expanded="true" signature="377:10465" ph="{...}" />
