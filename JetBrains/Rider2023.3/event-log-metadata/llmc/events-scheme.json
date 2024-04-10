@@ -30,14 +30,60 @@
         "request" : [ "{util#llm_parameters}" ],
         "result" : [ "{util#llm_parameters}" ],
         "score" : [ "{enum:None|Like|Dislike}" ],
-        "source_action" : [ "{enum#__source_action}", "{enum:RIDER_GENERATE_UNIT_TESTS}", "{enum:PYTHON_EXPLAIN_DATA_FRAME}", "{enum:UNKNOWN|NEW_CHAT|EXPLAIN_CODE_INTENTION|FIND_PROBLEMS_INTENTION|REFACTOR_THIS|UNKNOWN_CHAT_INTENTION|LOAD_STATE|RUNTIME_ERROR_EXPLANATION|EXPLAIN_COMMIT|UNITY_CREATE_NEW_FILE|UNITY_GENERATE_CODE|GENERATE_CODE_INPLACE|CUSTOM_CHAT|PROMPT_LIBRARY|ERROR_MESSAGE}" ],
+        "source_action" : [ "{enum#__source_action}", "{enum:RIDER_GENERATE_UNIT_TESTS}", "{enum:PYTHON_EXPLAIN_DATA_FRAME}", "{enum:GENERATE_API_REQUEST_EXAMPLE}", "{enum:BUILD_ERROR_EXPLANATION}", "{enum:UNKNOWN|NEW_CHAT|EXPLAIN_CODE_INTENTION|FIND_PROBLEMS_INTENTION|REFACTOR_THIS|UNKNOWN_CHAT_INTENTION|LOAD_STATE|RUNTIME_ERROR_EXPLANATION|EXPLAIN_COMMIT|UNITY_CREATE_NEW_FILE|UNITY_GENERATE_CODE|GENERATE_CODE_INPLACE|CUSTOM_CHAT|PROMPT_LIBRARY|ERROR_MESSAGE}" ],
         "user_message_id" : [ "{regexp#short_hash}" ]
       },
       "enums" : {
         "__event_id" : [ "message.received", "new.chat.created", "message.scored", "chatLogsSent", "message.sent", "edit.user.message.cancelled.with.mouse", "code.inserted", "edit.user.message.cancelled", "code.copied", "message.received.canceled", "chat.from.history.opened", "all.chats.clicked", "edit.usage.message.finished", "edit.user.message.started", "code.snippet.inserted.at.caret", "function.called", "code.snippet.file.created" ],
         "__source_action" : [ "PYTHON_DJANGO_VIEW_FOR_MODEL_INTENTION", "PYTHON_DJANGO_CUSTOM_SMART_CHAT_INTENTION", "PYTHON_FILE_SIGNATURES_CUSTOM_INTENTION", "PYTHON_DJANGO_CUSTOM_INTENTION", "GENERATE_UNIT_TESTS", "PYTHON_DJANGO_ADMIN_FOR_MODEL_INTENTION", "PYTHON_DJANGO_SERIALIZER_FOR_MODEL_INTENTION" ]
       }
-    }
+    },
+    "anonymized_fields" : [ {
+      "event" : "function.called",
+      "fields" : [ "chat_session_id" ]
+    }, {
+      "event" : "message.received",
+      "fields" : [ "message_id", "user_message_id", "chat_session_id" ]
+    }, {
+      "event" : "message.received.canceled",
+      "fields" : [ "message_id", "user_message_id", "chat_session_id" ]
+    }, {
+      "event" : "message.scored",
+      "fields" : [ "message_id", "chat_session_id" ]
+    }, {
+      "event" : "message.sent",
+      "fields" : [ "history.message_id", "message_id", "chat_session_id" ]
+    }, {
+      "event" : "edit.user.message.cancelled",
+      "fields" : [ "message_id", "chat_session_id" ]
+    }, {
+      "event" : "chat.from.history.opened",
+      "fields" : [ "chat_session_id" ]
+    }, {
+      "event" : "code.snippet.file.created",
+      "fields" : [ "chat_session_id", "message_id" ]
+    }, {
+      "event" : "edit.user.message.started",
+      "fields" : [ "message_id", "chat_session_id" ]
+    }, {
+      "event" : "code.snippet.inserted.at.caret",
+      "fields" : [ "message_id", "chat_session_id" ]
+    }, {
+      "event" : "new.chat.created",
+      "fields" : [ "chat_session_id" ]
+    }, {
+      "event" : "chatLogsSent",
+      "fields" : [ "chat_session_id" ]
+    }, {
+      "event" : "edit.user.message.cancelled.with.mouse",
+      "fields" : [ "chat_session_id" ]
+    }, {
+      "event" : "code.copied",
+      "fields" : [ "message_id", "chat_session_id" ]
+    }, {
+      "event" : "edit.usage.message.finished",
+      "fields" : [ "message_id", "chat_session_id" ]
+    } ]
   }, {
     "id" : "llm.events",
     "builds" : [ ],
@@ -103,7 +149,11 @@
         "__event_id" : [ "edit.request.started", "edit.request.sent", "edit.request.finished", "edit.request.score", "completion.request.started", "completion.request.sent", "completion.request.finished", "completion.request.score", "chat.request.sent", "chat.request.score", "chat.request.started", "chat.request.finished", "chatLogsSent", "name.suggestion.finished", "name.suggestion.started", "name.suggestion.request", "name.suggestion.show", "name.suggestion.response", "name.suggestion.score", "commit.generation.finished", "commit.generation.sent", "commit.generation.started", "commit.generation.score", "documentation.generation.started", "documentation.generation.sent", "documentation.generation.score", "documentation.generation.finished", "commit.summary.generation.sent", "commit.summary.generation.finished", "commit.summary.generation.score", "commit.summary.generation.started", "code.generation.started", "code.generation.request.finished", "code.generation.finished", "code.generation.request.started", "test.generation.finished", "test.generation.review", "test.generation.score", "test.generation.started", "test.generation.request", "language.conversion.paste.finished", "language.conversion.paste.score", "language.conversion.file.started", "language.conversion.paste.request", "language.conversion.file.finished", "language.conversion.paste.started" ],
         "__source_action" : [ "UNKNOWN_CHAT_INTENTION", "REFACTOR_THIS", "FIND_PROBLEMS_INTENTION", "RUNTIME_ERROR_EXPLANATION", "EXPLAIN_CODE_INTENTION", "UNKNOWN", "LOAD_STATE", "NEW_CHAT" ]
       }
-    }
+    },
+    "anonymized_fields" : [ {
+      "event" : "chatLogsSent",
+      "fields" : [ "session_id" ]
+    } ]
   }, {
     "id" : "llm.inline.completion.llmc",
     "builds" : [ ],
@@ -158,7 +208,11 @@
       "enums" : {
         "__event_id" : [ "logs.send", "loading.config.failed", "metadata.loaded", "metadata.updated", "metadata.update.failed", "metadata.load.failed" ]
       }
-    }
+    },
+    "anonymized_fields" : [ {
+      "event" : "logs.send",
+      "fields" : [ "paths" ]
+    } ]
   } ],
   "rules" : {
     "enums" : {
@@ -175,5 +229,5 @@
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "3973"
+  "version" : "4167"
 }

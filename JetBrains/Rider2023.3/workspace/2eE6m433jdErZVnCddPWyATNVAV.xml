@@ -7,169 +7,23 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/GameManager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <marker date="1711621009485" expanded="true" signature="6:40" ph="..." />
-                <marker date="1711621009485" expanded="true" signature="64:1242" ph="{...}" />
-                <marker date="1711621009485" expanded="true" signature="111:1240" ph="{...}" />
-                <marker date="1711621009485" expanded="true" signature="207:717" ph="{...}" />
-                <marker date="1711621009485" expanded="true" signature="233:447" ph="{...}" />
-                <marker date="1711621009485" expanded="true" signature="471:707" ph="{...}" />
-                <marker date="1711621009485" expanded="true" signature="546:657" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
+    <leaf>
+      <file>
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/LevelManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="288">
+              <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
               <folding>
-                <marker date="1711621237150" expanded="false" signature="6:110" ph="..." />
-                <marker date="1711621237150" expanded="true" signature="134:2466" ph="{...}" />
-                <marker date="1711621237150" expanded="true" signature="182:2464" ph="{...}" />
-                <marker date="1711621237150" expanded="true" signature="808:946" ph="{...}" />
-                <marker date="1711621237150" expanded="true" signature="987:2021" ph="{...}" />
-                <marker date="1711621237150" expanded="true" signature="1026:1259" ph="{...}" />
-                <marker date="1711621237150" expanded="true" signature="1277:2011" ph="{...}" />
-                <marker date="1711621237150" expanded="true" signature="2062:2123" ph="{...}" />
-                <marker date="1711621237150" expanded="true" signature="2156:2377" ph="{...}" />
-                <marker date="1711621237150" expanded="true" signature="2413:2458" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-              <folding>
-                <marker date="1711621290873" expanded="true" signature="6:78" ph="..." />
-                <marker date="1711621290873" expanded="true" signature="104:1111" ph="{...}" />
-                <marker date="1711621290873" expanded="true" signature="152:1109" ph="{...}" />
-                <marker date="1711621290873" expanded="true" signature="472:684" ph="{...}" />
-                <marker date="1711621290873" expanded="true" signature="783:1103" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/World/LevelFinishScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-              <folding>
-                <marker date="1711619934237" expanded="true" signature="6:52" ph="..." />
-                <marker date="1711619934237" expanded="true" signature="77:340" ph="{...}" />
-                <marker date="1711619934237" expanded="true" signature="130:338" ph="{...}" />
-                <marker date="1711619934237" expanded="true" signature="195:332" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/World/FanScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <marker date="1711621620175" expanded="true" signature="6:86" ph="..." />
-                <marker date="1711621620175" expanded="true" signature="111:1467" ph="{...}" />
-                <marker date="1711621620175" expanded="true" signature="156:1465" ph="{...}" />
-                <marker date="1711621620175" expanded="true" signature="559:708" ph="{...}" />
-                <marker date="1711621620175" expanded="true" signature="765:891" ph="{...}" />
-                <marker date="1711621620175" expanded="true" signature="947:1076" ph="{...}" />
-                <marker date="1711621620175" expanded="true" signature="1160:1459" ph="{...}" />
-                <marker date="1711621620175" expanded="true" signature="1204:1317" ph="{...}" />
-                <marker date="1711621620175" expanded="true" signature="1334:1449" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/PlacementMenuScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <marker date="1711460952094" expanded="true" signature="6:66" ph="..." />
-                <marker date="1711460952094" expanded="true" signature="88:805" ph="{...}" />
-                <marker date="1711460952094" expanded="true" signature="143:803" ph="{...}" />
-                <marker date="1711460952094" expanded="true" signature="215:305" ph="{...}" />
-                <marker date="1711460952094" expanded="true" signature="538:797" ph="{...}" />
-                <marker date="1711460952094" expanded="true" signature="598:787" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/PlacemenuItemScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
-              <folding>
-                <marker date="1711621909100" expanded="true" signature="6:87" ph="..." />
-                <marker date="1711621909100" expanded="true" signature="109:2108" ph="{...}" />
-                <marker date="1711621909100" expanded="true" signature="164:2106" ph="{...}" />
-                <marker date="1711621909100" expanded="true" signature="474:555" ph="{...}" />
-                <marker date="1711621909100" expanded="true" signature="684:1825" ph="{...}" />
-                <marker date="1711621909100" expanded="true" signature="857:1815" ph="{...}" />
-                <marker date="1711621909100" expanded="true" signature="1949:2100" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/World/PlaceableObjectScript.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-              <folding>
-                <marker date="1711622851988" expanded="true" signature="82:614" ph="{...}" />
-                <marker date="1711622851988" expanded="true" signature="218:259" ph="{...}" />
-                <marker date="1711622851988" expanded="true" signature="287:473" ph="{...}" />
-                <marker date="1711622851988" expanded="true" signature="520:612" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/SelectionManager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-              <folding>
-                <marker date="1711622718654" expanded="true" signature="6:52" ph="..." />
-                <marker date="1711622718654" expanded="true" signature="99:900" ph="{...}" />
-                <marker date="1711622718654" expanded="true" signature="337:589" ph="{...}" />
-                <marker date="1711622718654" expanded="true" signature="636:883" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IPlaceable.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-              <folding>
-                <marker date="1711622713927" expanded="true" signature="47:112" ph="{...}" />
+                <marker date="1712683397588" expanded="true" signature="6:110" ph="..." />
+                <marker date="1712683397588" expanded="true" signature="134:2521" ph="{...}" />
+                <marker date="1712683397588" expanded="true" signature="182:2519" ph="{...}" />
+                <marker date="1712683397588" expanded="true" signature="863:1001" ph="{...}" />
+                <marker date="1712683397588" expanded="true" signature="1042:2076" ph="{...}" />
+                <marker date="1712683397588" expanded="true" signature="1081:1314" ph="{...}" />
+                <marker date="1712683397588" expanded="true" signature="1332:2066" ph="{...}" />
+                <marker date="1712683397588" expanded="true" signature="2117:2178" ph="{...}" />
+                <marker date="1712683397588" expanded="true" signature="2211:2432" ph="{...}" />
+                <marker date="1712683397588" expanded="true" signature="2468:2513" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -179,25 +33,12 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="C#">
-      <summary usageCount="28" lastUsed="1711622658848" />
+      <summary usageCount="1" lastUsed="1712683360344" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/PlacementItemScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Core/PlacementMenuScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/PlacementMenuScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Portals/PortalScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/World/LevelFinishScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Core/GameManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Core/LevelManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/World/FanScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/UI/PlacemenuItemScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/World/PlaceableScript.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IPlaceable.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Core/SelectionManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/World/PlaceableObjectScript.cs" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -209,7 +50,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="C#">
-      <summary usageCount="28" lastUsage="1711622658848" />
+      <summary usageCount="1" lastUsage="1712683360345" />
     </language>
   </component>
   <component name="ProjectView">
@@ -235,36 +76,7 @@
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="Interfaces" type="daf7a7f:UnityExplorerFileSystemNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="UI" type="daf7a7f:UnityExplorerFileSystemNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="World" type="daf7a7f:UnityExplorerFileSystemNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Shaders" type="daf7a7f:UnityExplorerFileSystemNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Sprites" type="daf7a7f:UnityExplorerFileSystemNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="TextMesh Pro" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Packages" type="7985edf5:PackagesRootNode" />
             </path>
           </expand>
           <select>
@@ -272,8 +84,8 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="71192831:AssetsRootNode" />
               <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="Interfaces" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="IPlaceable.cs" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Core" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="LevelManager.cs" type="daf7a7f:UnityExplorerFileSystemNode" />
             </path>
           </select>
         </subPane>
@@ -288,193 +100,12 @@
         <option name="search-dependencies" value="false" />
         <option name="show-unreal-project-files" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
-  <component name="RiderPerAppToolWindowOpenedTWKeeper">
-    <option name="map">
-      <map>
-        <entry key="AIAssistant">
-          <value>
-            <window_info anchor="right" id="AIAssistant" order="1" weight="0.33008432" />
-          </value>
-        </entry>
-        <entry key="Bookmarks">
-          <value>
-            <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
-          </value>
-        </entry>
-        <entry key="Build">
-          <value>
-            <window_info anchor="bottom" id="Build" weight="0.4137765" />
-          </value>
-        </entry>
-        <entry key="Commit">
-          <value>
-            <window_info id="Commit" order="1" weight="0.25" />
-          </value>
-        </entry>
-        <entry key="Database">
-          <value>
-            <window_info anchor="right" id="Database" order="2" weight="0.25" />
-          </value>
-        </entry>
-        <entry key="Database Changes">
-          <value>
-            <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Debug">
-          <value>
-            <window_info anchor="bottom" id="Debug" order="4" weight="0.084296726" />
-          </value>
-        </entry>
-        <entry key="Dynamic Program Analysis">
-          <value>
-            <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Endpoints">
-          <value>
-            <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="File Transfer">
-          <value>
-            <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Gradle">
-          <value>
-            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
-          </value>
-        </entry>
-        <entry key="IL Viewer">
-          <value>
-            <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Learn">
-          <value>
-            <window_info id="Learn" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Maven">
-          <value>
-            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-          </value>
-        </entry>
-        <entry key="Merge Requests">
-          <value>
-            <window_info id="Merge Requests" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Notifications">
-          <value>
-            <window_info anchor="right" id="Notifications" order="0" weight="0.33008432" />
-          </value>
-        </entry>
-        <entry key="NuGet">
-          <value>
-            <window_info anchor="bottom" id="NuGet" weight="0.41351604" />
-          </value>
-        </entry>
-        <entry key="Problems">
-          <value>
-            <window_info anchor="bottom" id="Problems" order="1" />
-          </value>
-        </entry>
-        <entry key="Problems View">
-          <value>
-            <window_info anchor="bottom" id="Problems View" order="2" weight="0.38687152" />
-          </value>
-        </entry>
-        <entry key="Project">
-          <value>
-            <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14829606" />
-          </value>
-        </entry>
-        <entry key="Pull Requests">
-          <value>
-            <window_info id="Pull Requests" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Run">
-          <value>
-            <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" visible="true" weight="0.084296726" />
-          </value>
-        </entry>
-        <entry key="Services">
-          <value>
-            <window_info anchor="bottom" id="Services" order="4" weight="0.38687152" />
-          </value>
-        </entry>
-        <entry key="Space Code Reviews">
-          <value>
-            <window_info id="Space Code Reviews" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Structure">
-          <value>
-            <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-          </value>
-        </entry>
-        <entry key="TODO">
-          <value>
-            <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Terminal">
-          <value>
-            <window_info anchor="bottom" id="Terminal" order="3" weight="0.38687152" />
-          </value>
-        </entry>
-        <entry key="TypeScript">
-          <value>
-            <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Unit Tests">
-          <value>
-            <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Unit Tests Coverage">
-          <value>
-            <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="Unity">
-          <value>
-            <window_info anchor="bottom" id="Unity" order="4" />
-          </value>
-        </entry>
-        <entry key="Version Control">
-          <value>
-            <window_info anchor="bottom" id="Version Control" order="0" weight="0.38687152" />
-          </value>
-        </entry>
-        <entry key="documentation.v2">
-          <value>
-            <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
-          </value>
-        </entry>
-        <entry key="dotMemory Profiler">
-          <value>
-            <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
-          </value>
-        </entry>
-        <entry key="dotTrace Profiler">
-          <value>
-            <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17357000" />
+    <option name="totallyTimeSpent" value="97000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,241 +118,43 @@
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info id="Space Code Reviews" show_stripe_button="false" />
-      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
-      <window_info id="Merge Requests" show_stripe_button="false" />
-      <window_info id="Pull Requests" show_stripe_button="false" />
-      <window_info id="Learn" show_stripe_button="false" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14829606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123373106" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" weight="0.4137765" />
-      <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
-      <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
-      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
-      <window_info anchor="bottom" id="NuGet" weight="0.41351604" />
-      <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.38687152" />
+      <window_info anchor="bottom" id="Build" weight="0.33017927" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
-      <window_info anchor="bottom" id="Problems View" order="2" weight="0.38687152" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.38687152" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.084296726" />
-      <window_info anchor="bottom" x="119" y="701" width="1828" height="75" id="Run" order="4" visible="true" weight="0.084296726" />
-      <window_info anchor="bottom" id="Services" order="4" weight="0.38687152" />
-      <window_info anchor="bottom" id="Unity" order="4" />
-      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
-      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
-      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
-      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.33008432" />
-      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33008432" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.33017927" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32998914" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.084296726" left="0.14829606" right="0.33008432" />
+      <unified_weights bottom="0.33017927" left="0.123373106" right="0.32998914" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
     </recentWindows>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="693" y="238" width="530" height="579" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1711458534768">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="693" y="238" width="530" height="579" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1711458534768" />
-    <state x="621" y="238" key="run.anything.popup" timestamp="1711462781330">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="621" y="238" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1711462781330" />
-    <state x="623" y="228" width="672" height="701" key="search.everywhere.popup" timestamp="1711622363806">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="623" y="228" width="672" height="701" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1711622363806" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/PlacementItemScript.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/PlacementMenuScript.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Portals/PortalScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
-          <folding>
-            <marker date="1711610870272" expanded="true" signature="6:52" ph="..." />
-            <marker date="1711610870272" expanded="true" signature="71:1828" ph="{...}" />
-            <marker date="1711610870272" expanded="true" signature="119:1826" ph="{...}" />
-            <marker date="1711610870272" expanded="true" signature="697:1004" ph="{...}" />
-            <marker date="1711610870272" expanded="true" signature="1061:1570" ph="{...}" />
-            <marker date="1711610870272" expanded="true" signature="1626:1820" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Portals/TempMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1711464309743" expanded="true" signature="6:32" ph="..." />
-            <marker date="1711464309743" expanded="true" signature="51:366" ph="{...}" />
-            <marker date="1711464309743" expanded="true" signature="99:364" ph="{...}" />
-            <marker date="1711464309743" expanded="true" signature="185:358" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/PlacementMenuScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <marker date="1711460952094" expanded="true" signature="6:66" ph="..." />
-            <marker date="1711460952094" expanded="true" signature="88:805" ph="{...}" />
-            <marker date="1711460952094" expanded="true" signature="143:803" ph="{...}" />
-            <marker date="1711460952094" expanded="true" signature="215:305" ph="{...}" />
-            <marker date="1711460952094" expanded="true" signature="538:797" ph="{...}" />
-            <marker date="1711460952094" expanded="true" signature="598:787" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/World/LevelFinishScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
-          <folding>
-            <marker date="1711619934237" expanded="true" signature="6:52" ph="..." />
-            <marker date="1711619934237" expanded="true" signature="77:340" ph="{...}" />
-            <marker date="1711619934237" expanded="true" signature="130:338" ph="{...}" />
-            <marker date="1711619934237" expanded="true" signature="195:332" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/GameManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <marker date="1711621009485" expanded="true" signature="6:40" ph="..." />
-            <marker date="1711621009485" expanded="true" signature="64:1242" ph="{...}" />
-            <marker date="1711621009485" expanded="true" signature="111:1240" ph="{...}" />
-            <marker date="1711621009485" expanded="true" signature="207:717" ph="{...}" />
-            <marker date="1711621009485" expanded="true" signature="233:447" ph="{...}" />
-            <marker date="1711621009485" expanded="true" signature="471:707" ph="{...}" />
-            <marker date="1711621009485" expanded="true" signature="546:657" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/LevelManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="288">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
           <folding>
-            <marker date="1711621237150" expanded="false" signature="6:110" ph="..." />
-            <marker date="1711621237150" expanded="true" signature="134:2466" ph="{...}" />
-            <marker date="1711621237150" expanded="true" signature="182:2464" ph="{...}" />
-            <marker date="1711621237150" expanded="true" signature="808:946" ph="{...}" />
-            <marker date="1711621237150" expanded="true" signature="987:2021" ph="{...}" />
-            <marker date="1711621237150" expanded="true" signature="1026:1259" ph="{...}" />
-            <marker date="1711621237150" expanded="true" signature="1277:2011" ph="{...}" />
-            <marker date="1711621237150" expanded="true" signature="2062:2123" ph="{...}" />
-            <marker date="1711621237150" expanded="true" signature="2156:2377" ph="{...}" />
-            <marker date="1711621237150" expanded="true" signature="2413:2458" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <marker date="1711621290873" expanded="true" signature="6:78" ph="..." />
-            <marker date="1711621290873" expanded="true" signature="104:1111" ph="{...}" />
-            <marker date="1711621290873" expanded="true" signature="152:1109" ph="{...}" />
-            <marker date="1711621290873" expanded="true" signature="472:684" ph="{...}" />
-            <marker date="1711621290873" expanded="true" signature="783:1103" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/World/FanScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <marker date="1711621620175" expanded="true" signature="6:86" ph="..." />
-            <marker date="1711621620175" expanded="true" signature="111:1467" ph="{...}" />
-            <marker date="1711621620175" expanded="true" signature="156:1465" ph="{...}" />
-            <marker date="1711621620175" expanded="true" signature="559:708" ph="{...}" />
-            <marker date="1711621620175" expanded="true" signature="765:891" ph="{...}" />
-            <marker date="1711621620175" expanded="true" signature="947:1076" ph="{...}" />
-            <marker date="1711621620175" expanded="true" signature="1160:1459" ph="{...}" />
-            <marker date="1711621620175" expanded="true" signature="1204:1317" ph="{...}" />
-            <marker date="1711621620175" expanded="true" signature="1334:1449" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/World/PlaceableScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UI/PlacemenuItemScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="56" column="20" lean-forward="true" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
-          <folding>
-            <marker date="1711621909100" expanded="true" signature="6:87" ph="..." />
-            <marker date="1711621909100" expanded="true" signature="109:2108" ph="{...}" />
-            <marker date="1711621909100" expanded="true" signature="164:2106" ph="{...}" />
-            <marker date="1711621909100" expanded="true" signature="474:555" ph="{...}" />
-            <marker date="1711621909100" expanded="true" signature="684:1825" ph="{...}" />
-            <marker date="1711621909100" expanded="true" signature="857:1815" ph="{...}" />
-            <marker date="1711621909100" expanded="true" signature="1949:2100" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IPlaceable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding>
-            <marker date="1711622713927" expanded="true" signature="47:112" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/SelectionManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding>
-            <marker date="1711622718654" expanded="true" signature="6:52" ph="..." />
-            <marker date="1711622718654" expanded="true" signature="99:900" ph="{...}" />
-            <marker date="1711622718654" expanded="true" signature="337:589" ph="{...}" />
-            <marker date="1711622718654" expanded="true" signature="636:883" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/World/PlaceableObjectScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <marker date="1711622851988" expanded="true" signature="82:614" ph="{...}" />
-            <marker date="1711622851988" expanded="true" signature="218:259" ph="{...}" />
-            <marker date="1711622851988" expanded="true" signature="287:473" ph="{...}" />
-            <marker date="1711622851988" expanded="true" signature="520:612" ph="{...}" />
+            <marker date="1712683397588" expanded="true" signature="6:110" ph="..." />
+            <marker date="1712683397588" expanded="true" signature="134:2521" ph="{...}" />
+            <marker date="1712683397588" expanded="true" signature="182:2519" ph="{...}" />
+            <marker date="1712683397588" expanded="true" signature="863:1001" ph="{...}" />
+            <marker date="1712683397588" expanded="true" signature="1042:2076" ph="{...}" />
+            <marker date="1712683397588" expanded="true" signature="1081:1314" ph="{...}" />
+            <marker date="1712683397588" expanded="true" signature="1332:2066" ph="{...}" />
+            <marker date="1712683397588" expanded="true" signature="2117:2178" ph="{...}" />
+            <marker date="1712683397588" expanded="true" signature="2211:2432" ph="{...}" />
+            <marker date="1712683397588" expanded="true" signature="2468:2513" ph="{...}" />
           </folding>
         </state>
       </provider>

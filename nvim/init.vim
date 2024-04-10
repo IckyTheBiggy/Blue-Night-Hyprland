@@ -45,7 +45,7 @@ call plug#begin('~/.config/nvim/plugins')
     Plug 'https://github.com/vim-airline/vim-airline.git'
     Plug 'https://github.com/preservim/nerdtree.git'
     Plug 'https://github.com/vim-airline/vim-airline-themes.git'
-    Plug 'neovim/nvim-lspconfig'
+    Plug 'https://github.com/williamboman/mason.nvim.git'
 call plug#end()
 
 "Make vim-airline use system colors

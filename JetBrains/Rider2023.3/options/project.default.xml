@@ -5,25 +5,50 @@
         <option name="show" value="ASK" />
         <option name="description" value="" />
       </component>
-      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
-      <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+      <component name="ProjectDictionaryState">
+        <dictionary name="bnn" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Internationalization</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Angular</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1712243524850</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1712243524850</updated>
+          <workItem from="1712243526333" duration="15000" />
+        </task>
+        <servers />
+      </component>
+      <component name="TimeTrackingManager">
+        <option name="totallyTimeSpent" value="15000" />
+      </component>
       <component name="WindowStateProjectService">
-        <state x="741" y="271" width="430" height="507" key="FileChooserDialogImpl" timestamp="1709826656009">
+        <state x="464" y="165" key="SettingsEditor" timestamp="1712243575554">
           <screen x="0" y="0" width="1920" height="1080" />
         </state>
-        <state x="741" y="271" width="430" height="507" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1709826656009" />
-        <state x="555" y="265" width="806" height="525" key="Rider.ProjectTemplateDialog.Size" timestamp="1711794975715">
-          <screen x="0" y="0" width="1920" height="1080" />
-        </state>
-        <state x="555" y="265" width="806" height="525" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1080" timestamp="1711794975715" />
-        <state x="456" y="164" key="SettingsEditor" timestamp="1709391183594">
-          <screen x="0" y="0" width="1920" height="1080" />
-        </state>
-        <state x="456" y="164" key="SettingsEditor/0.0.1920.1080" timestamp="1709391183594" />
+        <state x="464" y="165" key="SettingsEditor/0.0.1920.1080" timestamp="1712243575554" />
       </component>
     </defaultProject>
   </component>

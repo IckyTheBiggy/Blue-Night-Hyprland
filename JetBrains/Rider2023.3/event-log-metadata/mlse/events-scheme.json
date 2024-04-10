@@ -24,7 +24,11 @@
       "enums" : {
         "__event_id" : [ "logs.send", "loading.config.failed", "metadata.loaded", "metadata.updated", "metadata.update.failed", "metadata.load.failed" ]
       }
-    }
+    },
+    "anonymized_fields" : [ {
+      "event" : "logs.send",
+      "fields" : [ "paths" ]
+    } ]
   }, {
     "id" : "mlse.log",
     "builds" : [ ],
@@ -32,7 +36,7 @@
       "from" : "2"
     } ],
     "rules" : {
-      "event_id" : [ "{enum:sessionFinished|searchRestarted}" ],
+      "event_id" : [ "{enum:sessionFinished|searchRestarted|key.not.computed}" ],
       "event_data" : {
         "closePopup" : [ "{enum#boolean}" ],
         "collectedItems.absentFeatures" : [ "{util#mlse_element_feature}" ],
@@ -253,6 +257,7 @@
         "contributors.priority" : [ "{regexp#integer}" ],
         "contributors.weight" : [ "{regexp#integer}" ],
         "experimentGroup" : [ "{regexp#integer}" ],
+        "experimentVersion" : [ "{regexp#integer}" ],
         "globalMaxUsage" : [ "{regexp#integer}" ],
         "globalMaxUsageV1" : [ "{regexp#integer}" ],
         "globalMaxUsageV2" : [ "{regexp#integer}" ],
@@ -277,6 +282,9 @@
         "numberOfOpenEditors" : [ "{regexp#integer}" ],
         "openFileTypes" : [ "{util#file_type}" ],
         "orderByMl" : [ "{enum#boolean}" ],
+        "plugin" : [ "{util#plugin}" ],
+        "plugin_type" : [ "{util#plugin_type}" ],
+        "plugin_version" : [ "{util#plugin_version}" ],
         "projectDisposed" : [ "{enum#boolean}" ],
         "projectOpened" : [ "{enum#boolean}" ],
         "rebuildReason" : [ "{enum#restart_reasons}" ],
@@ -305,7 +313,8 @@
         "timeToFirstResult" : [ "{regexp#integer}" ],
         "totalItems" : [ "{regexp#integer}" ],
         "typedBackspaces" : [ "{regexp#integer}" ],
-        "typedSymbolKeys" : [ "{regexp#integer}" ]
+        "typedSymbolKeys" : [ "{regexp#integer}" ],
+        "unsupported_classes" : [ "{util#class_name}" ]
       },
       "enums" : {
         "query_matching_type" : [ "START_WITH", "WORDS_FIRST_CHAR", "GREEDY_WITH_CASE", "GREEDY", "UNKNOWN" ],
@@ -331,5 +340,5 @@
       "version" : "Unknown|unknown.format|unknown|UNKNOWN|((\\d+\\.?)*\\d+)"
     }
   },
-  "version" : "3973"
+  "version" : "4167"
 }

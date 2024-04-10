@@ -4,32 +4,11 @@
     "Custom": {
       "v2": [
         {
-          "id": "Space Code Reviews",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Bookmarks",
-          "isShowStripeButton": false,
-          "isSplit": true
-        },
-        {
-          "id": "Merge Requests",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Pull Requests",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Learn",
-          "isShowStripeButton": false
-        },
-        {
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
           "isVisible": true,
-          "weight": 0.12931034
+          "weight": 0.123373106
         },
         {
           "id": "Commit",
@@ -43,60 +22,14 @@
           "isSplit": true
         },
         {
-          "id": "Database Changes",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "TypeScript",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
           "id": "Build",
           "anchor": "BOTTOM",
-          "weight": 0.4137765
-        },
-        {
-          "id": "Dynamic Program Analysis",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "TODO",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Unit Tests",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "dotTrace Profiler",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "File Transfer",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "NuGet",
-          "anchor": "BOTTOM",
-          "weight": 0.16329479
-        },
-        {
-          "id": "dotMemory Profiler",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.33017927
         },
         {
           "id": "Version Control",
           "order": 0,
-          "anchor": "BOTTOM",
-          "weight": 0.38687152
+          "anchor": "BOTTOM"
         },
         {
           "id": "Problems",
@@ -106,77 +39,37 @@
         {
           "id": "Problems View",
           "order": 2,
-          "anchor": "BOTTOM",
-          "weight": 0.38687152
+          "anchor": "BOTTOM"
         },
         {
           "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM",
-          "weight": 0.38687152
-        },
-        {
-          "id": "Debug",
-          "order": 4,
-          "anchor": "BOTTOM",
-          "weight": 0.084296726
+          "anchor": "BOTTOM"
         },
         {
           "id": "Run",
           "order": 4,
           "anchor": "BOTTOM",
-          "floatingBounds": [
-            119,
-            701,
-            1828,
-            75
-          ],
           "isVisible": true,
-          "weight": 0.16907515
+          "weight": 0.33017927
         },
         {
           "id": "Services",
           "order": 4,
-          "anchor": "BOTTOM",
-          "weight": 0.38687152
-        },
-        {
-          "id": "Unity",
-          "order": 4,
           "anchor": "BOTTOM"
-        },
-        {
-          "id": "Unit Tests Coverage",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Endpoints",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "IL Viewer",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "documentation.v2",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "isSplit": true
         },
         {
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
-          "weight": 0.33008432
+          "contentUiType": "COMBO",
+          "weight": 0.25
         },
         {
           "id": "AIAssistant",
           "order": 1,
           "anchor": "RIGHT",
-          "weight": 0.33008432
+          "weight": 0.32998914
         },
         {
           "id": "Database",
@@ -195,19 +88,13 @@
           "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
-        },
-        {
-          "id": "Coverage",
-          "order": 4,
-          "anchor": "RIGHT",
-          "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.12931034,
-        "bottom": 0.16907515,
-        "right": 0.33008432
+        "left": 0.123373106,
+        "bottom": 0.33017927,
+        "right": 0.32998914
       }
     }
   }
