@@ -1,0 +1,293 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Solar-System" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Planets/CelestialBody.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <marker date="1715375028854" expanded="false" signature="6:52" ph="..." />
+                <marker date="1715375028854" expanded="true" signature="157:1757" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="452:560" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="637:1082" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="684:1076" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="721:1066" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1154:1206" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1256:1325" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1350:1574" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1607:1661" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1621:1655" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1691:1754" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1705:1748" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game/StarDome.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <marker date="1715375028854" expanded="false" signature="6:78" ph="..." />
+                <marker date="1715375028854" expanded="true" signature="118:1372" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="331:1047" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="569:995" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1096:1244" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1164:1220" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1269:1370" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1296:1364" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game/TerrainGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <marker date="1715375028854" expanded="false" signature="6:78" ph="..." />
+                <marker date="1715375028854" expanded="true" signature="146:2069" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="279:1024" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="310:1018" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="379:430" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="430:493" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="881:945" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1107:2003" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1202:1506" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1627:1705" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="1837:1919" ph="{...}" />
+                <marker date="1715375028854" expanded="true" signature="2028:2067" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="3" lastUsed="1715375234038" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1715375190005" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Solar-System.dir/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="3" lastUsage="1715375234038" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1715375190005" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Solar-System" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Solar-System" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Solar-System" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Scripts" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Solar-System" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Scripts" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Game" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Solar-System" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Scripts" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Planets" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Solar-System" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Scripts" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Game" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="TerrainGenerator.cs" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </select>
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2504845" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.20956607" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NuGet" weight="0.12300797" />
+      <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.36404383" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.030378487" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32998914" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.20956607" left="0.2504845" right="0.32998914" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Planets/CelestialBody.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1715375028854" expanded="false" signature="6:52" ph="..." />
+            <marker date="1715375028854" expanded="true" signature="157:1757" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="452:560" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="637:1082" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="684:1076" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="721:1066" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1154:1206" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1256:1325" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1350:1574" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1607:1661" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1621:1655" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1691:1754" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1705:1748" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game/StarDome.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <marker date="1715375028854" expanded="false" signature="6:78" ph="..." />
+            <marker date="1715375028854" expanded="true" signature="118:1372" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="331:1047" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="569:995" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1096:1244" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1164:1220" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1269:1370" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1296:1364" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Game/TerrainGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1715375028854" expanded="false" signature="6:78" ph="..." />
+            <marker date="1715375028854" expanded="true" signature="146:2069" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="279:1024" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="310:1018" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="379:430" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="430:493" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="881:945" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1107:2003" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1202:1506" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1627:1705" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="1837:1919" ph="{...}" />
+            <marker date="1715375028854" expanded="true" signature="2028:2067" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

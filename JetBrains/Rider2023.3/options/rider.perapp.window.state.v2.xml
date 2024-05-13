@@ -4,11 +4,32 @@
     "Custom": {
       "v2": [
         {
+          "id": "Space Code Reviews",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Bookmarks",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Merge Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Pull Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Learn",
+          "isShowStripeButton": false
+        },
+        {
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
           "isVisible": true,
-          "weight": 0.123373106
+          "weight": 0.21827549
         },
         {
           "id": "Commit",
@@ -22,9 +43,56 @@
           "isSplit": true
         },
         {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
           "id": "Build",
           "anchor": "BOTTOM",
-          "weight": 0.33017927
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.21165338
+        },
+        {
+          "id": "Dynamic Program Analysis",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Unit Tests",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "dotTrace Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "NuGet",
+          "anchor": "BOTTOM",
+          "weight": 0.12300797
+        },
+        {
+          "id": "dotMemory Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "Version Control",
@@ -47,16 +115,43 @@
           "anchor": "BOTTOM"
         },
         {
+          "id": "Debug",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.36404383
+        },
+        {
           "id": "Run",
           "order": 4,
           "anchor": "BOTTOM",
           "isVisible": true,
-          "weight": 0.33017927
+          "weight": 0.030378487
         },
         {
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM"
+        },
+        {
+          "id": "Unit Tests Coverage",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "IL Viewer",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
         },
         {
           "id": "Notifications",
@@ -88,12 +183,18 @@
           "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
+        },
+        {
+          "id": "Coverage",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.123373106,
-        "bottom": 0.33017927,
+        "left": 0.21827549,
+        "bottom": 0.21165338,
         "right": 0.32998914
       }
     }

@@ -1,73 +1,139 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Redo">
-      <i c="2" l="1712332003833" />
+      <i c="23" l="1715528112607" />
+    </e>
+    <e n="$SelectAll">
+      <i c="33" l="1715430236104" />
     </e>
     <e n="$Undo">
-      <i c="15" l="1712683371341" />
+      <i c="446" l="1715528128445" />
+    </e>
+    <e n="Back">
+      <i c="5" l="1715374229860" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1712794083386" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1163" l="1712683396842" />
+      <i c="6706" l="1715528338179" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="290" l="1712683395948" />
+      <i c="1879" l="1715528289693" />
     </e>
     <e n="EditorCopy">
-      <i c="10" l="1712332285627" />
+      <i c="210" l="1715528251333" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="6" l="1715377347540" />
     </e>
     <e n="EditorDown">
-      <i c="146" l="1712683395572" />
+      <i c="1595" l="1715528289492" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="3" l="1715377098891" />
     </e>
     <e n="EditorEnter">
-      <i c="141" l="1712683367922" />
+      <i c="1165" l="1715528286094" />
     </e>
     <e n="EditorLeft">
-      <i c="54" l="1712333120730" />
+      <i c="325" l="1715528334117" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="2" l="1713226855303" />
+    </e>
+    <e n="EditorLookupDown">
+      <i c="1" l="1715435989683" />
     </e>
     <e n="EditorNextWord">
-      <i c="52" l="1712683291967" />
+      <i c="677" l="1715527760624" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="2" l="1712268103731" />
+      <i c="55" l="1715528337270" />
     </e>
     <e n="EditorPaste">
-      <i c="5" l="1712332288440" />
+      <i c="129" l="1715528253058" />
     </e>
     <e n="EditorPreviousWord">
-      <i c="68" l="1712683292324" />
+      <i c="494" l="1715527761032" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="33" l="1712683383970" />
+      <i c="477" l="1715528337471" />
     </e>
     <e n="EditorRight">
-      <i c="128" l="1712683390254" />
+      <i c="891" l="1715528336172" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="2" l="1715440088090" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="7" l="1715456823054" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="2" l="1713161658097" />
     </e>
     <e n="EditorSelectWord">
       <i c="1" l="1712332311641" />
     </e>
     <e n="EditorTab">
-      <i c="6" l="1712333043802" />
+      <i c="26" l="1715456818747" />
     </e>
     <e n="EditorUp">
-      <i c="56" l="1712683290775" />
+      <i c="731" l="1715528236930" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="2" l="1714467440745" />
+    </e>
+    <e n="Find">
+      <i c="4" l="1715527800800" />
+    </e>
+    <e n="Forward">
+      <i c="2" l="1715374228647" />
     </e>
     <e n="Images.SetBackgroundImage">
       <i c="5" l="1712243674881" />
     </e>
+    <e n="JumpToLastChange">
+      <i c="1" l="1715377331743" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1715528078908" />
+    </e>
     <e n="RedesignedRunConfigurationSelector">
       <i c="1" l="1712243825570" />
     </e>
+    <e n="RenameElement">
+      <i c="2" l="1713218184367" />
+    </e>
+    <e n="RiderEditSourceInRightSplit">
+      <i c="2" l="1713116665647" />
+    </e>
+    <e n="RiderNewSolution">
+      <i c="5" l="1714656171535" />
+    </e>
+    <e n="RiderNuGetToggleToolWindowAction">
+      <i c="2" l="1712794197532" />
+    </e>
     <e n="RiderOpenSolution">
-      <i c="3" l="1712683323770" />
+      <i c="10" l="1715375254017" />
     </e>
     <e n="Run">
-      <i c="38" l="1712621717997" />
+      <i c="59" l="1714656338119" />
     </e>
     <e n="SaveDocument">
-      <i c="368" l="1712683397569" />
+      <i c="2822" l="1715528345555" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="3" l="1715373543319" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1715526041089" />
     </e>
     <e n="ShowSettings">
-      <i c="4" l="1712243672800" />
+      <i c="5" l="1712711832094" />
+    </e>
+    <e n="Stop">
+      <i c="13" l="1712794179635" />
     </e>
     <e n="WelcomeScreen.Configure.Import">
       <i c="1" l="1712243496208" />
@@ -78,17 +144,38 @@
     <e n="WelcomeScreen.Settings">
       <i c="3" l="1712243554690" />
     </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="15" l="1715430265000" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1715375249229" />
+    </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1" l="1712243611043" />
+      <i c="4" l="1713155202744" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="4" l="1715373544387" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="3" l="1714986171739" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="4" l="1712243671937" />
+      <i c="12" l="1715375252394" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
       <i c="6" l="1712243553939" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="1" l="1712243612119" />
+    </e>
+    <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
+      <i c="5" l="1713226786146" />
+    </e>
+    <e n="com.jetbrains.rider.plugins.unity.notifications.OpenUnityProjectAsFolderNotification$execute$2$1$2">
+      <i c="1" l="1715375241774" />
+    </e>
+    <e n="rider.connectToDatabase">
+      <i c="1" l="1714467651519" />
     </e>
   </component>
 </application>

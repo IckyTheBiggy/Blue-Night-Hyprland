@@ -1,0 +1,320 @@
+20:58:36.032: Using EGL/X11
+20:58:36.032: CPU Name: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz
+20:58:36.032: CPU Speed: 4800.000MHz
+20:58:36.032: Physical Cores: 8, Logical Cores: 16
+20:58:36.032: Physical Memory: 31995MB Total, 2344MB Free
+20:58:36.032: Kernel Version: Linux 6.8.7-arch1-1
+20:58:36.032: Distribution: "Arch Linux" Unknown
+20:58:36.032: Desktop Environment: i3 (i3)
+20:58:36.032: Session Type: x11
+20:58:36.032: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+20:58:36.033: Qt Version: 6.7.0 (runtime), 6.6.3 (compiled)
+20:58:36.033: Portable mode: false
+20:58:36.049: OBS 30.1.1-1 (linux)
+20:58:36.049: ---------------------------------
+20:58:36.050: ---------------------------------
+20:58:36.050: audio settings reset:
+20:58:36.050: 	samples per sec: 48000
+20:58:36.050: 	speakers:        2
+20:58:36.050: 	max buffering:   960 milliseconds
+20:58:36.050: 	buffering type:  dynamically increasing
+20:58:36.051: ---------------------------------
+20:58:36.051: Initializing OpenGL...
+20:58:36.087: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2
+20:58:36.087: OpenGL loaded successfully, version 3.3.0 NVIDIA 550.76, shading language 3.30 NVIDIA via Cg compiler
+20:58:36.105: ---------------------------------
+20:58:36.105: video settings reset:
+20:58:36.105: 	base resolution:   1920x1080
+20:58:36.105: 	output resolution: 1920x1080
+20:58:36.105: 	downscale filter:  Bicubic
+20:58:36.105: 	fps:               60/1
+20:58:36.105: 	format:            NV12
+20:58:36.105: 	YUV mode:          Rec. 709/Partial
+20:58:36.105: NV12 texture support enabled
+20:58:36.105: P010 texture support not available
+20:58:36.106: Audio monitoring device:
+20:58:36.106: 	name: Default
+20:58:36.106: 	id: default
+20:58:36.106: ---------------------------------
+20:58:36.110: Failed to load 'en-US' text for module: 'decklink-captions.so'
+20:58:36.114: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+20:58:36.117: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+20:58:36.117: Failed to initialize module 'decklink.so'
+20:58:36.190: [pipewire] No captures available
+20:58:36.200: v4l2loopback not installed, virtual camera disabled
+20:58:36.227: NVENC supported
+20:58:36.227: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+20:58:36.227: FFmpeg VAAPI H264 encoding not supported
+20:58:36.227: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+20:58:36.227: FFmpeg VAAPI AV1 encoding not supported
+20:58:36.227: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+20:58:36.227: FFmpeg VAAPI HEVC encoding not supported
+20:58:36.258: os_dlopen(/usr//lib/obs-plugins/obs-webrtc.so->/usr//lib/obs-plugins/obs-webrtc.so): libjuice.so.1.3.4: cannot open shared object file: No such file or directory
+20:58:36.258: 
+20:58:36.260: os_dlopen(/usr//lib/obs-plugins/obs-webrtc.so->/usr//lib/obs-plugins/obs-webrtc.so): libjuice.so.1.3.4: cannot open shared object file: No such file or directory
+20:58:36.260: 
+20:58:36.260: Module '/usr//lib/obs-plugins/obs-webrtc.so' not loaded
+20:58:36.273: ---------------------------------
+20:58:36.273:   Loaded Modules:
+20:58:36.273:     text-freetype2.so
+20:58:36.273:     rtmp-services.so
+20:58:36.273:     obs-x264.so
+20:58:36.273:     obs-vst.so
+20:58:36.273:     obs-transitions.so
+20:58:36.273:     obs-qsv11.so
+20:58:36.273:     obs-outputs.so
+20:58:36.273:     obs-libfdk.so
+20:58:36.273:     obs-filters.so
+20:58:36.273:     obs-ffmpeg.so
+20:58:36.273:     linux-v4l2.so
+20:58:36.273:     linux-pulseaudio.so
+20:58:36.273:     linux-pipewire.so
+20:58:36.273:     linux-jack.so
+20:58:36.273:     linux-capture.so
+20:58:36.273:     linux-alsa.so
+20:58:36.273:     image-source.so
+20:58:36.273:     frontend-tools.so
+20:58:36.273:     decklink-output-ui.so
+20:58:36.273:     decklink-captions.so
+20:58:36.273: ---------------------------------
+20:58:36.273: ==== Startup complete ===============================================
+20:58:36.306: All scene data cleared
+20:58:36.306: ------------------------------------------------
+20:58:36.309: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+20:58:36.309: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+20:58:36.309: pulse-input: Started recording from 'alsa_output.usb-Generic_USB_Audio-00.HiFi__hw_Audio__sink.monitor' (default)
+20:58:36.309: [Loaded global audio device]: 'Desktop Audio'
+20:58:36.309: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+20:58:36.309: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+20:58:36.309: pulse-input: Started recording from 'alsa_input.usb-HP__Inc_HyperX_QuadCast_S_4103-00.analog-stereo' (default)
+20:58:36.309: [Loaded global audio device]: 'Mic/Aux'
+20:58:36.309: xshm-input: Geometry 1920x1080 @ 0,0
+20:58:36.310: Switched to scene 'Scene'
+20:58:36.310: ------------------------------------------------
+20:58:36.310: Loaded scenes:
+20:58:36.310: - scene 'Scene':
+20:58:36.310:     - source: 'Screen Capture (XSHM)' (xshm_input)
+20:58:36.310: ------------------------------------------------
+20:58:36.839: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+20:58:36.839: 
+20:58:37.422: ---------------------------------
+20:58:37.422: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:58:37.422: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:58:37.422: 	rate_control: CQP
+20:58:37.422: 	bitrate:      0
+20:58:37.422: 	cqp:          23
+20:58:37.422: 	keyint:       -1
+20:58:37.422: 	preset:       p5
+20:58:37.422: 	tuning:       hq
+20:58:37.422: 	multipass:    qres
+20:58:37.422: 	profile:      high
+20:58:37.422: 	width:        1920
+20:58:37.422: 	height:       1080
+20:58:37.422: 	b-frames:     2
+20:58:37.422: 	psycho-aq:    1
+20:58:37.422: 	GPU:          0
+20:58:37.422: 
+20:58:37.525: [NVENC encoder] nvenc_create_internal failed, trying again without Psycho Visual Tuning
+20:58:37.525: ---------------------------------
+20:58:37.525: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:58:37.525: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:58:37.525: 	rate_control: CQP
+20:58:37.525: 	bitrate:      0
+20:58:37.525: 	cqp:          23
+20:58:37.525: 	keyint:       -1
+20:58:37.525: 	preset:       p5
+20:58:37.525: 	tuning:       hq
+20:58:37.525: 	multipass:    qres
+20:58:37.525: 	profile:      high
+20:58:37.525: 	width:        1920
+20:58:37.525: 	height:       1080
+20:58:37.525: 	b-frames:     2
+20:58:37.525: 	psycho-aq:    0
+20:58:37.525: 	GPU:          0
+20:58:37.525: 
+20:58:39.581: ---------------------------------
+20:58:39.581: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:58:39.581: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:58:39.581: 	rate_control: CQP
+20:58:39.581: 	bitrate:      0
+20:58:39.581: 	cqp:          23
+20:58:39.581: 	keyint:       -1
+20:58:39.581: 	preset:       p5
+20:58:39.581: 	tuning:       hq
+20:58:39.581: 	multipass:    qres
+20:58:39.581: 	profile:      high
+20:58:39.581: 	width:        1920
+20:58:39.581: 	height:       1080
+20:58:39.581: 	b-frames:     2
+20:58:39.581: 	psycho-aq:    1
+20:58:39.581: 	GPU:          0
+20:58:39.581: 
+20:58:39.622: [NVENC encoder] nvenc_create_internal failed, trying again without Psycho Visual Tuning
+20:58:39.622: ---------------------------------
+20:58:39.622: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:58:39.622: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:58:39.622: 	rate_control: CQP
+20:58:39.622: 	bitrate:      0
+20:58:39.622: 	cqp:          23
+20:58:39.622: 	keyint:       -1
+20:58:39.622: 	preset:       p5
+20:58:39.622: 	tuning:       hq
+20:58:39.622: 	multipass:    qres
+20:58:39.622: 	profile:      high
+20:58:39.622: 	width:        1920
+20:58:39.622: 	height:       1080
+20:58:39.622: 	b-frames:     2
+20:58:39.622: 	psycho-aq:    0
+20:58:39.622: 	GPU:          0
+20:58:39.622: 
+20:58:45.684: Failed to make context current: EGL_BAD_ALLOC
+20:58:45.688: Cannot swap EGL buffers: EGL_BAD_SURFACE
+20:58:47.435: Failed to make context current: EGL_BAD_ALLOC
+20:58:47.441: Cannot swap EGL buffers: EGL_BAD_SURFACE
+20:58:49.779:   OpenType support missing for "Open Sans", script 11
+20:58:49.780:   OpenType support missing for "Open Sans", script 12
+20:58:49.780:   OpenType support missing for "Open Sans", script 16
+20:58:49.781:   OpenType support missing for "Open Sans", script 20
+20:58:58.714: ---------------------------------
+20:58:58.714: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:58:58.714: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:58:58.714: 	rate_control: CQP
+20:58:58.714: 	bitrate:      0
+20:58:58.714: 	cqp:          23
+20:58:58.714: 	keyint:       -1
+20:58:58.714: 	preset:       p5
+20:58:58.714: 	tuning:       hq
+20:58:58.714: 	multipass:    qres
+20:58:58.714: 	profile:      high
+20:58:58.714: 	width:        1920
+20:58:58.714: 	height:       1080
+20:58:58.714: 	b-frames:     2
+20:58:58.714: 	psycho-aq:    1
+20:58:58.714: 	GPU:          0
+20:58:58.714: 
+20:58:58.760: [NVENC encoder] nvenc_create_internal failed, trying again without Psycho Visual Tuning
+20:58:58.760: ---------------------------------
+20:58:58.760: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:58:58.760: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:58:58.760: 	rate_control: CQP
+20:58:58.760: 	bitrate:      0
+20:58:58.760: 	cqp:          23
+20:58:58.760: 	keyint:       -1
+20:58:58.760: 	preset:       p5
+20:58:58.760: 	tuning:       hq
+20:58:58.760: 	multipass:    qres
+20:58:58.760: 	profile:      high
+20:58:58.760: 	width:        1920
+20:58:58.760: 	height:       1080
+20:58:58.760: 	b-frames:     2
+20:58:58.760: 	psycho-aq:    0
+20:58:58.760: 	GPU:          0
+20:58:58.760: 
+20:59:01.801: ---------------------------------
+20:59:01.801: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:59:01.801: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:59:01.801: 	rate_control: CQP
+20:59:01.801: 	bitrate:      0
+20:59:01.801: 	cqp:          23
+20:59:01.801: 	keyint:       -1
+20:59:01.801: 	preset:       p5
+20:59:01.801: 	tuning:       hq
+20:59:01.801: 	multipass:    qres
+20:59:01.801: 	profile:      high
+20:59:01.801: 	width:        1920
+20:59:01.801: 	height:       1080
+20:59:01.801: 	b-frames:     2
+20:59:01.801: 	psycho-aq:    1
+20:59:01.801: 	GPU:          0
+20:59:01.801: 
+20:59:01.843: [NVENC encoder] nvenc_create_internal failed, trying again without Psycho Visual Tuning
+20:59:01.843: ---------------------------------
+20:59:01.843: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:59:01.843: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:59:01.843: 	rate_control: CQP
+20:59:01.843: 	bitrate:      0
+20:59:01.843: 	cqp:          23
+20:59:01.843: 	keyint:       -1
+20:59:01.843: 	preset:       p5
+20:59:01.843: 	tuning:       hq
+20:59:01.843: 	multipass:    qres
+20:59:01.843: 	profile:      high
+20:59:01.843: 	width:        1920
+20:59:01.843: 	height:       1080
+20:59:01.843: 	b-frames:     2
+20:59:01.843: 	psycho-aq:    0
+20:59:01.843: 	GPU:          0
+20:59:01.843: 
+20:59:03.386: Failed to make context current: EGL_BAD_ALLOC
+20:59:03.393: Cannot swap EGL buffers: EGL_BAD_SURFACE
+20:59:06.835: Failed to make context current: EGL_BAD_ALLOC
+20:59:06.840: Cannot swap EGL buffers: EGL_BAD_SURFACE
+20:59:25.668: Failed to make context current: EGL_BAD_ALLOC
+20:59:25.668: Cannot swap EGL buffers: EGL_BAD_SURFACE
+20:59:25.924: ==== Shutting down ==================================================
+20:59:25.938: pulse-input: Stopped recording from 'alsa_output.usb-Generic_USB_Audio-00.HiFi__hw_Audio__sink.monitor'
+20:59:25.938: pulse-input: Got 1985 packets with 2382000 frames
+20:59:25.938: pulse-input: Stopped recording from 'alsa_input.usb-HP__Inc_HyperX_QuadCast_S_4103-00.analog-stereo'
+20:59:25.938: pulse-input: Got 1984 packets with 2380800 frames
+20:59:25.950: All scene data cleared
+20:59:25.950: ------------------------------------------------
+20:59:25.995: [Scripting] Total detached callbacks: 0
+20:59:25.995: Freeing OBS context data
+20:59:26.002: == Profiler Results =============================
+20:59:26.002: run_program_init: 324.283 ms
+20:59:26.002:  ┣OBSApp::AppInit: 3.266 ms
+20:59:26.002:  ┃ ┗OBSApp::InitLocale: 0.696 ms
+20:59:26.002:  ┗OBSApp::OBSInit: 304.315 ms
+20:59:26.002:    ┣obs_startup: 0.671 ms
+20:59:26.002:    ┗OBSBasic::OBSInit: 286.899 ms
+20:59:26.002:      ┣OBSBasic::InitBasicConfig: 0.107 ms
+20:59:26.002:      ┣OBSBasic::ResetAudio: 0.155 ms
+20:59:26.002:      ┣OBSBasic::ResetVideo: 55.611 ms
+20:59:26.002:      ┃ ┗obs_init_graphics: 55.269 ms
+20:59:26.002:      ┃   ┗shader compilation: 17.544 ms
+20:59:26.002:      ┣OBSBasic::InitOBSCallbacks: 0.003 ms
+20:59:26.002:      ┣OBSBasic::InitHotkeys: 0.018 ms
+20:59:26.002:      ┣obs_load_all_modules2: 166.97 ms
+20:59:26.002:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+20:59:26.002:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+20:59:26.002:      ┃ ┣obs_init_module(decklink.so): 0.063 ms
+20:59:26.002:      ┃ ┣obs_init_module(frontend-tools.so): 43.537 ms
+20:59:26.002:      ┃ ┣obs_init_module(image-source.so): 0.007 ms
+20:59:26.002:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+20:59:26.002:      ┃ ┣obs_init_module(linux-capture.so): 0.5 ms
+20:59:26.002:      ┃ ┣obs_init_module(linux-jack.so): 0.001 ms
+20:59:26.002:      ┃ ┣obs_init_module(linux-pipewire.so): 2.085 ms
+20:59:26.002:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.001 ms
+20:59:26.002:      ┃ ┣obs_init_module(linux-v4l2.so): 2.584 ms
+20:59:26.002:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.891 ms
+20:59:26.002:      ┃ ┃ ┗nvenc_check: 0.575 ms
+20:59:26.002:      ┃ ┣obs_init_module(obs-filters.so): 0.016 ms
+20:59:26.002:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+20:59:26.002:      ┃ ┣obs_init_module(obs-outputs.so): 0.002 ms
+20:59:26.002:      ┃ ┣obs_init_module(obs-qsv11.so): 0.471 ms
+20:59:26.002:      ┃ ┣obs_init_module(obs-transitions.so): 0.006 ms
+20:59:26.002:      ┃ ┣obs_init_module(obs-vst.so): 0.004 ms
+20:59:26.002:      ┃ ┣obs_init_module(obs-x264.so): 0.001 ms
+20:59:26.002:      ┃ ┣obs_init_module(rtmp-services.so): 0.351 ms
+20:59:26.002:      ┃ ┗obs_init_module(text-freetype2.so): 0.009 ms
+20:59:26.002:      ┣OBSBasic::InitService: 0.552 ms
+20:59:26.002:      ┣OBSBasic::ResetOutputs: 0.118 ms
+20:59:26.002:      ┣OBSBasic::CreateHotkeys: 0.018 ms
+20:59:26.002:      ┣OBSBasic::InitPrimitives: 0.066 ms
+20:59:26.002:      ┗OBSBasic::Load: 36.751 ms
+20:59:26.002: obs_hotkey_thread(25 ms): min=0.03 ms, median=0.05 ms, max=80.633 ms, 99th percentile=16.458 ms, 99.7367% below 25 ms
+20:59:26.002: audio_thread(Audio): min=0.006 ms, median=0.029 ms, max=0.582 ms, 99th percentile=0.109 ms
+20:59:26.002: obs_graphics_thread(16.6667 ms): min=0.101 ms, median=2.545 ms, max=118.719 ms, 99th percentile=34.345 ms, 96.1604% below 16.667 ms
+20:59:26.002:  ┣tick_sources: min=0 ms, median=2.186 ms, max=104.317 ms, 99th percentile=30.641 ms
+20:59:26.002:  ┣output_frame: min=0.049 ms, median=0.113 ms, max=3.961 ms, 99th percentile=0.375 ms
+20:59:26.002:  ┃ ┗gs_context(video->graphics): min=0.049 ms, median=0.113 ms, max=3.96 ms, 99th percentile=0.372 ms
+20:59:26.002:  ┃   ┣render_video: min=0.038 ms, median=0.095 ms, max=3.935 ms, 99th percentile=0.26 ms
+20:59:26.002:  ┃   ┃ ┗render_main_texture: min=0.033 ms, median=0.088 ms, max=3.926 ms, 99th percentile=0.245 ms
+20:59:26.002:  ┃   ┗gs_flush: min=0.002 ms, median=0.004 ms, max=2.104 ms, 99th percentile=0.02 ms
+20:59:26.002:  ┗render_displays: min=0.006 ms, median=0.143 ms, max=35.527 ms, 99th percentile=1.438 ms
+20:59:26.002: =================================================
+20:59:26.002: == Profiler Time Between Calls ==================
+20:59:26.002: obs_hotkey_thread(25 ms): min=25.047 ms, median=25.11 ms, max=105.697 ms, 81.1907% within ±2% of 25 ms (0% lower, 18.8093% higher)
+20:59:26.002: obs_graphics_thread(16.6667 ms): min=4.211 ms, median=16.667 ms, max=118.73 ms, 93.5418% within ±2% of 16.667 ms (2.88919% lower, 3.569% higher)
+20:59:26.002: =================================================
+20:59:26.007: Number of memory leaks: 0

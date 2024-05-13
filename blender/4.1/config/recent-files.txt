@@ -1,3 +1,12 @@
+/home/bnn/MyPrintableModels/ExternalHardDriveStand.blend
+/home/bnn/MyPrintableModels/PrintedPlane.blend
+/home/bnn/MyPrintableModels/ROD.blend
+/home/bnn/MyPrintableModels/MyPlaneWing.blend
+/home/bnn/GameDevStuff/LD55/Blender/CharRenders.blend
+/home/bnn/MyPrintableModels/Tux.blend
+/home/bnn/MyPrintableModels/FakePoundCoinV2.blend
+/home/bnn/MyPrintableModels/FakePoundCoinV3.blend
+/home/bnn/MyPrintableModels/FakePoundCoin.blend
 /home/bnn/MyPrintableModels/CTAgent.blend
 /home/bnn/MyPrintableModels/Base3DModelForPrinting.blend
 /home/bnn/MyPrintableModels/BatteryHolder.blend
@@ -9,4 +18,3 @@
 /home/bnn/GameDevStuff/DoomRemakeAssets/classic-weapon-set-doom/source/DOOM_weapon_pack.blend
 /home/bnn/GameDevStuff/DoomRemakeAssets/SourceFiles/Weapons/classic-weapon-set-doom/source/DOOM_weapon_pack.blend
 /home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/Blend/Medkit.blend
-/home/bnn/GameDevStuff/SourceStyleAssest/Voxel/Models/Blend/Zombie(Optimized).blend

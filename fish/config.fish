@@ -6,5 +6,6 @@ end
 function fish_greeting
     neofetch
 end
+alias nlear='clear; neofetch'
 
 fish_add_path /home/BNN/.spicetify

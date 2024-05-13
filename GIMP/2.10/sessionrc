@@ -15,7 +15,7 @@
     (size 909 1014)
     (open-on-exit)
     (aux-info
-        (left-docks-width "188")
+        (left-docks-width "180")
         (right-docks-width "209")
         (maximized "no"))
     (gimp-toolbox
@@ -78,15 +78,15 @@
                     (show-button-bar "true"))))))
 (session-info "toplevel"
     (factory-entry "gimp-file-save-dialog")
-    (position 128 28)
+    (position 127 27)
     (size 720 554))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
-    (position 352 70)
+    (position 350 68)
     (size 720 554))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
-    (position 842 0))
+    (position 841 0))
 (session-info "toplevel"
     (factory-entry "gimp-preferences-dialog")
     (position 168 141)

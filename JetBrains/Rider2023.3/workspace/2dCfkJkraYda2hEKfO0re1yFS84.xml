@@ -1,0 +1,1160 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="AstroCraft" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Utils/KeplerOrbitUtils.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+              <folding>
+                <marker date="1715378337747" expanded="true" signature="47:135" ph="/// Math utility methods for help in orbits calculations. ... " />
+                <marker date="1715378337747" expanded="true" signature="173:9292" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="179:223" ph="/// Two PI. ... " />
+                <marker date="1715378337747" expanded="true" signature="421:622" ph="/// Regular Acosh, but without exception when out of possible range. ... " />
+                <marker date="1715378337747" expanded="true" signature="661:758" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="681:705" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="762:1042" ph="/// Rotate vector around another vector (double). ... " />
+                <marker date="1715378337747" expanded="true" signature="1128:1896" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1934:1968" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2004:2038" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2042:2122" ph="/// Calculate velocity vector for circle orbit. ... " />
+                <marker date="1715378337747" expanded="true" signature="2271:2568" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2572:2886" ph="/// Calculates the center of mass. ... " />
+                <marker date="1715378337747" expanded="true" signature="2986:3057" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3061:3314" ph="/// Converts the eccentric to true anomaly. ... " />
+                <marker date="1715378337747" expanded="true" signature="3413:3949" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3444:3672" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3609:3648" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3704:3898" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3906:3945" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3953:4201" ph="/// Converts the true to eccentric anomaly. ... " />
+                <marker date="1715378337747" expanded="true" signature="4295:5170" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4369:4403" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4455:4754" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4485:4523" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4685:4728" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4786:4965" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4973:5166" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4983:5137" ph="/* For parabolic trajectories ... */" />
+                <marker date="1715378337747" expanded="true" signature="5174:5422" ph="/// Converts the mean to eccentric anomaly. ... " />
+                <marker date="1715378337747" expanded="true" signature="5516:5927" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5547:5609" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5641:5717" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5725:5923" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5931:6184" ph="/// Converts the eccentric to mean anomaly. ... " />
+                <marker date="1715378337747" expanded="true" signature="6283:6621" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6314:6397" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6429:6513" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6521:6617" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6625:7053" ph="/// Gets the True anomaly value from current distance from the focus (attractor). ... " />
+                <marker date="1715378337747" expanded="true" signature="7189:7583" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7220:7345" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7377:7502" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7510:7579" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7587:7889" ph="/// A classic Kepler solver. ... " />
+                <marker date="1715378337747" expanded="true" signature="7966:8560" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8275:8542" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8564:8807" ph="/// Kepler solver for hyperbolic case. ... " />
+                <marker date="1715378337747" expanded="true" signature="8898:9289" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="9066:9100" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="9142:9271" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2256">
+              <caret line="94" column="59" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+              <folding>
+                <marker date="1715527962927" expanded="true" signature="61:143" ph="/// Simple camera controller for the example scene. ... " />
+                <marker date="1715527962927" expanded="true" signature="190:3971" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="776:811" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="836:914" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="953:1628" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="1666:1925" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="1702:1819" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="1731:1794" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="1827:1921" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="1855:1916" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="1955:2426" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="2460:2542" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="2573:2652" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="2681:3021" ph="{...}" />
+                <marker date="1715527962927" expanded="true" signature="3052:3968" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScreenSpaceOrbitsDisplay.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+                <marker date="1715378337747" expanded="true" signature="95:439" ph="/// Scene orbits lines display on camera projection for the demo scene. ... " />
+                <marker date="1715378337747" expanded="true" signature="537:6440" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="566:705" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1397:1669" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1630:1665" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1697:1806" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1734:1802" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1858:2102" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2051:2098" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2191:2375" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2233:2333" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2404:3629" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2487:2595" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2529:2567" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2630:3535" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3326:3384" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3393:3494" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3805:4845" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3891:3952" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4023:4706" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4237:4283" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4292:4339" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4802:4841" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5067:5932" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5120:5725" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5190:5720" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5255:5347" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5357:5402" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5493:5550" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5604:5703" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5771:5928" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5831:5923" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5985:6118" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6161:6361" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6190:6232" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6409:6437" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/JPLOrbitsLoader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#85#0" expanded="true" />
+                <marker date="1715378337747" expanded="true" signature="128:250" ph="/// Controller for spawning bodies by orbital elements values. Supports JPL database input. ... " />
+                <marker date="1715378337747" expanded="true" signature="339:8356" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="391:464" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="468:542" ph="/// Data container for single body orbit. ... " />
+                <marker date="1715378337747" expanded="true" signature="590:1897" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="690:742" ph="/// Eccentricity. ... " />
+                <marker date="1715378337747" expanded="true" signature="797:858" ph="/// Inclination (degrees). ... " />
+                <marker date="1715378337747" expanded="true" signature="912:989" ph="/// Longitude of Ascending Node (degrees). ... " />
+                <marker date="1715378337747" expanded="true" signature="1056:1127" ph="/// Argument of perifocus (degrees). ... " />
+                <marker date="1715378337747" expanded="true" signature="1190:1252" ph="/// Mean anomaly (degrees). ... " />
+                <marker date="1715378337747" expanded="true" signature="1307:1367" ph="/// Semi-major axis (au). ... " />
+                <marker date="1715378337747" expanded="true" signature="1424:1541" ph="/// Diameter for the body transform scale calulation. ... " />
+                <marker date="1715378337747" expanded="true" signature="1577:1636" ph="/// Distance multiplier; ... " />
+                <marker date="1715378337747" expanded="true" signature="1672:1731" ph="/// Material tint color. ... " />
+                <marker date="1715378337747" expanded="true" signature="1773:1869" ph="/// Custom type param. Used to switch mesh material for body. ... " />
+                <marker date="1715378337747" expanded="true" signature="1924:1951" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1996:2103" ph="/// Gravitational constant. In this context plays role of speed muliplier. ... " />
+                <marker date="1715378337747" expanded="true" signature="2140:2222" ph="/// Orbit scale multiplier: world units per 1 au. ... " />
+                <marker date="1715378337747" expanded="true" signature="2258:2353" ph="/// Body scale multiplier: world scale unit per diameter unit. ... " />
+                <marker date="1715378337747" expanded="true" signature="2395:2522" ph="/// Each body can have it's own multiplier value for semi major axis for better visualization. ... " />
+                <marker date="1715378337747" expanded="true" signature="2578:2728" ph="/// Astronomical unit in SI units. ... " />
+                <marker date="1715378337747" expanded="true" signature="3080:3311" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3165:3307" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3197:3235" ph="..." />
+                <marker date="1715378337747" expanded="true" signature="3263:3302" ph="..." />
+                <marker date="1715378337747" expanded="true" signature="3382:3561" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3411:3557" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3508:3552" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3638:3674" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3741:4089" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3860:4085" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3909:4080" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3947:4001" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4011:4074" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4143:5617" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4151:4426" ph="/* Spawn all bodies in multiple passes to resolve parent-child connections. ... */" />
+                <marker date="1715378337747" expanded="true" signature="4664:5452" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4742:5447" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4925:4977" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5111:5341" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5351:5441" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5499:5613" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5674:5878" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5720:5756" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5960:7648" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6189:6237" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6310:6383" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6457:6605" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6467:6567" ph="/* By default MLT value is 1, ... */" />
+                <marker date="1715378337747" expanded="true" signature="7332:7387" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7395:7431" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7768:8160" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7860:8156" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7958:8001" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8010:8151" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8196:8353" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8243:8318" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8270:8313" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <marker date="1715378337747" expanded="true" signature="135:400" ph="/// Simple orbits time controller. ... " />
+                <marker date="1715378337747" expanded="true" signature="488:3367" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="521:609" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1142:1182" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1206:1588" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1441:1470" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1616:1721" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1651:1717" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1752:1809" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1834:1921" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1971:2023" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1993:2019" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2067:2397" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2075:2233" ph="/* Body's initial mean anomaly is taken as origin point for the epoch. ... */" />
+                <marker date="1715378337747" expanded="true" signature="2271:2354" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2435:2478" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2522:3157" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2667:3014" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2699:2749" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2946:3009" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3033:3153" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3073:3113" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3202:3364" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3273:3360" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3305:3355" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RocketControllerScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1344">
+              <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollowScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+                <marker date="1715526225654" expanded="true" signature="81:204" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/WorldManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="888">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#92#0" expanded="true" />
+                <marker date="1715528338739" expanded="true" signature="135:1352" ph="{...}" />
+                <marker date="1715528338739" expanded="true" signature="341:568" ph="{...}" />
+                <marker date="1715528338739" expanded="true" signature="476:538" ph="{...}" />
+                <marker date="1715528338739" expanded="true" signature="595:1189" ph="{...}" />
+                <marker date="1715528338739" expanded="true" signature="647:880" ph="{...}" />
+                <marker date="1715528338739" expanded="true" signature="713:870" ph="{...}" />
+                <marker date="1715528338739" expanded="true" signature="926:1139" ph="{...}" />
+                <marker date="1715528338739" expanded="true" signature="972:1129" ph="{...}" />
+                <marker date="1715528338739" expanded="true" signature="1223:1350" ph="{...}" />
+                <marker date="1715528338739" expanded="true" signature="1278:1344" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Components/KeplerOrbitLineDisplay.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="205" column="1" selection-start-line="205" selection-start-column="1" selection-end-line="205" selection-end-column="1" />
+              <folding>
+                <marker date="1715378337747" expanded="true" signature="48:6938" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="52:204" ph="/// Component for displaying current orbit curve in editor and in game. ... " />
+                <marker date="1715378337747" expanded="true" signature="320:6936" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="326:389" ph="/// The orbit curve precision. ... " />
+                <marker date="1715378337747" expanded="true" signature="429:525" ph="/// The maximum orbit distance of orbit display in world units. ... " />
+                <marker date="1715378337747" expanded="true" signature="580:645" ph="/// The line renderer reference. ... " />
+                <marker date="1715378337747" expanded="true" signature="1321:1427" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1357:1423" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1456:2293" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1508:1530" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="1636:2289" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2054:2204" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2341:2946" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2403:2942" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2473:2937" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2592:2931" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2636:2675" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2742:2778" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2813:2848" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2886:2924" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2973:4138" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4168:4570" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4451:4566" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4601:5088" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4880:4949" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5116:5747" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5544:5743" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5775:6732" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6355:6728" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6812:6926" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6854:6922" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Components/KeplerOrbitMover.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7128">
+              <caret line="298" column="21" selection-start-line="298" selection-start-column="21" selection-end-line="298" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+                <marker date="1715378337747" expanded="true" signature="78:248" ph="/// Component for moving game object in eliptic or hyperbolic path around attractor body. ... " />
+                <marker date="1715378337747" expanded="true" signature="358:11057" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="364:509" ph="/// The attractor settings data. ... " />
+                <marker date="1715378337747" expanded="true" signature="577:714" ph="/// The velocity handle object. ... " />
+                <marker date="1715378337747" expanded="true" signature="863:943" ph="/// The velocity handle length scale parameter. ... " />
+                <marker date="1715378337747" expanded="true" signature="1061:1124" ph="/// The time scale multiplier. ... " />
+                <marker date="1715378337747" expanded="true" signature="1201:1284" ph="/// The orbit data. ... " />
+                <marker date="1715378337747" expanded="true" signature="1423:2084" ph="/// Disable continious editing orbit in update loop, if you don't need it. ... " />
+                <marker date="1715378337747" expanded="true" signature="2286:2391" ph="/// The debug error displayed flag. ... " />
+                <marker date="1715378337747" expanded="true" signature="2516:2614" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2641:2922" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2671:2709" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2757:2779" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2817:2862" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2950:3061" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="2985:3057" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3065:3536" ph="/// Updates orbit internal data. ... " />
+                <marker date="1715378337747" expanded="true" signature="3560:4879" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3592:4378" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3624:4373" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="3855:4107" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4047:4100" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4323:4367" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4386:4875" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4459:4807" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4497:4801" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4572:4680" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4691:4794" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4816:4863" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="4884:5272" ph="/// Progress orbit path motion. ... " />
+                <marker date="1715378337747" expanded="true" signature="5312:5709" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5332:5705" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5366:5676" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5406:5513" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5547:5670" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="5713:6127" ph="/// Updates OrbitData from new body position and velocity vectors. ... " />
+                <marker date="1715378337747" expanded="true" signature="6223:6596" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6255:6592" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="6600:6772" ph="/// Forces the update of body position, and velocity handler from OrbitData. ... " />
+                <marker date="1715378337747" expanded="true" signature="6874:7118" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7122:7240" ph="/// Forces the refresh of position of velocity handle object from actual orbit state. ... " />
+                <marker date="1715378337747" expanded="true" signature="7299:7767" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7334:7763" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7608:7680" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="7771:8083" ph="/// Gets the displayed velocity vector from Velocity Handle object position if Handle reference is not null. ... " />
+                <marker date="1715378337747" expanded="true" signature="8137:8489" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8172:8459" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8376:8432" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8493:8869" ph="/// Forces the update of internal orbit data from current world positions of body, attractor settings and velocit ... " />
+                <marker date="1715378337747" expanded="true" signature="8964:9588" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="8996:9584" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="9373:9523" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="9592:9682" ph="/// Change orbit velocity vector to match circular orbit. ... " />
+                <marker date="1715378337747" expanded="true" signature="9754:10076" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="9786:10072" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="10145:10342" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="10177:10338" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="10430:10627" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="10462:10623" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="10706:10949" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="10738:10945" ph="{...}" />
+                <marker date="1715378337747" expanded="true" signature="11008:11054" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="59" lastUsed="1715627822858" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hide</find>
+      <find>update</find>
+      <find>cursor</find>
+      <find>slidemotion</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/TerrainGenerator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/IcoSphereGenerator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/OrbitDebugDisplay.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Universe.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CelestialBody.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CBodySimulation.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/RocketControllerScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollowScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Core/WorldManager.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.AstroCraft/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="59" lastUsage="1715627822858" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Components" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Core" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Data" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Utils" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Components" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="KeplerOrbitLineDisplay.cs" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.32998914" />
+          </value>
+        </entry>
+        <entry key="Bookmarks">
+          <value>
+            <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.21165338" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="1" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Coverage">
+          <value>
+            <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Database Changes">
+          <value>
+            <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Debug">
+          <value>
+            <window_info anchor="bottom" id="Debug" order="4" weight="0.36404383" />
+          </value>
+        </entry>
+        <entry key="Dynamic Program Analysis">
+          <value>
+            <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Endpoints">
+          <value>
+            <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="File Transfer">
+          <value>
+            <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="IL Viewer">
+          <value>
+            <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Learn">
+          <value>
+            <window_info id="Learn" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Merge Requests">
+          <value>
+            <window_info id="Merge Requests" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="NuGet">
+          <value>
+            <window_info anchor="bottom" id="NuGet" weight="0.12300797" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21827549" />
+          </value>
+        </entry>
+        <entry key="Pull Requests">
+          <value>
+            <window_info id="Pull Requests" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.030378487" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="4" />
+          </value>
+        </entry>
+        <entry key="Space Code Reviews">
+          <value>
+            <window_info id="Space Code Reviews" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="TODO">
+          <value>
+            <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info anchor="bottom" id="Terminal" order="3" />
+          </value>
+        </entry>
+        <entry key="TypeScript">
+          <value>
+            <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Unit Tests">
+          <value>
+            <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Unit Tests Coverage">
+          <value>
+            <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" />
+          </value>
+        </entry>
+        <entry key="documentation.v2">
+          <value>
+            <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+          </value>
+        </entry>
+        <entry key="dotMemory Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="dotTrace Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21183000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21827549" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.21165338" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="dotTrace Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NuGet" weight="0.12300797" />
+      <window_info anchor="bottom" id="dotMemory Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.36404383" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.030378487" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32998914" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.21165338" left="0.21827549" right="0.32998914" />
+    </layoutV2>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="287" width="430" height="481" key="FileChooserDialogImpl" timestamp="1715375264097">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="287" width="430" height="481" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1715375264097" />
+    <state x="693" y="237" width="530" height="581" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1715528080353">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="237" width="530" height="581" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1715528080353" />
+    <state x="623" y="235" width="672" height="684" key="search.everywhere.popup" timestamp="1715373544388">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="684" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1715373544388" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TerrainGenerator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IcoSphereGenerator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OrbitDebugDisplay.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CelestialBody.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Universe.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CBodySimulation.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SimpleKeplerOrbits/Examples/CameraController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Utils/KeplerOrbitUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="52" lean-forward="true" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <marker date="1715378337747" expanded="true" signature="47:135" ph="/// Math utility methods for help in orbits calculations. ... " />
+            <marker date="1715378337747" expanded="true" signature="173:9292" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="179:223" ph="/// Two PI. ... " />
+            <marker date="1715378337747" expanded="true" signature="421:622" ph="/// Regular Acosh, but without exception when out of possible range. ... " />
+            <marker date="1715378337747" expanded="true" signature="661:758" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="681:705" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="762:1042" ph="/// Rotate vector around another vector (double). ... " />
+            <marker date="1715378337747" expanded="true" signature="1128:1896" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1934:1968" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2004:2038" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2042:2122" ph="/// Calculate velocity vector for circle orbit. ... " />
+            <marker date="1715378337747" expanded="true" signature="2271:2568" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2572:2886" ph="/// Calculates the center of mass. ... " />
+            <marker date="1715378337747" expanded="true" signature="2986:3057" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3061:3314" ph="/// Converts the eccentric to true anomaly. ... " />
+            <marker date="1715378337747" expanded="true" signature="3413:3949" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3444:3672" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3609:3648" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3704:3898" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3906:3945" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3953:4201" ph="/// Converts the true to eccentric anomaly. ... " />
+            <marker date="1715378337747" expanded="true" signature="4295:5170" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4369:4403" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4455:4754" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4485:4523" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4685:4728" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4786:4965" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4973:5166" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4983:5137" ph="/* For parabolic trajectories ... */" />
+            <marker date="1715378337747" expanded="true" signature="5174:5422" ph="/// Converts the mean to eccentric anomaly. ... " />
+            <marker date="1715378337747" expanded="true" signature="5516:5927" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5547:5609" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5641:5717" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5725:5923" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5931:6184" ph="/// Converts the eccentric to mean anomaly. ... " />
+            <marker date="1715378337747" expanded="true" signature="6283:6621" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6314:6397" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6429:6513" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6521:6617" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6625:7053" ph="/// Gets the True anomaly value from current distance from the focus (attractor). ... " />
+            <marker date="1715378337747" expanded="true" signature="7189:7583" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7220:7345" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7377:7502" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7510:7579" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7587:7889" ph="/// A classic Kepler solver. ... " />
+            <marker date="1715378337747" expanded="true" signature="7966:8560" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8275:8542" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8564:8807" ph="/// Kepler solver for hyperbolic case. ... " />
+            <marker date="1715378337747" expanded="true" signature="8898:9289" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="9066:9100" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="9142:9271" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2256">
+          <caret line="94" column="59" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+          <folding>
+            <marker date="1715527962927" expanded="true" signature="61:143" ph="/// Simple camera controller for the example scene. ... " />
+            <marker date="1715527962927" expanded="true" signature="190:3971" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="776:811" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="836:914" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="953:1628" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="1666:1925" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="1702:1819" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="1731:1794" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="1827:1921" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="1855:1916" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="1955:2426" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="2460:2542" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="2573:2652" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="2681:3021" ph="{...}" />
+            <marker date="1715527962927" expanded="true" signature="3052:3968" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScreenSpaceOrbitsDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+            <marker date="1715378337747" expanded="true" signature="95:439" ph="/// Scene orbits lines display on camera projection for the demo scene. ... " />
+            <marker date="1715378337747" expanded="true" signature="537:6440" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="566:705" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1397:1669" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1630:1665" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1697:1806" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1734:1802" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1858:2102" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2051:2098" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2191:2375" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2233:2333" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2404:3629" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2487:2595" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2529:2567" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2630:3535" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3326:3384" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3393:3494" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3805:4845" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3891:3952" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4023:4706" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4237:4283" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4292:4339" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4802:4841" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5067:5932" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5120:5725" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5190:5720" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5255:5347" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5357:5402" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5493:5550" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5604:5703" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5771:5928" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5831:5923" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5985:6118" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6161:6361" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6190:6232" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6409:6437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/JPLOrbitsLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <marker date="1715378337747" expanded="true" signature="6:85" ph="..." />
+            <marker date="1715378337747" expanded="true" signature="128:250" ph="/// Controller for spawning bodies by orbital elements values. Supports JPL database input. ... " />
+            <marker date="1715378337747" expanded="true" signature="339:8356" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="391:464" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="468:542" ph="/// Data container for single body orbit. ... " />
+            <marker date="1715378337747" expanded="true" signature="590:1897" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="690:742" ph="/// Eccentricity. ... " />
+            <marker date="1715378337747" expanded="true" signature="797:858" ph="/// Inclination (degrees). ... " />
+            <marker date="1715378337747" expanded="true" signature="912:989" ph="/// Longitude of Ascending Node (degrees). ... " />
+            <marker date="1715378337747" expanded="true" signature="1056:1127" ph="/// Argument of perifocus (degrees). ... " />
+            <marker date="1715378337747" expanded="true" signature="1190:1252" ph="/// Mean anomaly (degrees). ... " />
+            <marker date="1715378337747" expanded="true" signature="1307:1367" ph="/// Semi-major axis (au). ... " />
+            <marker date="1715378337747" expanded="true" signature="1424:1541" ph="/// Diameter for the body transform scale calulation. ... " />
+            <marker date="1715378337747" expanded="true" signature="1577:1636" ph="/// Distance multiplier; ... " />
+            <marker date="1715378337747" expanded="true" signature="1672:1731" ph="/// Material tint color. ... " />
+            <marker date="1715378337747" expanded="true" signature="1773:1869" ph="/// Custom type param. Used to switch mesh material for body. ... " />
+            <marker date="1715378337747" expanded="true" signature="1924:1951" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1996:2103" ph="/// Gravitational constant. In this context plays role of speed muliplier. ... " />
+            <marker date="1715378337747" expanded="true" signature="2140:2222" ph="/// Orbit scale multiplier: world units per 1 au. ... " />
+            <marker date="1715378337747" expanded="true" signature="2258:2353" ph="/// Body scale multiplier: world scale unit per diameter unit. ... " />
+            <marker date="1715378337747" expanded="true" signature="2395:2522" ph="/// Each body can have it's own multiplier value for semi major axis for better visualization. ... " />
+            <marker date="1715378337747" expanded="true" signature="2578:2728" ph="/// Astronomical unit in SI units. ... " />
+            <marker date="1715378337747" expanded="true" signature="3080:3311" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3165:3307" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3197:3235" ph="..." />
+            <marker date="1715378337747" expanded="true" signature="3263:3302" ph="..." />
+            <marker date="1715378337747" expanded="true" signature="3382:3561" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3411:3557" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3508:3552" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3638:3674" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3741:4089" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3860:4085" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3909:4080" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3947:4001" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4011:4074" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4143:5617" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4151:4426" ph="/* Spawn all bodies in multiple passes to resolve parent-child connections. ... */" />
+            <marker date="1715378337747" expanded="true" signature="4664:5452" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4742:5447" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4925:4977" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5111:5341" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5351:5441" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5499:5613" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5674:5878" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5720:5756" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5960:7648" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6189:6237" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6310:6383" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6457:6605" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6467:6567" ph="/* By default MLT value is 1, ... */" />
+            <marker date="1715378337747" expanded="true" signature="7332:7387" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7395:7431" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7768:8160" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7860:8156" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7958:8001" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8010:8151" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8196:8353" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8243:8318" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8270:8313" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TimeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1715378337747" expanded="true" signature="135:400" ph="/// Simple orbits time controller. ... " />
+            <marker date="1715378337747" expanded="true" signature="488:3367" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="521:609" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1142:1182" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1206:1588" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1441:1470" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1616:1721" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1651:1717" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1752:1809" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1834:1921" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1971:2023" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1993:2019" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2067:2397" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2075:2233" ph="/* Body's initial mean anomaly is taken as origin point for the epoch. ... */" />
+            <marker date="1715378337747" expanded="true" signature="2271:2354" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2435:2478" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2522:3157" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2667:3014" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2699:2749" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2946:3009" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3033:3153" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3073:3113" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3202:3364" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3273:3360" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3305:3355" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RocketControllerScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollowScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1715526225654" expanded="true" signature="81:204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/WorldManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#92#0" expanded="true" />
+            <marker date="1715528338739" expanded="true" signature="135:1352" ph="{...}" />
+            <marker date="1715528338739" expanded="true" signature="341:568" ph="{...}" />
+            <marker date="1715528338739" expanded="true" signature="476:538" ph="{...}" />
+            <marker date="1715528338739" expanded="true" signature="595:1189" ph="{...}" />
+            <marker date="1715528338739" expanded="true" signature="647:880" ph="{...}" />
+            <marker date="1715528338739" expanded="true" signature="713:870" ph="{...}" />
+            <marker date="1715528338739" expanded="true" signature="926:1139" ph="{...}" />
+            <marker date="1715528338739" expanded="true" signature="972:1129" ph="{...}" />
+            <marker date="1715528338739" expanded="true" signature="1223:1350" ph="{...}" />
+            <marker date="1715528338739" expanded="true" signature="1278:1344" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Components/KeplerOrbitMover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7128">
+          <caret line="298" column="21" selection-start-line="298" selection-start-column="21" selection-end-line="298" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+            <marker date="1715378337747" expanded="true" signature="78:248" ph="/// Component for moving game object in eliptic or hyperbolic path around attractor body. ... " />
+            <marker date="1715378337747" expanded="true" signature="358:11057" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="364:509" ph="/// The attractor settings data. ... " />
+            <marker date="1715378337747" expanded="true" signature="577:714" ph="/// The velocity handle object. ... " />
+            <marker date="1715378337747" expanded="true" signature="863:943" ph="/// The velocity handle length scale parameter. ... " />
+            <marker date="1715378337747" expanded="true" signature="1061:1124" ph="/// The time scale multiplier. ... " />
+            <marker date="1715378337747" expanded="true" signature="1201:1284" ph="/// The orbit data. ... " />
+            <marker date="1715378337747" expanded="true" signature="1423:2084" ph="/// Disable continious editing orbit in update loop, if you don't need it. ... " />
+            <marker date="1715378337747" expanded="true" signature="2286:2391" ph="/// The debug error displayed flag. ... " />
+            <marker date="1715378337747" expanded="true" signature="2516:2614" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2641:2922" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2671:2709" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2757:2779" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2817:2862" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2950:3061" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2985:3057" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3065:3536" ph="/// Updates orbit internal data. ... " />
+            <marker date="1715378337747" expanded="true" signature="3560:4879" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3592:4378" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3624:4373" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="3855:4107" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4047:4100" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4323:4367" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4386:4875" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4459:4807" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4497:4801" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4572:4680" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4691:4794" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4816:4863" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4884:5272" ph="/// Progress orbit path motion. ... " />
+            <marker date="1715378337747" expanded="true" signature="5312:5709" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5332:5705" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5366:5676" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5406:5513" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5547:5670" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5713:6127" ph="/// Updates OrbitData from new body position and velocity vectors. ... " />
+            <marker date="1715378337747" expanded="true" signature="6223:6596" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6255:6592" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6600:6772" ph="/// Forces the update of body position, and velocity handler from OrbitData. ... " />
+            <marker date="1715378337747" expanded="true" signature="6874:7118" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7122:7240" ph="/// Forces the refresh of position of velocity handle object from actual orbit state. ... " />
+            <marker date="1715378337747" expanded="true" signature="7299:7767" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7334:7763" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7608:7680" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="7771:8083" ph="/// Gets the displayed velocity vector from Velocity Handle object position if Handle reference is not null. ... " />
+            <marker date="1715378337747" expanded="true" signature="8137:8489" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8172:8459" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8376:8432" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8493:8869" ph="/// Forces the update of internal orbit data from current world positions of body, attractor settings and velocit ... " />
+            <marker date="1715378337747" expanded="true" signature="8964:9588" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="8996:9584" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="9373:9523" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="9592:9682" ph="/// Change orbit velocity vector to match circular orbit. ... " />
+            <marker date="1715378337747" expanded="true" signature="9754:10076" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="9786:10072" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="10145:10342" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="10177:10338" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="10430:10627" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="10462:10623" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="10706:10949" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="10738:10945" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="11008:11054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Components/KeplerOrbitLineDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="205" column="1" selection-start-line="205" selection-start-column="1" selection-end-line="205" selection-end-column="1" />
+          <folding>
+            <marker date="1715378337747" expanded="true" signature="48:6938" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="52:204" ph="/// Component for displaying current orbit curve in editor and in game. ... " />
+            <marker date="1715378337747" expanded="true" signature="320:6936" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="326:389" ph="/// The orbit curve precision. ... " />
+            <marker date="1715378337747" expanded="true" signature="429:525" ph="/// The maximum orbit distance of orbit display in world units. ... " />
+            <marker date="1715378337747" expanded="true" signature="580:645" ph="/// The line renderer reference. ... " />
+            <marker date="1715378337747" expanded="true" signature="1321:1427" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1357:1423" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1456:2293" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1508:1530" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="1636:2289" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2054:2204" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2341:2946" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2403:2942" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2473:2937" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2592:2931" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2636:2675" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2742:2778" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2813:2848" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2886:2924" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="2973:4138" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4168:4570" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4451:4566" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4601:5088" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="4880:4949" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5116:5747" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5544:5743" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="5775:6732" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6355:6728" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6812:6926" ph="{...}" />
+            <marker date="1715378337747" expanded="true" signature="6854:6922" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

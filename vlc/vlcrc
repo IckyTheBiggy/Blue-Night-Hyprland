@@ -2845,6 +2845,32 @@ sout-x264-tune=film
 # Video height (integer)
 #glspectrum-height=300
 
+[projectm] # libprojectM effect
+
+# projectM preset path (string)
+#projectm-preset-path=/usr/share/projectM/presets
+
+# Title font (string)
+#projectm-title-font=/usr/share/fonts/TTF/DejaVuSans.ttf
+
+# Font menu (string)
+#projectm-menu-font=/usr/share/fonts/TTF/DejaVuSansMono.ttf
+
+# Video width (integer)
+#projectm-width=800
+
+# Video height (integer)
+#projectm-height=500
+
+# Mesh width (integer)
+#projectm-meshx=32
+
+# Mesh height (integer)
+#projectm-meshy=24
+
+# Texture size (integer)
+#projectm-texture-size=1024
+
 [filesystem] # File input
 
 # List special files (boolean)
@@ -3653,6 +3679,29 @@ sout-x264-tune=film
 # Prefix to show on output line (string)
 #sout-stats-prefix=stats
 
+[stream_out_chromecast] # Chromecast stream output
+
+# ? (string)
+#sout-chromecast-ip=
+
+# ? (integer)
+#sout-chromecast-port=8009
+
+# ? (boolean)
+#sout-chromecast-video=1
+
+# HTTP port (integer)
+#sout-chromecast-http-port=8010
+
+# Performance warning (integer)
+#sout-chromecast-show-perf-warning=1
+
+# Enable Audio passthrough (boolean)
+#sout-chromecast-audio-passthrough=0
+
+# Conversion quality (integer)
+#sout-chromecast-conversion-quality=1
+
 [stream_out_transcode] # Transcode stream output
 
 # Video encoder (string)
@@ -3810,7 +3859,7 @@ sout-x264-tune=film
 #audio-time-stretch=1
 
 # Audio output module (string)
-#aout=
+aout=any
 
 # Media role (string)
 #role=video
@@ -3819,7 +3868,7 @@ sout-x264-tune=film
 #audio-filter=
 
 # Audio visualizations (string)
-#audio-visual=none
+audio-visual=glspectrum
 
 # Audio resampler (string)
 #audio-resampler=
