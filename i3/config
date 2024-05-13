@@ -42,6 +42,7 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec steam
 exec flatpak run com.discordapp.Discord
 exec openrgb
+exec glava --desktop
 #exec easyeffects --gapplication-service
 
 # Use pactl to adjust volume in PulseAudio.
