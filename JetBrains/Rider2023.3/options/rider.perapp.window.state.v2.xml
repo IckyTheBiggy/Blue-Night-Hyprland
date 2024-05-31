@@ -55,8 +55,6 @@
         {
           "id": "Build",
           "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.21165338
         },
         {
@@ -88,6 +86,12 @@
           "id": "NuGet",
           "anchor": "BOTTOM",
           "weight": 0.12300797
+        },
+        {
+          "id": "Find",
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.3202191
         },
         {
           "id": "dotMemory Profiler",
@@ -194,7 +198,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.21827549,
-        "bottom": 0.21165338,
+        "bottom": 0.3202191,
         "right": 0.32998914
       }
     }

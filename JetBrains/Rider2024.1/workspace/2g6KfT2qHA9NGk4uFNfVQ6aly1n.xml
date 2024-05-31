@@ -1,0 +1,439 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="RocketFOSS" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/vab.unity">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/MMStartButton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <marker date="1715012585507" expanded="false" signature="6:134" ph="..." />
+                <marker date="1715012585507" expanded="true" signature="179:752" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="304:669" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="366:511" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="524:663" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="696:750" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/MouseoverLabels.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-109">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <marker date="1715012585507" expanded="false" signature="6:78" ph="..." />
+                <marker date="1715012585507" expanded="true" signature="125:516" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="216:249" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="281:315" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="341:514" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="365:508" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/navball_control.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <marker date="1715012585507" expanded="false" signature="6:114" ph="..." />
+                <marker date="1715012585507" expanded="true" signature="161:2736" ph="{...}" />
+                <marker date="1715012585507" expanded="false" signature="167:617" ph="variables" />
+                <marker date="1715012585507" expanded="false" signature="622:1386" ph="public methods" />
+                <marker date="1715012585507" expanded="true" signature="747:795" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="881:934" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="1019:1072" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="1172:1215" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="1260:1293" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="1338:1371" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="1411:1856" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="1883:2734" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="2240:2345" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="2358:2463" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="2505:2610" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="2623:2728" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/PlanetOrbit.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="103" column="21" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
+              <folding>
+                <marker date="1715012585507" expanded="true" signature="6:78" ph="..." />
+                <marker date="1715012585507" expanded="true" signature="121:3205" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="759:830" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="879:2630" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="1159:2250" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="2374:2624" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="2506:2614" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="2651:3079" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="3099:3156" ph="{...}" />
+                <marker date="1715012585507" expanded="true" signature="3174:3203" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Assets/RFOSSCore/Orbits/OrbitUtility.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding>
+                <marker date="1715013034173" expanded="true" signature="6:52" ph="..." />
+                <marker date="1715013034173" expanded="true" signature="81:1657" ph="{...}" />
+                <marker date="1715013034173" expanded="true" signature="110:1435" ph="{...}" />
+                <marker date="1715013034173" expanded="true" signature="148:194" ph="{...}" />
+                <marker date="1715013034173" expanded="true" signature="283:1432" ph="{...}" />
+                <marker date="1715013034173" expanded="true" signature="581:1395" ph="{...}" />
+                <marker date="1715013034173" expanded="true" signature="1463:1655" ph="{...}" />
+                <marker date="1715013034173" expanded="true" signature="1589:1652" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/RFOSSCore/Spaces/Scripts/TESTPlanetaryArrangement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+              <folding>
+                <marker date="1715013025460" expanded="true" signature="6:59" ph="..." />
+                <marker date="1715013025460" expanded="true" signature="156:3633" ph="{...}" />
+                <marker date="1715013025460" expanded="true" signature="191:235" ph="{...}" />
+                <marker date="1715013025460" expanded="true" signature="634:793" ph="{...}" />
+                <marker date="1715013025460" expanded="true" signature="810:2972" ph="{...}" />
+                <marker date="1715013025460" expanded="true" signature="904:2969" ph="/* while(i &lt; target) { ... */" />
+                <marker date="1715013025460" expanded="true" signature="3042:3192" ph="{...}" />
+                <marker date="1715013025460" expanded="true" signature="3223:3631" ph="{...}" />
+                <marker date="1715013025460" expanded="true" signature="3249:3461" ph="{...}" />
+                <marker date="1715013025460" expanded="true" signature="3488:3628" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/RFOSSCore/Physics/PhysicsConstants.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="7" lastUsed="1715012995466" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1715012691367" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1715012904086" />
+    </fileType>
+    <fileType name="UnityYaml">
+      <summary usageCount="1" lastUsed="1715012699682" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/RFOSSCore/Physics/PhysicsConstants.cs" />
+      <option value="$PROJECT_DIR$/Assets/RFOSSCore/Spaces/Scripts/TESTPlanetaryArrangement.cs" />
+      <option value="$PROJECT_DIR$/Assets/RFOSSCore/Orbits/OrbitUtility.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.RocketFOSS/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="7" lastUsage="1715012995466" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1715012691368" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1715012904086" />
+    </language>
+    <language id="UnityYaml">
+      <summary usageCount="1" lastUsage="1715012699682" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="Code" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="RFOSSCore" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="RFOSSCore" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Orbits" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="RFOSSCore" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Physics" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="RFOSSCore" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Spaces" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="RFOSSCore" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Spaces" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="RFOSSCore" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Orbits" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="OrbitUtility.cs" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="917000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123373106" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.12300797" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.21165338" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.030378487" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.36404383" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32998914" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.21165338" left="0.123373106" right="0.32998914" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/vab.unity">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/MMStartButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1715012585507" expanded="false" signature="6:134" ph="..." />
+            <marker date="1715012585507" expanded="true" signature="179:752" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="304:669" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="366:511" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="524:663" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="696:750" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/MouseoverLabels.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <marker date="1715012585507" expanded="false" signature="6:78" ph="..." />
+            <marker date="1715012585507" expanded="true" signature="125:516" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="216:249" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="281:315" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="341:514" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="365:508" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/navball_control.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1715012585507" expanded="false" signature="6:114" ph="..." />
+            <marker date="1715012585507" expanded="true" signature="161:2736" ph="{...}" />
+            <marker date="1715012585507" expanded="false" signature="167:617" ph="variables" />
+            <marker date="1715012585507" expanded="false" signature="622:1386" ph="public methods" />
+            <marker date="1715012585507" expanded="true" signature="747:795" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="881:934" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="1019:1072" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="1172:1215" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="1260:1293" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="1338:1371" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="1411:1856" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="1883:2734" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="2240:2345" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="2358:2463" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="2505:2610" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="2623:2728" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/PlanetOrbit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="103" column="21" lean-forward="true" selection-start-line="103" selection-start-column="21" selection-end-line="103" selection-end-column="21" />
+          <folding>
+            <marker date="1715012585507" expanded="true" signature="6:78" ph="..." />
+            <marker date="1715012585507" expanded="true" signature="121:3205" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="759:830" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="879:2630" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="1159:2250" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="2374:2624" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="2506:2614" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="2651:3079" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="3099:3156" ph="{...}" />
+            <marker date="1715012585507" expanded="true" signature="3174:3203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RFOSSCore/Physics/PhysicsConstants">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RFOSSCore/Physics/PhysicsConstants.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RFOSSCore/Spaces/Scripts/TESTPlanetaryArrangement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="34" column="38" lean-forward="true" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding>
+            <marker date="1715013025460" expanded="true" signature="6:59" ph="..." />
+            <marker date="1715013025460" expanded="true" signature="156:3633" ph="{...}" />
+            <marker date="1715013025460" expanded="true" signature="191:235" ph="{...}" />
+            <marker date="1715013025460" expanded="true" signature="634:793" ph="{...}" />
+            <marker date="1715013025460" expanded="true" signature="810:2972" ph="{...}" />
+            <marker date="1715013025460" expanded="true" signature="904:2969" ph="/* while(i &lt; target) { ... */" />
+            <marker date="1715013025460" expanded="true" signature="3042:3192" ph="{...}" />
+            <marker date="1715013025460" expanded="true" signature="3223:3631" ph="{...}" />
+            <marker date="1715013025460" expanded="true" signature="3249:3461" ph="{...}" />
+            <marker date="1715013025460" expanded="true" signature="3488:3628" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RFOSSCore/Orbits/OrbitUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <marker date="1715013034173" expanded="true" signature="6:52" ph="..." />
+            <marker date="1715013034173" expanded="true" signature="81:1657" ph="{...}" />
+            <marker date="1715013034173" expanded="true" signature="110:1435" ph="{...}" />
+            <marker date="1715013034173" expanded="true" signature="148:194" ph="{...}" />
+            <marker date="1715013034173" expanded="true" signature="283:1432" ph="{...}" />
+            <marker date="1715013034173" expanded="true" signature="581:1395" ph="{...}" />
+            <marker date="1715013034173" expanded="true" signature="1463:1655" ph="{...}" />
+            <marker date="1715013034173" expanded="true" signature="1589:1652" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

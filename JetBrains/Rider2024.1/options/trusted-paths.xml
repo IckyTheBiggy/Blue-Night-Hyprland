@@ -1,0 +1,26 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Development/C#/RayEngine" value="true" />
+        <entry key="$USER_HOME$/Development/C#/RayEngine/.idea/.idea.RayEngine" value="true" />
+        <entry key="$USER_HOME$/Development/C#/Raygine" value="true" />
+        <entry key="$USER_HOME$/Development/C#/Raygine/.idea/.idea.Raygine" value="true" />
+        <entry key="$USER_HOME$/Development/C#/SQLStudentIDK/ASP.NETAppThing" value="true" />
+        <entry key="$USER_HOME$/Development/C#/SQLStudentIDK/SQLStudentIDK" value="true" />
+        <entry key="$USER_HOME$/Development/C#/SpotifyOverlay/SpotifyOverlay" value="true" />
+        <entry key="$USER_HOME$/Downloads" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/AstroCraft" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/AstroCraft/.idea/.idea.AstroCraft" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/PortalShift/Project/Unity/PortalShift" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/PortalShift/Project/Unity/PortalShift/.idea/.idea.PortalShift" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/RocketFOSS" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/SourceGame" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/SourceGame/.idea/.idea.SourceGame" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/Summoning_TD" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/Summoning_TD/.idea/.idea.Summoning_TD" value="true" />
+        <entry key="$USER_HOME$/UnityProjects/test/Solar-System" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

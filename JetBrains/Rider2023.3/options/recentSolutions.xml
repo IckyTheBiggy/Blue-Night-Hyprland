@@ -166,8 +166,8 @@
         </entry>
         <entry key="$USER_HOME$/UnityProjects/AstroCraft/AstroCraft.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="AstroCraft – KeplerOrbitLineDisplay.cs" opened="true" projectWorkspaceId="2dCfkJkraYda2hEKfO0re1yFS84">
-              <option name="activationTimestamp" value="1715627858130" />
+            <RecentProjectMetaInfo frameTitle="AstroCraft – SpawnNotifier.cs" opened="true" projectWorkspaceId="2dCfkJkraYda2hEKfO0re1yFS84">
+              <option name="activationTimestamp" value="1715844613983" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-233.14475.66" />
               <option name="buildTimestamp" value="1709736840000" />
@@ -176,7 +176,7 @@
               </option>
               <frame x="35" y="14" width="1850" height="1031" />
               <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1715627822893" />
+              <option name="projectOpenTimestamp" value="1715843867565" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

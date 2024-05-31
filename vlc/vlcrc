@@ -3868,7 +3868,7 @@ aout=any
 #audio-filter=
 
 # Audio visualizations (string)
-audio-visual=glspectrum
+#audio-visual=none
 
 # Audio resampler (string)
 #audio-resampler=

@@ -1,0 +1,226 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Redo">
+      <i c="25" l="1715950222414" />
+    </e>
+    <e n="$SelectAll">
+      <i c="40" l="1716820795466" />
+    </e>
+    <e n="$Undo">
+      <i c="589" l="1716836983649" />
+    </e>
+    <e n="ActivateTerminalToolWindow">
+      <i c="2" l="1716462477115" />
+    </e>
+    <e n="Back">
+      <i c="5" l="1715374229860" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1712794083386" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="10774" l="1717100844402" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="3010" l="1717100856826" />
+    </e>
+    <e n="EditorCopy">
+      <i c="332" l="1716836932212" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="6" l="1715377347540" />
+    </e>
+    <e n="EditorDown">
+      <i c="2684" l="1717100852418" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="3" l="1715377098891" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1770" l="1717100853870" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1716463168258" />
+    </e>
+    <e n="EditorLeft">
+      <i c="666" l="1716836951891" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="8" l="1716465110131" />
+    </e>
+    <e n="EditorLookupDown">
+      <i c="1" l="1715435989683" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="1323" l="1717100853481" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="102" l="1716837013870" />
+    </e>
+    <e n="EditorPaste">
+      <i c="206" l="1716836938417" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="903" l="1716837013212" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="1097" l="1716837009805" />
+    </e>
+    <e n="EditorRight">
+      <i c="1390" l="1717100837799" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="2" l="1715440088090" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="26" l="1716836979057" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="70" l="1716747984297" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="2" l="1716462928462" />
+    </e>
+    <e n="EditorStickyLinesDisable">
+      <i c="1" l="1716462885401" />
+    </e>
+    <e n="EditorTab">
+      <i c="33" l="1716821675913" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="2" l="1716821400159" />
+    </e>
+    <e n="EditorUp">
+      <i c="1402" l="1717100836112" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="2" l="1714467440745" />
+    </e>
+    <e n="Find">
+      <i c="27" l="1716819082757" />
+    </e>
+    <e n="FindInSolutionView">
+      <i c="1" l="1716460653476" />
+    </e>
+    <e n="FindNext">
+      <i c="3" l="1716462578680" />
+    </e>
+    <e n="FindUsages">
+      <i c="5" l="1715967486491" />
+    </e>
+    <e n="Forward">
+      <i c="2" l="1715374228647" />
+    </e>
+    <e n="Images.SetBackgroundImage">
+      <i c="5" l="1712243674881" />
+    </e>
+    <e n="JumpToLastChange">
+      <i c="1" l="1715377331743" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="4" l="1715629497801" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1712243825570" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1713218184367" />
+    </e>
+    <e n="RiderEditSourceInRightSplit">
+      <i c="4" l="1715801028529" />
+    </e>
+    <e n="RiderNewSolution">
+      <i c="5" l="1714656171535" />
+    </e>
+    <e n="RiderNuGetToggleToolWindowAction">
+      <i c="2" l="1712794197532" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="12" l="1716290173298" />
+    </e>
+    <e n="RiderUnitTestRunContextTwAction">
+      <i c="1" l="1716049985214" />
+    </e>
+    <e n="Run">
+      <i c="59" l="1714656338119" />
+    </e>
+    <e n="RunAnything">
+      <i c="2" l="1716750423896" />
+    </e>
+    <e n="SaveDocument">
+      <i c="4911" l="1717100857329" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="9" l="1716748623376" />
+    </e>
+    <e n="ShowAllInUnityExplorer">
+      <i c="2" l="1716460654071" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1715526041089" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1712711832094" />
+    </e>
+    <e n="Stop">
+      <i c="13" l="1712794179635" />
+    </e>
+    <e n="WelcomeScreen.Configure.Import">
+      <i c="1" l="1712243496208" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="2" l="1712243531849" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="3" l="1712243554690" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="3" l="1716462588292" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="117" l="1716819089298" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1715375249229" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1715628932637" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$MarkupModelDelegateAction">
+      <i c="10" l="1716823622742" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="6" l="1715856013956" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="11" l="1716748623933" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="3" l="1714986171739" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="13" l="1715856177718" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="6" l="1712243553939" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1712243612119" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="1" l="1715855999799" />
+    </e>
+    <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$DumbAwareActionWrapper">
+      <i c="53" l="1717100845445" />
+    </e>
+    <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
+      <i c="6" l="1716049985198" />
+    </e>
+    <e n="com.jetbrains.rider.plugins.unity.notifications.OpenUnityProjectAsFolderNotification$execute$2$1$2">
+      <i c="1" l="1715375241774" />
+    </e>
+    <e n="rider.connectToDatabase">
+      <i c="1" l="1714467651519" />
+    </e>
+  </component>
+</application>

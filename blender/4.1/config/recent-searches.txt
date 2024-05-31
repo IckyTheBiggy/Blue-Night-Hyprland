@@ -19,3 +19,5 @@ F Rig|Spellcasting.004
 F Rig|Spellcasting.001
 Generate ▸ Solidify
 Generate ▸ Boolean
+Generate ▸ Remesh
+Texture ▸ Image Texture

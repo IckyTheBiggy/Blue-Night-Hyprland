@@ -1,0 +1,142 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Downloads" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/CameraScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <marker date="1714986134428" expanded="true" signature="6:123" ph="..." />
+                <marker date="1714986134428" expanded="true" signature="141:5885" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="189:5883" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="677:743" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="782:1943" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="1996:2466" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="2505:2762" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="2799:3488" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="3263:3424" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="3534:3677" ph="..." />
+                <marker date="1714986134428" expanded="true" signature="3720:3975" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="4004:4146" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="4185:4703" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="4525:4635" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="4787:5217" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="4873:5173" ph="{...}" />
+                <marker date="1714986134428" expanded="true" signature="5252:5877" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="1" lastUsed="1714986158078" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Downloads.dir/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="1" lastUsage="1714986158079" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand />
+          <select>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Downloads" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </select>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123373106" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.12300797" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.21165338" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.030378487" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.36404383" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32998914" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.21165338" left="0.123373106" right="0.32998914" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CameraScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1714986134428" expanded="true" signature="6:123" ph="..." />
+            <marker date="1714986134428" expanded="true" signature="141:5885" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="189:5883" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="677:743" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="782:1943" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="1996:2466" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="2505:2762" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="2799:3488" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="3263:3424" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="3534:3677" ph="..." />
+            <marker date="1714986134428" expanded="true" signature="3720:3975" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="4004:4146" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="4185:4703" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="4525:4635" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="4787:5217" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="4873:5173" ph="{...}" />
+            <marker date="1714986134428" expanded="true" signature="5252:5877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

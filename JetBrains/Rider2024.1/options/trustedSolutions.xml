@@ -1,0 +1,20 @@
+<application>
+  <component name="TrustedSolutionStore">
+    <option name="trustedLocations">
+      <set>
+        <option value="$USER_HOME$/Development/C#/RayEngine/.idea/.idea.RayEngine" />
+        <option value="$USER_HOME$/Development/C#/Raygine/.idea/.idea.Raygine" />
+        <option value="$USER_HOME$/Development/C#/SQLStudentIDK/ASP.NETAppThing/.idea/.idea.ASP.NETAppThing" />
+        <option value="$USER_HOME$/Development/C#/SQLStudentIDK/SQLStudentIDK/.idea/.idea.SQLStudentIDK" />
+        <option value="$USER_HOME$/Development/C#/SpotifyOverlay/SpotifyOverlay/.idea/.idea.SpotifyOverlay" />
+        <option value="$USER_HOME$/Downloads/.idea/.idea.Downloads.dir" />
+        <option value="$USER_HOME$/UnityProjects/AstroCraft/.idea/.idea.AstroCraft" />
+        <option value="$USER_HOME$/UnityProjects/PortalShift/Project/Unity/PortalShift/.idea/.idea.PortalShift" />
+        <option value="$USER_HOME$/UnityProjects/RocketFOSS/.idea/.idea.RocketFOSS" />
+        <option value="$USER_HOME$/UnityProjects/SourceGame/.idea/.idea.SourceGame" />
+        <option value="$USER_HOME$/UnityProjects/Summoning_TD/.idea/.idea.Summoning_TD" />
+        <option value="$USER_HOME$/UnityProjects/test/Solar-System/.idea/.idea.Solar-System.dir" />
+      </set>
+    </option>
+  </component>
+</application>
