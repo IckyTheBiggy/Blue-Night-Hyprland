@@ -55,6 +55,14 @@
             </ConfigurationInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/UnityProjects/BeatRunner/BeatRunner/BeatRunner.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/UnityProjects/PortalShift/Project/Unity/PortalShift/PortalShift.sln">
           <value>
             <ConfigurationInfo>
