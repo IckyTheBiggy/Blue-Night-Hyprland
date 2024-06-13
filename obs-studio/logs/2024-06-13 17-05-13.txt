@@ -1,0 +1,116 @@
+17:05:13.920: Using EGL/X11
+17:05:13.920: CPU Name: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz
+17:05:13.920: CPU Speed: 4800.000MHz
+17:05:13.921: Physical Cores: 8, Logical Cores: 16
+17:05:13.921: Physical Memory: 31993MB Total, 7682MB Free
+17:05:13.921: Kernel Version: Linux 6.9.3-arch1-1
+17:05:13.921: Distribution: "Arch Linux" Unknown
+17:05:13.921: Desktop Environment: i3 (i3)
+17:05:13.921: Session Type: x11
+17:05:13.921: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+17:05:13.921: Qt Version: 6.7.1 (runtime), 6.7.0 (compiled)
+17:05:13.921: Portable mode: false
+17:05:13.937: OBS 30.1.2-1 (linux)
+17:05:13.937: ---------------------------------
+17:05:13.937: ---------------------------------
+17:05:13.937: audio settings reset:
+17:05:13.937: 	samples per sec: 48000
+17:05:13.937: 	speakers:        2
+17:05:13.937: 	max buffering:   960 milliseconds
+17:05:13.937: 	buffering type:  dynamically increasing
+17:05:13.938: ---------------------------------
+17:05:13.938: Initializing OpenGL...
+17:05:13.971: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2
+17:05:13.971: OpenGL loaded successfully, version 3.3.0 NVIDIA 550.78, shading language 3.30 NVIDIA via Cg compiler
+17:05:13.989: ---------------------------------
+17:05:13.989: video settings reset:
+17:05:13.989: 	base resolution:   1920x1080
+17:05:13.989: 	output resolution: 1920x1080
+17:05:13.989: 	downscale filter:  Bicubic
+17:05:13.989: 	fps:               60/1
+17:05:13.989: 	format:            NV12
+17:05:13.989: 	YUV mode:          Rec. 709/Partial
+17:05:13.990: NV12 texture support enabled
+17:05:13.990: P010 texture support not available
+17:05:13.991: Audio monitoring device:
+17:05:13.991: 	name: Default
+17:05:13.991: 	id: default
+17:05:13.991: ---------------------------------
+17:05:13.995: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:05:13.999: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:05:14.002: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:05:14.002: Failed to initialize module 'decklink.so'
+17:05:14.076: [pipewire] No captures available
+17:05:14.086: v4l2loopback not installed, virtual camera disabled
+17:05:14.111: NVENC supported
+17:05:14.111: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+17:05:14.111: FFmpeg VAAPI H264 encoding not supported
+17:05:14.111: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+17:05:14.111: FFmpeg VAAPI AV1 encoding not supported
+17:05:14.111: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+17:05:14.111: FFmpeg VAAPI HEVC encoding not supported
+17:05:14.158: ---------------------------------
+17:05:14.158:   Loaded Modules:
+17:05:14.158:     text-freetype2.so
+17:05:14.158:     rtmp-services.so
+17:05:14.158:     obs-x264.so
+17:05:14.158:     obs-webrtc.so
+17:05:14.158:     obs-vst.so
+17:05:14.158:     obs-transitions.so
+17:05:14.158:     obs-qsv11.so
+17:05:14.158:     obs-outputs.so
+17:05:14.158:     obs-libfdk.so
+17:05:14.158:     obs-filters.so
+17:05:14.158:     obs-ffmpeg.so
+17:05:14.158:     linux-v4l2.so
+17:05:14.158:     linux-pulseaudio.so
+17:05:14.158:     linux-pipewire.so
+17:05:14.158:     linux-jack.so
+17:05:14.158:     linux-capture.so
+17:05:14.158:     linux-alsa.so
+17:05:14.158:     image-source.so
+17:05:14.158:     frontend-tools.so
+17:05:14.158:     decklink-output-ui.so
+17:05:14.158:     decklink-captions.so
+17:05:14.158: ---------------------------------
+17:05:14.158: ==== Startup complete ===============================================
+17:05:14.193: All scene data cleared
+17:05:14.193: ------------------------------------------------
+17:05:14.196: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+17:05:14.196: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+17:05:14.196: pulse-input: Started recording from 'alsa_output.usb-Generic_USB_Audio-00.HiFi__hw_Audio__sink.monitor' (default)
+17:05:14.196: [Loaded global audio device]: 'Desktop Audio'
+17:05:14.196: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+17:05:14.197: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+17:05:14.197: pulse-input: Started recording from 'alsa_input.usb-HP__Inc_HyperX_QuadCast_S_4103-00.analog-stereo' (default)
+17:05:14.197: [Loaded global audio device]: 'Mic/Aux'
+17:05:14.197: xshm-input: Geometry 1920x1080 @ 0,0
+17:05:14.198: Switched to scene 'Scene'
+17:05:14.198: ------------------------------------------------
+17:05:14.198: Loaded scenes:
+17:05:14.198: - scene 'Scene':
+17:05:14.198:     - source: 'Screen Capture (XSHM)' (xshm_input)
+17:05:14.198: ------------------------------------------------
+17:05:14.748: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Mic/Aux)
+17:05:14.748: 
+17:05:15.428: ---------------------------------
+17:05:15.428: [FFmpeg NVENC encoder: 'advanced_video_recording'] settings:
+17:05:15.428: 	encoder:      NVIDIA NVENC HEVC (FFmpeg)
+17:05:15.428: 	rate_control: CBR
+17:05:15.428: 	bitrate:      14000
+17:05:15.428: 	cqp:          0
+17:05:15.428: 	keyint:       -1
+17:05:15.428: 	preset:       p5
+17:05:15.428: 	tuning:       hq
+17:05:15.428: 	multipass:    disabled
+17:05:15.428: 	profile:      main
+17:05:15.428: 	width:        1920
+17:05:15.428: 	height:       1080
+17:05:15.428: 	b-frames:     2
+17:05:15.428: 	psycho-aq:    1
+17:05:15.428: 	GPU:          0
+17:05:15.428: 
+17:05:15.525: ---------------------------------
+17:05:15.525: [FFmpeg aac encoder: 'Track1'] bitrate: 320, channels: 2, channel_layout: stereo
+17:05:15.525: 
+17:05:15.527: ==== Replay Buffer Start ===========================================
