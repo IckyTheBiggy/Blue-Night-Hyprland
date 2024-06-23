@@ -18,17 +18,33 @@ Sort hidden files last=false
 Sort reversed=false
 View Style=DetailTree
 
+[Notification Messages]
+confirm_removable_device=false
+
 [OnlineResources]
 provider=Freesound
 zoom=7
 
 [Recent Dirs]
 KdenliveClipFolder[$e]=$HOME/Videos,$HOME/Documents
-KdenliveProjectsFolder[$e]=$HOME/Downloads,$HOME/Downloads/,$HOME/Documents
+KdenliveProjectsFolder[$e]=$HOME/Videos/KdenLive/,$HOME/Videos/KdenLive,$HOME/KdenLive
+KdenliveUrlListParamFolder[$e]=$HOME/Downloads/Free DJI MINI 3 LUTS/,$HOME/Documents
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/EdgeShift.kdenlive
+File2[$e]=$HOME/LlandundoDrone.kdenlive
+File3[$e]=$HOME/LlandundoDrone-5994.kdenlive
+File4[$e]=$HOME/LlandundoDrone-6000.kdenlive
+File5[$e]=$HOME/KdenLive/ISTHISNORMALMONTAGE.kdenlive
+File6[$e]=$HOME/Videos/KdenLive/Dogshort.kdenlive
+File7[$e]=$HOME/Videos/KdenLive/LlandundoDrone-6000.kdenlive
 Name1[$e]=EdgeShift.kdenlive
+Name2[$e]=LlandundoDrone.kdenlive
+Name3[$e]=LlandundoDrone-5994.kdenlive
+Name4[$e]=LlandundoDrone-6000.kdenlive
+Name5[$e]=ISTHISNORMALMONTAGE.kdenlive
+Name6[$e]=Dogshort.kdenlive
+Name7[$e]=LlandundoDrone-6000.kdenlive
 
 [RenderWidget]
 showoptions=true
@@ -72,7 +88,7 @@ rec601=false
 ColorSchemePath=BlueNight.colors
 
 [bin]
-treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAABgAAACMAAAADAAAAMwAAAAcAAABAAAAAAQAAADEAAAAIAAAAZAAAAAIAAABZAAAABQAAAEkAAAAEAAAALAAAAcEAAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAABwQAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA4AAAAAA==
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAABgAAACMAAAADAAAAMwAAAAcAAABAAAAAAQAAADEAAAAIAAAAZAAAAAIAAABZAAAABQAAAEkAAAAEAAAALAAAATgAAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAABOAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA4AAAAAA==
 
 [capture]
 decklink_capturedevice=4294967295
@@ -94,16 +110,18 @@ ffmpegpath[$e]=/usr/bin/ffmpeg
 ffplaypath[$e]=/usr/bin/ffplay
 ffprobepath[$e]=/usr/bin/ffprobe
 kdenliverendererpath[$e]=/usr/bin/kdenlive_render
-lastCacheCheck=2024,5,30,15,38,7.264
+lastCacheCheck=2024,6,18,19,2,1.8050000000000002
 meltpath[$e]=/usr/bin/melt-7
 mltpath[$e]=/usr/share/mlt-7/profiles
 nice_tasks=false
-processingthreads=8
+processingthreads=10
+
+[misc]
+profile_fps_filter=Any
 
 [project]
 SupportedHWCodecs=h264_nvenc,hevc_nvenc
 externalProxyProfile=./;;.LRV;./;;.MP4
-parallelrender=true
 renderDeinterlacer=yadif
 renderInterp=hyper
 
@@ -123,7 +141,7 @@ pythonPath=/usr/bin/python3
 whisperDevice=
 
 [timeline]
-headerwidth=170
+headerwidth=228
 trackheight=69
 
 [unmanaged]
@@ -133,10 +151,14 @@ defaultrescaleheight=540
 defaultrescalewidth=960
 force_breeze=true
 guidesCategories=Category 1:0:#9b59b6,Category 2:1:#3daee9,Category 3:2:#1abc9c,Category 4:3:#1cdc9a,Category 5:4:#c9ce3b,Category 6:5:#fdbc4b,Category 7:6:#f39c1f,Category 8:7:#f47750,Category 9:8:#da4453
-monitor_audio=false
+previewScaling=0
 producerslist=blipflash,count,pgm,decklink,ladspa.1047,ladspa.1050,xml,xml-string,xml-nogl,avformat,avformat-novalidate,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,pango,pixbuf,vorbis,abnormal,blank,color,colour,consumer,hold,loader,loader-nogl,melt,melt_file,noise,timewarp,tone,framebuffer,glaxnimate,qimage,qtext,kdenlivetitle
+project_fps=60
+renderProfile=4k Drone 60FPS 2
+showOnMonitorScene=false
 use_dark_breeze=true
+validated_luts=/usr/share/kdenlive/luts/GREEN_TINT.cube,/usr/share/kdenlive/luts/CINEMATIC.cube,/usr/share/kdenlive/luts/BLUE_TINT.cube,/usr/share/kdenlive/luts/TEAL_ORANGE.cube,/home/bnn/Downloads/Free DJI MINI 3 LUTS/BALI.cube,/home/bnn/Downloads/Free DJI MINI 3 LUTS/MOCHA.cube,/home/bnn/Downloads/Free DJI MINI 3 LUTS/NAUTIC.cube,/home/bnn/Downloads/Free DJI MINI 3 LUTS/POLAR.cube
 widgetstyle=Breeze
 
 [version]
-version=24.05.0
+version=24.05.1

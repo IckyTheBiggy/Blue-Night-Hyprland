@@ -19,10 +19,10 @@
       <i c="1" l="1712794083386" />
     </e>
     <e n="EditorBackSpace">
-      <i c="13758" l="1717782681498" />
+      <i c="13808" l="1718711252991" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="4133" l="1717782682576" />
+      <i c="4152" l="1718711254920" />
     </e>
     <e n="EditorCopy">
       <i c="372" l="1717721026900" />
@@ -34,13 +34,13 @@
       <i c="6" l="1715377347540" />
     </e>
     <e n="EditorDown">
-      <i c="3847" l="1717782682265" />
+      <i c="3859" l="1718711142050" />
     </e>
     <e n="EditorDuplicate">
       <i c="3" l="1715377098891" />
     </e>
     <e n="EditorEnter">
-      <i c="2379" l="1717782614053" />
+      <i c="2394" l="1718711251071" />
     </e>
     <e n="EditorEscape">
       <i c="1" l="1716463168258" />
@@ -58,22 +58,22 @@
       <i c="1" l="1717720223439" />
     </e>
     <e n="EditorNextWord">
-      <i c="1879" l="1717782679128" />
+      <i c="1883" l="1718711121308" />
     </e>
     <e n="EditorNextWordWithSelection">
-      <i c="218" l="1717782671097" />
+      <i c="220" l="1718711089992" />
     </e>
     <e n="EditorPaste">
-      <i c="250" l="1717782379616" />
+      <i c="251" l="1718711100224" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1207" l="1717782631473" />
     </e>
     <e n="EditorPreviousWordWithSelection">
-      <i c="1684" l="1717782679889" />
+      <i c="1693" l="1718711121697" />
     </e>
     <e n="EditorRight">
-      <i c="1808" l="1717782589323" />
+      <i c="1814" l="1718711158251" />
     </e>
     <e n="EditorRightWithSelection">
       <i c="3" l="1717595111803" />
@@ -97,13 +97,13 @@
       <i c="2" l="1716821400159" />
     </e>
     <e n="EditorUp">
-      <i c="1965" l="1717782677003" />
+      <i c="1973" l="1718711251260" />
     </e>
     <e n="FileChooser.NewFolder">
       <i c="2" l="1714467440745" />
     </e>
     <e n="Find">
-      <i c="32" l="1717782551518" />
+      <i c="34" l="1718711063866" />
     </e>
     <e n="FindInSolutionView">
       <i c="1" l="1716460653476" />
@@ -160,7 +160,7 @@
       <i c="3" l="1717782677610" />
     </e>
     <e n="SaveDocument">
-      <i c="6335" l="1717782683128" />
+      <i c="6347" l="1718711257004" />
     </e>
     <e n="SearchEverywhere">
       <i c="10" l="1717720795740" />
@@ -232,10 +232,10 @@
       <i c="1" l="1712243612119" />
     </e>
     <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
-      <i c="1" l="1715855999799" />
+      <i c="3" l="1718710626341" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$DumbAwareActionWrapper">
-      <i c="103" l="1717782416558" />
+      <i c="107" l="1718711599254" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
       <i c="15" l="1717782427320" />

@@ -180,25 +180,9 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/UnityProjects/BeatRunner/BeatRunner/BeatRunner.sln">
-          <value>
-            <RecentProjectMetaInfo frameTitle="BeatRunner – PlayerMovement.cs" projectWorkspaceId="2hDAjbVSckBCXMiEqqyY5RGHe60">
-              <option name="activationTimestamp" value="1717721805782" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="RD-241.15989.179" />
-              <option name="buildTimestamp" value="1715010720000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="2" />
-              </option>
-              <frame x="35" y="14" width="1850" height="1031" />
-              <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1717719969165" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/UnityProjects/SourceGame/SourceGame.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="SourceGame – GunScript.cs" opened="true" projectWorkspaceId="2dQgNJZ1oDgb5KSoZuuSDGIAhZJ">
+            <RecentProjectMetaInfo frameTitle="SourceGame – GunScript.cs" projectWorkspaceId="2dQgNJZ1oDgb5KSoZuuSDGIAhZJ">
               <option name="activationTimestamp" value="1717789515894" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-241.15989.179" />
@@ -212,9 +196,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/UnityProjects/BeatRunner/BeatRunner/BeatRunner.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="BeatRunner – PlayerMovement.cs" opened="true" projectWorkspaceId="2hDAjbVSckBCXMiEqqyY5RGHe60">
+              <option name="activationTimestamp" value="1718719769751" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.15989.179" />
+              <option name="buildTimestamp" value="1715010720000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="35" y="14" width="1850" height="1031" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1718710633927" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/UnityProjects/SourceGame/SourceGame.sln" />
+    <option name="lastOpenedProject" value="$USER_HOME$/UnityProjects/BeatRunner/BeatRunner/BeatRunner.sln" />
     <option name="lastProjectLocation" value="$USER_HOME$/Development/C#/SQLStudentIDK" />
   </component>
 </application>
