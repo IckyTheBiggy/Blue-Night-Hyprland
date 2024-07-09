@@ -1,0 +1,125 @@
+15:33:50.442: Using EGL/X11
+15:33:50.442: CPU Name: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz
+15:33:50.442: CPU Speed: 4798.549MHz
+15:33:50.442: Physical Cores: 8, Logical Cores: 16
+15:33:50.442: Physical Memory: 31993MB Total, 4436MB Free
+15:33:50.442: Kernel Version: Linux 6.9.7-arch1-1
+15:33:50.442: Distribution: "Arch Linux" Unknown
+15:33:50.442: Desktop Environment: i3 (i3)
+15:33:50.442: Session Type: x11
+15:33:50.442: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+15:33:50.443: Qt Version: 6.7.2 (runtime), 6.7.1 (compiled)
+15:33:50.443: Portable mode: false
+15:33:50.463: OBS 30.1.2-2 (linux)
+15:33:50.463: ---------------------------------
+15:33:50.464: ---------------------------------
+15:33:50.464: audio settings reset:
+15:33:50.464: 	samples per sec: 48000
+15:33:50.464: 	speakers:        2
+15:33:50.464: 	max buffering:   960 milliseconds
+15:33:50.464: 	buffering type:  dynamically increasing
+15:33:50.465: ---------------------------------
+15:33:50.465: Initializing OpenGL...
+15:33:50.575: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2
+15:33:50.575: OpenGL loaded successfully, version 3.3.0 NVIDIA 555.58.02, shading language 3.30 NVIDIA via Cg compiler
+15:33:50.601: ---------------------------------
+15:33:50.601: video settings reset:
+15:33:50.601: 	base resolution:   1920x1080
+15:33:50.601: 	output resolution: 1920x1080
+15:33:50.601: 	downscale filter:  Bicubic
+15:33:50.601: 	fps:               60/1
+15:33:50.601: 	format:            NV12
+15:33:50.601: 	YUV mode:          Rec. 709/Partial
+15:33:50.603: NV12 texture support enabled
+15:33:50.603: P010 texture support not available
+15:33:50.603: Audio monitoring device:
+15:33:50.603: 	name: Default
+15:33:50.603: 	id: default
+15:33:50.603: ---------------------------------
+15:33:50.607: Failed to load 'en-US' text for module: 'decklink-captions.so'
+15:33:50.611: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+15:33:50.617: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+15:33:50.617: Failed to initialize module 'decklink.so'
+15:33:50.693: [pipewire] No captures available
+15:33:50.702: v4l2loopback not installed, virtual camera disabled
+15:33:50.728: NVENC supported
+15:33:50.729: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+15:33:50.729: FFmpeg VAAPI H264 encoding not supported
+15:33:50.729: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+15:33:50.729: FFmpeg VAAPI AV1 encoding not supported
+15:33:50.729: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+15:33:50.729: FFmpeg VAAPI HEVC encoding not supported
+15:33:50.781: ---------------------------------
+15:33:50.781:   Loaded Modules:
+15:33:50.781:     text-freetype2.so
+15:33:50.781:     rtmp-services.so
+15:33:50.781:     obs-x264.so
+15:33:50.781:     obs-webrtc.so
+15:33:50.781:     obs-vst.so
+15:33:50.781:     obs-transitions.so
+15:33:50.781:     obs-qsv11.so
+15:33:50.781:     obs-outputs.so
+15:33:50.781:     obs-libfdk.so
+15:33:50.781:     obs-filters.so
+15:33:50.781:     obs-ffmpeg.so
+15:33:50.781:     linux-v4l2.so
+15:33:50.781:     linux-pulseaudio.so
+15:33:50.781:     linux-pipewire.so
+15:33:50.781:     linux-jack.so
+15:33:50.781:     linux-capture.so
+15:33:50.781:     linux-alsa.so
+15:33:50.781:     image-source.so
+15:33:50.781:     frontend-tools.so
+15:33:50.781:     decklink-output-ui.so
+15:33:50.781:     decklink-captions.so
+15:33:50.781: ---------------------------------
+15:33:50.781: ==== Startup complete ===============================================
+15:33:50.805: All scene data cleared
+15:33:50.805: ------------------------------------------------
+15:33:50.811: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.0) 15.0.0'
+15:33:50.812: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+15:33:50.812: pulse-input: Started recording from 'alsa_output.usb-Generic_USB_Audio-00.HiFi__Speaker__sink.monitor' (default)
+15:33:50.812: [Loaded global audio device]: 'Desktop Audio'
+15:33:50.812: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.0) 15.0.0'
+15:33:50.812: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+15:33:50.812: pulse-input: Started recording from 'alsa_input.usb-HP__Inc_HyperX_QuadCast_S_4103-00.analog-stereo' (default)
+15:33:50.812: [Loaded global audio device]: 'Mic/Aux'
+15:33:50.812: xshm-input: Geometry 1920x1080 @ 0,0
+15:33:50.813: Switched to scene 'Scene'
+15:33:50.813: ------------------------------------------------
+15:33:50.813: Loaded scenes:
+15:33:50.813: - scene 'Scene':
+15:33:50.813:     - source: 'Screen Capture (XSHM)' (xshm_input)
+15:33:50.813: ------------------------------------------------
+15:33:50.887: QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.UnknownObject", "No such object path '/StatusNotifierWatcher'")
+15:33:51.467: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+15:33:51.467: 
+15:33:52.139: ---------------------------------
+15:33:52.139: [FFmpeg NVENC encoder: 'advanced_video_recording'] settings:
+15:33:52.139: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+15:33:52.139: 	rate_control: CBR
+15:33:52.139: 	bitrate:      14000
+15:33:52.139: 	cqp:          0
+15:33:52.139: 	keyint:       -1
+15:33:52.139: 	preset:       p5
+15:33:52.139: 	tuning:       hq
+15:33:52.139: 	multipass:    disabled
+15:33:52.139: 	profile:      high
+15:33:52.139: 	width:        1920
+15:33:52.139: 	height:       1080
+15:33:52.139: 	b-frames:     2
+15:33:52.139: 	psycho-aq:    1
+15:33:52.139: 	GPU:          0
+15:33:52.139: 
+15:33:52.313: ---------------------------------
+15:33:52.313: [FFmpeg aac encoder: 'Track1'] bitrate: 320, channels: 2, channel_layout: stereo
+15:33:52.313: 
+15:33:52.314: ==== Replay Buffer Start ===========================================
+15:40:29.355: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Desktop Audio)
+15:40:29.355: 
+20:37:17.567: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/bnn/Videos/Clips/Unfiltered/Replay 2024-07-08 20-37-17.mp4'
+20:52:28.418: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/bnn/Videos/Clips/Unfiltered/Replay 2024-07-08 20-52-28.mp4'
+20:53:58.632: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/bnn/Videos/Clips/Unfiltered/Replay 2024-07-08 20-53-58.mp4'
+22:32:02.213: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/bnn/Videos/Clips/Unfiltered/Replay 2024-07-08 22-32-02.mp4'
+22:35:26.095: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/bnn/Videos/Clips/Unfiltered/Replay 2024-07-08 22-35-26.mp4'
+22:36:16.545: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/bnn/Videos/Clips/Unfiltered/Replay 2024-07-08 22-36-16.mp4'

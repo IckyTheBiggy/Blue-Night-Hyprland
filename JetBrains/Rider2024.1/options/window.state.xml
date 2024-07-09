@@ -26,20 +26,20 @@
     <size key="GridCell.Tab.5.bottom.0.0.1920.1080" width="1762" height="323" />
   </component>
   <component name="WindowManager">
-    <frame x="35" y="14" width="1850" height="1031" />
+    <frame x="35" y="12" width="1850" height="1033" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="233" y="402" width="505" height="251" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1712243510541">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="233" y="402" width="505" height="251" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080" timestamp="1712243510541" />
-    <state x="247" y="274" width="476" height="507" key="FileChooserDialogImpl" timestamp="1717118408212">
+    <state x="247" y="274" width="476" height="507" key="FileChooserDialogImpl" timestamp="1719607695430">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="247" y="274" width="476" height="507" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1717118408212" />
-    <state x="960" y="529" width="1850" height="1031" key="WELCOME_SCREEN" timestamp="1718710624641">
+    <state x="247" y="274" width="476" height="507" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1719607695430" />
+    <state x="960" y="528" width="1850" height="1033" key="WELCOME_SCREEN" timestamp="1720400653191">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="960" y="529" width="1850" height="1031" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1718710624641" />
+    <state x="960" y="528" width="1850" height="1033" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1720400653191" />
   </component>
 </application>

@@ -8,25 +8,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf ideFingerprint="34pd000veopms" SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file current-in-tab="false">
+      <file>
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/RecoilScript.cs">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="384">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="724">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <element signature="e#0#67#0" expanded="true" />
+                <marker date="1717504556927" expanded="true" signature="6:67" ph="..." />
                 <marker date="1717504556927" expanded="true" signature="110:911" ph="{...}" />
-                <marker date="1717504556927" expanded="false" signature="383:503" ph="{...}" />
-                <marker date="1717504556927" expanded="false" signature="530:789" ph="{...}" />
+                <marker date="1717504556927" expanded="true" signature="383:503" ph="{...}" />
+                <marker date="1717504556927" expanded="true" signature="530:789" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file>
+      <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/GunScript.cs">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="13">
+            <state relative-caret-position="24">
               <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
               <folding>
                 <marker date="1717782682794" expanded="true" signature="6:219" ph="..." />
@@ -66,6 +66,36 @@
         </entry>
       </file>
       <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/WeaponSway.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <marker date="1717594433943" expanded="false" signature="6:79" ph="..." />
+                <marker date="1717594433943" expanded="true" signature="120:2133" ph="{...}" />
+                <marker date="1717594433943" expanded="true" signature="819:877" ph="{...}" />
+                <marker date="1717594433943" expanded="true" signature="904:2131" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/WeaponHolster.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="312">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <folding>
+                <marker date="1717501985964" expanded="false" signature="6:100" ph="..." />
+                <marker date="1717501985964" expanded="true" signature="144:353" ph="{...}" />
+                <marker date="1717501985964" expanded="true" signature="266:307" ph="{...}" />
+                <marker date="1717501985964" expanded="true" signature="330:351" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Weapons/WeaponSO.cs">
           <provider editor-type-id="text-editor" selected="true">
             <state relative-caret-position="240">
@@ -80,10 +110,10 @@
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="816">
+            <state relative-caret-position="768">
               <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
               <folding>
-                <marker date="1717611786546" expanded="true" signature="6:54" ph="..." />
+                <element signature="e#0#54#0" expanded="true" />
                 <marker date="1717611786546" expanded="true" signature="102:939" ph="{...}" />
                 <marker date="1717611786546" expanded="true" signature="465:519" ph="{...}" />
                 <marker date="1717611786546" expanded="true" signature="551:785" ph="{...}" />
@@ -98,8 +128,8 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "C#": {
-      "usageCount": 174,
-      "lastUsed": 1717782401850
+      "usageCount": 180,
+      "lastUsed": 1719449786088
     }
   }
 }]]></component>
@@ -151,7 +181,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="C#">
-      <summary usageCount="174" lastUsage="1717782401850" />
+      <summary usageCount="180" lastUsage="1719449786088" />
     </language>
   </component>
   <component name="ProjectView">
@@ -245,6 +275,12 @@
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="World" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
               <item name="SourceMovement" type="daf7a7f:UnityExplorerFileSystemNode" />
             </path>
             <path>
@@ -259,9 +295,8 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="71192831:AssetsRootNode" />
               <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="ScriptableObjects" type="daf7a7f:UnityExplorerFileSystemNode" />
               <item name="Weapons" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="WeaponSO.cs" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="RecoilScript.cs" type="daf7a7f:UnityExplorerFileSystemNode" />
             </path>
           </select>
         </subPane>
@@ -290,8 +325,8 @@
         <option name="search-dependencies" value="false" />
         <option name="show-unreal-project-files" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="RiderPerAppToolWindowOpenedTWKeeper">
@@ -309,7 +344,7 @@
         </entry>
         <entry key="Build">
           <value>
-            <window_info anchor="bottom" id="Build" weight="0.21165338" />
+            <window_info active="true" anchor="bottom" id="Build" order="4" weight="0.07121514" />
           </value>
         </entry>
         <entry key="Commit">
@@ -439,7 +474,7 @@
         </entry>
         <entry key="Terminal">
           <value>
-            <window_info anchor="bottom" id="Terminal" order="3" weight="0.3202191" />
+            <window_info anchor="bottom" id="Terminal" order="3" weight="0.1688247" />
           </value>
         </entry>
         <entry key="TypeScript">
@@ -491,7 +526,7 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91998000" />
+    <option name="totallyTimeSpent" value="95261000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,7 +549,6 @@
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" weight="0.21165338" />
       <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
@@ -526,7 +560,8 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3202191" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.1688247" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" weight="0.07121514" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.36404383" />
       <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.030378487" />
       <window_info anchor="bottom" id="Services" order="4" />
@@ -540,13 +575,17 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
-      <unified_weights bottom="0.3202191" left="0.21827549" right="0.32998914" />
+      <unified_weights bottom="0.07121514" left="0.21827549" right="0.32998914" />
     </layoutV2>
     <recentWindows>
       <value>Project</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
+    <state x="543" y="268" width="830" height="519" key="IDE.errors.dialog" timestamp="1719449772039">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="268" width="830" height="519" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1719449772039" />
     <state x="464" y="164" key="SettingsEditor" timestamp="1717594451436">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -766,19 +805,6 @@
             <marker date="1709945426469" expanded="false" signature="6:78" ph="..." />
             <marker date="1709945426469" expanded="true" signature="116:241" ph="{...}" />
             <marker date="1709945426469" expanded="true" signature="123:238" ph="// Empty class for defining objects as ladders ... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/WeaponHolster.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <marker date="1716485075857" expanded="false" signature="6:100" ph="..." />
-            <marker date="1716485075857" expanded="true" signature="144:353" ph="{...}" />
-            <marker date="1716485075857" expanded="true" signature="266:307" ph="{...}" />
-            <marker date="1716485075857" expanded="true" signature="330:351" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1065,32 +1091,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/WeaponSway.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding>
-            <marker date="1717594433943" expanded="false" signature="6:79" ph="..." />
-            <marker date="1717594433943" expanded="true" signature="120:2133" ph="{...}" />
-            <marker date="1717594433943" expanded="false" signature="819:877" ph="{...}" />
-            <marker date="1717594433943" expanded="false" signature="904:2131" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/RecoilScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <marker date="1717504556927" expanded="true" signature="6:67" ph="..." />
-            <marker date="1717504556927" expanded="true" signature="110:911" ph="{...}" />
-            <marker date="1717504556927" expanded="false" signature="383:503" ph="{...}" />
-            <marker date="1717504556927" expanded="false" signature="530:789" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Weapons/WeaponSO.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1103,10 +1103,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
+        <state relative-caret-position="768">
           <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
           <folding>
-            <marker date="1717611786546" expanded="true" signature="6:54" ph="..." />
+            <element signature="e#0#54#0" expanded="true" />
             <marker date="1717611786546" expanded="true" signature="102:939" ph="{...}" />
             <marker date="1717611786546" expanded="true" signature="465:519" ph="{...}" />
             <marker date="1717611786546" expanded="true" signature="551:785" ph="{...}" />
@@ -1117,7 +1117,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/GunScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
+        <state relative-caret-position="24">
           <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
           <folding>
             <marker date="1717782682794" expanded="true" signature="6:219" ph="..." />
@@ -1151,6 +1151,45 @@
             <marker date="1717782682794" expanded="true" signature="8381:8739" ph="{...}" />
             <marker date="1717782682794" expanded="true" signature="8490:8733" ph="{...}" />
             <marker date="1717782682794" expanded="true" signature="8745:9031" ph="// private Coroutine _hitMarkerCoroutine; ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/WeaponSway.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <marker date="1717594433943" expanded="false" signature="6:79" ph="..." />
+            <marker date="1717594433943" expanded="true" signature="120:2133" ph="{...}" />
+            <marker date="1717594433943" expanded="true" signature="819:877" ph="{...}" />
+            <marker date="1717594433943" expanded="true" signature="904:2131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/WeaponHolster.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <marker date="1717501985964" expanded="false" signature="6:100" ph="..." />
+            <marker date="1717501985964" expanded="true" signature="144:353" ph="{...}" />
+            <marker date="1717501985964" expanded="true" signature="266:307" ph="{...}" />
+            <marker date="1717501985964" expanded="true" signature="330:351" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Weapons/RecoilScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <marker date="1717504556927" expanded="true" signature="6:67" ph="..." />
+            <marker date="1717504556927" expanded="true" signature="110:911" ph="{...}" />
+            <marker date="1717504556927" expanded="true" signature="383:503" ph="{...}" />
+            <marker date="1717504556927" expanded="true" signature="530:789" ph="{...}" />
           </folding>
         </state>
       </provider>

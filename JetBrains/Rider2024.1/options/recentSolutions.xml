@@ -182,33 +182,65 @@
         </entry>
         <entry key="$USER_HOME$/UnityProjects/SourceGame/SourceGame.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="SourceGame – GunScript.cs" projectWorkspaceId="2dQgNJZ1oDgb5KSoZuuSDGIAhZJ">
-              <option name="activationTimestamp" value="1717789515894" />
+            <RecentProjectMetaInfo frameTitle="SourceGame – RecoilScript.cs" projectWorkspaceId="2dQgNJZ1oDgb5KSoZuuSDGIAhZJ">
+              <option name="activationTimestamp" value="1719456972548" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-241.15989.179" />
               <option name="buildTimestamp" value="1715010720000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="8" />
               </option>
-              <frame x="35" y="14" width="1850" height="1031" />
+              <frame x="35" y="12" width="1850" height="1033" />
               <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1717781323317" />
+              <option name="projectOpenTimestamp" value="1719449722413" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/UnityProjects/SurfUnity/SurfUnity.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="SurfUnity – MovementConfig.cs" projectWorkspaceId="2iWBWyMx9Lem8TdVTMPbSwdNm8S">
+              <option name="activationTimestamp" value="1719597671079" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.15989.179" />
+              <option name="buildTimestamp" value="1715010720000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="35" y="12" width="1850" height="1033" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1719596488419" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/UnityProjects/FistsupassCounter/FistsupassCounter.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="FistsupassCounter – Fisting.cs" projectWorkspaceId="2iWYFYgBWZFG9atBsOkHWRKfVmV">
+              <option name="activationTimestamp" value="1719607949326" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.15989.179" />
+              <option name="buildTimestamp" value="1715010720000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="35" y="12" width="1850" height="1033" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1719607697689" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="$USER_HOME$/UnityProjects/BeatRunner/BeatRunner/BeatRunner.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="BeatRunner – PlayerMovement.cs" opened="true" projectWorkspaceId="2hDAjbVSckBCXMiEqqyY5RGHe60">
-              <option name="activationTimestamp" value="1718719769751" />
+            <RecentProjectMetaInfo frameTitle="BeatRunner – LevelManager.cs" opened="true" projectWorkspaceId="2hDAjbVSckBCXMiEqqyY5RGHe60">
+              <option name="activationTimestamp" value="1720405181499" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="RD-241.15989.179" />
-              <option name="buildTimestamp" value="1715010720000" />
+              <option name="build" value="RD-241.18034.76" />
+              <option name="buildTimestamp" value="1719162060000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="35" y="14" width="1850" height="1031" />
+              <frame x="35" y="12" width="1850" height="1033" />
               <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1718710633927" />
+              <option name="projectOpenTimestamp" value="1720400657587" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

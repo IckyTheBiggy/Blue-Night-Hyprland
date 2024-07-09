@@ -29,7 +29,7 @@
           "order": 0,
           "contentUiType": "COMBO",
           "isVisible": true,
-          "weight": 0.21827549
+          "weight": 0.23020607
         },
         {
           "id": "Commit",
@@ -51,11 +51,6 @@
           "id": "TypeScript",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
-        },
-        {
-          "id": "Build",
-          "anchor": "BOTTOM",
-          "weight": 0.21165338
         },
         {
           "id": "Dynamic Program Analysis",
@@ -88,12 +83,6 @@
           "weight": 0.12300797
         },
         {
-          "id": "Find",
-          "anchor": "BOTTOM",
-          "isVisible": true,
-          "weight": 0.3202191
-        },
-        {
           "id": "dotMemory Profiler",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
@@ -117,7 +106,13 @@
           "id": "Terminal",
           "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.3202191
+          "weight": 0.07021913
+        },
+        {
+          "id": "Build",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.07021913
         },
         {
           "id": "Debug",
@@ -136,6 +131,13 @@
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM"
+        },
+        {
+          "id": "Find",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.3202191
         },
         {
           "id": "Unit Tests Coverage",
@@ -198,8 +200,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.21827549,
-        "bottom": 0.3202191,
+        "left": 0.23020607,
+        "bottom": 0.07021913,
         "right": 0.32998914
       }
     }

@@ -1,0 +1,123 @@
+17:57:13.311: Using EGL/X11
+17:57:13.311: CPU Name: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz
+17:57:13.311: CPU Speed: 4893.967MHz
+17:57:13.311: Physical Cores: 8, Logical Cores: 16
+17:57:13.311: Physical Memory: 31993MB Total, 24374MB Free
+17:57:13.311: Kernel Version: Linux 6.9.7-arch1-1
+17:57:13.311: Distribution: "Arch Linux" Unknown
+17:57:13.311: Desktop Environment: i3 (i3)
+17:57:13.311: Session Type: x11
+17:57:13.311: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+17:57:13.311: Qt Version: 6.7.2 (runtime), 6.7.1 (compiled)
+17:57:13.311: Portable mode: false
+17:57:13.336: OBS 30.1.2-2 (linux)
+17:57:13.336: ---------------------------------
+17:57:13.336: ---------------------------------
+17:57:13.336: audio settings reset:
+17:57:13.336: 	samples per sec: 48000
+17:57:13.336: 	speakers:        2
+17:57:13.336: 	max buffering:   960 milliseconds
+17:57:13.336: 	buffering type:  dynamically increasing
+17:57:13.338: ---------------------------------
+17:57:13.338: Initializing OpenGL...
+17:57:13.443: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2
+17:57:13.443: OpenGL loaded successfully, version 3.3.0 NVIDIA 555.58.02, shading language 3.30 NVIDIA via Cg compiler
+17:57:13.462: ---------------------------------
+17:57:13.462: video settings reset:
+17:57:13.462: 	base resolution:   1920x1080
+17:57:13.462: 	output resolution: 1920x1080
+17:57:13.462: 	downscale filter:  Bicubic
+17:57:13.462: 	fps:               60/1
+17:57:13.462: 	format:            NV12
+17:57:13.462: 	YUV mode:          Rec. 709/Partial
+17:57:13.464: NV12 texture support enabled
+17:57:13.464: P010 texture support not available
+17:57:13.511: Audio monitoring device:
+17:57:13.511: 	name: Default
+17:57:13.511: 	id: default
+17:57:13.511: ---------------------------------
+17:57:13.515: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:57:13.519: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:57:13.523: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:57:13.523: Failed to initialize module 'decklink.so'
+17:57:13.604: [pipewire] No captures available
+17:57:13.614: v4l2loopback not installed, virtual camera disabled
+17:57:13.641: NVENC supported
+17:57:13.641: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+17:57:13.641: FFmpeg VAAPI H264 encoding not supported
+17:57:13.641: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+17:57:13.641: FFmpeg VAAPI AV1 encoding not supported
+17:57:13.641: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+17:57:13.641: FFmpeg VAAPI HEVC encoding not supported
+17:57:13.690: ---------------------------------
+17:57:13.690:   Loaded Modules:
+17:57:13.690:     text-freetype2.so
+17:57:13.690:     rtmp-services.so
+17:57:13.690:     obs-x264.so
+17:57:13.690:     obs-webrtc.so
+17:57:13.690:     obs-vst.so
+17:57:13.690:     obs-transitions.so
+17:57:13.690:     obs-qsv11.so
+17:57:13.690:     obs-outputs.so
+17:57:13.690:     obs-libfdk.so
+17:57:13.690:     obs-filters.so
+17:57:13.690:     obs-ffmpeg.so
+17:57:13.690:     linux-v4l2.so
+17:57:13.690:     linux-pulseaudio.so
+17:57:13.690:     linux-pipewire.so
+17:57:13.690:     linux-jack.so
+17:57:13.690:     linux-capture.so
+17:57:13.690:     linux-alsa.so
+17:57:13.690:     image-source.so
+17:57:13.690:     frontend-tools.so
+17:57:13.690:     decklink-output-ui.so
+17:57:13.690:     decklink-captions.so
+17:57:13.690: ---------------------------------
+17:57:13.690: ==== Startup complete ===============================================
+17:57:13.721: All scene data cleared
+17:57:13.721: ------------------------------------------------
+17:57:13.723: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.0) 15.0.0'
+17:57:13.723: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+17:57:13.723: pulse-input: Started recording from 'alsa_output.usb-Generic_USB_Audio-00.HiFi__Speaker__sink.monitor' (default)
+17:57:13.723: [Loaded global audio device]: 'Desktop Audio'
+17:57:13.724: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.0) 15.0.0'
+17:57:13.724: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+17:57:13.724: pulse-input: Started recording from 'alsa_input.usb-HP__Inc_HyperX_QuadCast_S_4103-00.analog-stereo' (default)
+17:57:13.724: [Loaded global audio device]: 'Mic/Aux'
+17:57:13.724: xshm-input: Geometry 1920x1080 @ 0,0
+17:57:13.726: Switched to scene 'Scene'
+17:57:13.726: ------------------------------------------------
+17:57:13.726: Loaded scenes:
+17:57:13.726: - scene 'Scene':
+17:57:13.726:     - source: 'Screen Capture (XSHM)' (xshm_input)
+17:57:13.726: ------------------------------------------------
+17:57:14.382: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+17:57:14.382: 
+17:57:14.684: ---------------------------------
+17:57:14.684: [FFmpeg NVENC encoder: 'advanced_video_recording'] settings:
+17:57:14.684: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+17:57:14.684: 	rate_control: CBR
+17:57:14.684: 	bitrate:      14000
+17:57:14.684: 	cqp:          0
+17:57:14.684: 	keyint:       -1
+17:57:14.684: 	preset:       p5
+17:57:14.684: 	tuning:       hq
+17:57:14.684: 	multipass:    disabled
+17:57:14.684: 	profile:      high
+17:57:14.684: 	width:        1920
+17:57:14.684: 	height:       1080
+17:57:14.684: 	b-frames:     2
+17:57:14.684: 	psycho-aq:    1
+17:57:14.684: 	GPU:          0
+17:57:14.684: 
+17:57:14.873: ---------------------------------
+17:57:14.873: [FFmpeg aac encoder: 'Track1'] bitrate: 320, channels: 2, channel_layout: stereo
+17:57:14.873: 
+17:57:14.873: ==== Replay Buffer Start ===========================================
+18:35:27.779: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+18:35:27.779: 
+19:00:02.033: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/bnn/Videos/Clips/Unfiltered/Replay 2024-07-05 19-00-01.mp4'
+21:03:13.934: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/bnn/Videos/Clips/Unfiltered/Replay 2024-07-05 21-03-13.mp4'
+22:30:29.689: adding 64 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: Mic/Aux)
+22:30:29.689: 
+01:41:30.095: The X11 connection broke (error 1). Did the X11 server die?

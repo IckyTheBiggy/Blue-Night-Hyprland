@@ -36,6 +36,7 @@ exec xinput --set-prop "Logitech G502 HERO Gaming Mouse" 'libinput Accel Profile
 
 exec setxkbmap -layout us, de
 exec picom
+exec dunst
 #exec compfy
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
