@@ -1663,6 +1663,24 @@
   <resource identifier="Noto Sans Arabic Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Arabic UI" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic UI Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic UI Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic UI Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic UI Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic UI Thin" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Armenian" checksum="(null)">
   </resource>
 

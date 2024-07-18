@@ -230,7 +230,7 @@
         </entry>
         <entry key="$USER_HOME$/UnityProjects/BeatRunner/BeatRunner/BeatRunner.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="BeatRunner – LevelManager.cs" opened="true" projectWorkspaceId="2hDAjbVSckBCXMiEqqyY5RGHe60">
+            <RecentProjectMetaInfo frameTitle="BeatRunner – LevelManager.cs" projectWorkspaceId="2hDAjbVSckBCXMiEqqyY5RGHe60">
               <option name="activationTimestamp" value="1720405181499" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-241.18034.76" />
@@ -244,9 +244,57 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/UnityProjects/Parkour_Shooter/Parkour_Shooter.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Parkour_Shooter – PlayerMovement.cs" projectWorkspaceId="2jAO5Jgf1pTj13uccPzLbmHNWrY">
+              <option name="activationTimestamp" value="1720828950919" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.18034.76" />
+              <option name="buildTimestamp" value="1719162060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="35" y="12" width="1850" height="1033" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1720826229761" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/UnityProjects/Survival Game/Survival Game.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Survival Game – PlayerController.cs" projectWorkspaceId="2j9t8T6pSo2smfMDGBvCzt8pMLr">
+              <option name="activationTimestamp" value="1720908133939" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.18034.76" />
+              <option name="buildTimestamp" value="1719162060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="35" y="12" width="1850" height="1033" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1720904168710" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/C#/osu/osu.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="osu – IHasAccentColour.cs" opened="true" projectWorkspaceId="2jM2ARzcBNQ2cSUC1hCFojYLcJM">
+              <option name="activationTimestamp" value="1721182613761" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.18034.76" />
+              <option name="buildTimestamp" value="1719162060000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="610" y="7" width="1280" height="1043" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1721182481930" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/UnityProjects/BeatRunner/BeatRunner/BeatRunner.sln" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/C#/osu/osu.sln" />
     <option name="lastProjectLocation" value="$USER_HOME$/Development/C#/SQLStudentIDK" />
   </component>
 </application>

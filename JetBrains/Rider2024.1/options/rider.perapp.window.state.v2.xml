@@ -29,7 +29,7 @@
           "order": 0,
           "contentUiType": "COMBO",
           "isVisible": true,
-          "weight": 0.23020607
+          "weight": 0.5085812
         },
         {
           "id": "Commit",
@@ -44,6 +44,11 @@
         },
         {
           "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Tests",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
@@ -83,6 +88,11 @@
           "weight": 0.12300797
         },
         {
+          "id": "dotMemory",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
           "id": "dotMemory Profiler",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
@@ -100,7 +110,8 @@
         {
           "id": "Problems View",
           "order": 2,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.17800789
         },
         {
           "id": "Terminal",
@@ -124,8 +135,9 @@
           "id": "Run",
           "order": 4,
           "anchor": "BOTTOM",
+          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.030378487
+          "weight": 0.17800789
         },
         {
           "id": "Services",
@@ -155,10 +167,20 @@
           "isShowStripeButton": false
         },
         {
+          "id": "IL",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
           "id": "documentation.v2",
           "anchor": "RIGHT",
           "isShowStripeButton": false,
           "isSplit": true
+        },
+        {
+          "id": "Test Coverage",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
         },
         {
           "id": "Notifications",
@@ -192,6 +214,13 @@
           "weight": 0.25
         },
         {
+          "id": "Monitoring",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isVisible": true,
+          "weight": 0.36441648
+        },
+        {
           "id": "Coverage",
           "order": 4,
           "anchor": "RIGHT",
@@ -200,9 +229,9 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.23020607,
-        "bottom": 0.07021913,
-        "right": 0.32998914
+        "left": 0.5085812,
+        "bottom": 0.17800789,
+        "right": 0.36441648
       }
     }
   }

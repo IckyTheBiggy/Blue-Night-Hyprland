@@ -82,7 +82,7 @@
     (size 720 564))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
-    (position 346 64)
+    (position 345 63)
     (size 720 564))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")

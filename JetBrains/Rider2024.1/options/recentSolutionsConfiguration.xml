@@ -42,6 +42,14 @@
             </ConfigurationInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Development/C#/osu/osu.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Downloads">
           <value>
             <ConfigurationInfo />
@@ -64,6 +72,14 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/UnityProjects/FistsupassCounter/FistsupassCounter.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/UnityProjects/Parkour_Shooter/Parkour_Shooter.sln">
           <value>
             <ConfigurationInfo>
               <option name="activeConfiguration" value="Debug" />
@@ -104,6 +120,14 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/UnityProjects/SurfUnity/SurfUnity.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/UnityProjects/Survival Game/Survival Game.sln">
           <value>
             <ConfigurationInfo>
               <option name="activeConfiguration" value="Debug" />

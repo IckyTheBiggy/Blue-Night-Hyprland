@@ -99,6 +99,20 @@ vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 
+vim.g.neovide_padding_top = 10
+vim.g.neovide_padding_bottom = 10
+vim.g.neovide_padding_right = 10
+vim.g.neovide_padding_left = 10
+vim.g.neovide_transparency = 0.8
+vim.g.neovide_refresh_rate = 240
+vim.g.neovide_fullscreen = false
+vim.g.neovide_remember_window_size = false
+vim.g.neovide_cursor_smooth_blink = true
+vim.g.neovide_cursor_vfx_mode = "pixiedust"
+vim.g.neovide_cursor_vfx_particle_lifetime = 1
+vim.g.neovide_cursor_vfx_particle_density = 500
+vim.g.neovide_cursor_vfx_particle_speed = 100.0
+
 -- Auto Indent
 vim.opt.autoindent = true
 

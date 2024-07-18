@@ -27,7 +27,7 @@ zoom=7
 
 [Recent Dirs]
 KdenliveClipFolder[$e]=$HOME/Videos,$HOME/Documents
-KdenliveProjectsFolder[$e]=$HOME/Videos/KdenLive/,$HOME/Videos/KdenLive,$HOME/KdenLive
+KdenliveProjectsFolder[$e]=$HOME/Videos,$HOME/Videos/KdenLive/,$HOME/Videos/KdenLive
 KdenliveUrlListParamFolder[$e]=$HOME/Downloads/Free DJI MINI 3 LUTS/,$HOME/Documents
 
 [Recent Files]
@@ -38,6 +38,7 @@ File4[$e]=$HOME/LlandundoDrone-6000.kdenlive
 File5[$e]=$HOME/KdenLive/ISTHISNORMALMONTAGE.kdenlive
 File6[$e]=$HOME/Videos/KdenLive/Dogshort.kdenlive
 File7[$e]=$HOME/Videos/KdenLive/LlandundoDrone-6000.kdenlive
+File8[$e]=$HOME/Videos/ImBlueThug.kdenlive
 Name1[$e]=EdgeShift.kdenlive
 Name2[$e]=LlandundoDrone.kdenlive
 Name3[$e]=LlandundoDrone-5994.kdenlive
@@ -45,6 +46,7 @@ Name4[$e]=LlandundoDrone-6000.kdenlive
 Name5[$e]=ISTHISNORMALMONTAGE.kdenlive
 Name6[$e]=Dogshort.kdenlive
 Name7[$e]=LlandundoDrone-6000.kdenlive
+Name8[$e]=ImBlueThug.kdenlive
 
 [RenderWidget]
 showoptions=true
@@ -88,7 +90,7 @@ rec601=false
 ColorSchemePath=BlueNight.colors
 
 [bin]
-treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAABgAAACMAAAADAAAAMwAAAAcAAABAAAAAAQAAADEAAAAIAAAAZAAAAAIAAABZAAAABQAAAEkAAAAEAAAALAAAANgAAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAAA2AAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA4AAAAAA==
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAABgAAACMAAAADAAAAMwAAAAcAAABAAAAAAQAAADEAAAAIAAAAZAAAAAIAAABZAAAABQAAAEkAAAAEAAAALAAAAQAAAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAABAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA4AAAAAA==
 
 [capture]
 decklink_capturedevice=4294967295
@@ -110,7 +112,7 @@ ffmpegpath[$e]=/usr/bin/ffmpeg
 ffplaypath[$e]=/usr/bin/ffplay
 ffprobepath[$e]=/usr/bin/ffprobe
 kdenliverendererpath[$e]=/usr/bin/kdenlive_render
-lastCacheCheck=2024,7,3,4,47,32.465
+lastCacheCheck=2024,7,17,14,12,55.858
 meltpath[$e]=/usr/bin/melt-7
 mltpath[$e]=/usr/share/mlt-7/profiles
 nice_tasks=false
@@ -160,4 +162,4 @@ validated_luts=/usr/share/kdenlive/luts/GREEN_TINT.cube,/usr/share/kdenlive/luts
 widgetstyle=Breeze
 
 [version]
-version=24.05.1
+version=24.05.2

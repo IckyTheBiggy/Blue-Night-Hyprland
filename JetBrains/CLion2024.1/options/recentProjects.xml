@@ -1,0 +1,41 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Development/C++/TEMP/mkfaktura">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mkfaktura – main.c" projectWorkspaceId="2j1bYzC7ACBnvCp5Zyyd0mwNVrq">
+              <option name="activationTimestamp" value="1720558122710" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-241.18034.45" />
+              <option name="buildTimestamp" value="1718745180000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="30" y="7" width="915" height="1043" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1720557855114" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/C++/TEMP/gtk-opencv-simple">
+          <value>
+            <RecentProjectMetaInfo frameTitle="gtk-opencv-simple – camera-drawing-area.cpp" opened="true" projectWorkspaceId="2j1cjZz9ziZfEkDVx6lpT3iC2ij">
+              <option name="activationTimestamp" value="1720558249435" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-241.18034.45" />
+              <option name="buildTimestamp" value="1718745180000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="30" y="7" width="803" height="1043" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1720558159621" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Development/C++/TEMP/gtk-opencv-simple" />
+  </component>
+</application>

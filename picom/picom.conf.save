@@ -1,0 +1,17 @@
+fading = false;
+inactive-opacity = 1;
+backend = "xrender";
+dithered-present = false;
+vsync = false
+
+#Blur
+#blur-background = true;
+blur-method = "box";
+blur-strength = 10;
+
+animations = true
+
+opacity-rule = [
+  "95:class_g = 'dolphin'",
+  "85:class_g = 'Spotify'"
+]
