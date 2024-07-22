@@ -32,7 +32,7 @@ family = "Iosevka Nerd Font"
 style = "Regular"
 
 [window]
-opacity = 0.5
+opacity = 0.7
 padding = {x = 20,y = 20}
 
 [window.dimensions]

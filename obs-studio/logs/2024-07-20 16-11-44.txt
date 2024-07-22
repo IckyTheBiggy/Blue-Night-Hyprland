@@ -1,0 +1,120 @@
+16:11:44.849: Using EGL/X11
+16:11:44.849: CPU Name: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz
+16:11:44.849: CPU Speed: 2516.882MHz
+16:11:44.849: Physical Cores: 8, Logical Cores: 16
+16:11:44.849: Physical Memory: 31993MB Total, 8206MB Free
+16:11:44.849: Kernel Version: Linux 6.9.9-arch1-1
+16:11:44.849: Distribution: "Arch Linux" Unknown
+16:11:44.849: Desktop Environment: i3 (i3)
+16:11:44.849: Session Type: x11
+16:11:44.849: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+16:11:44.850: Qt Version: 6.7.2 (runtime), 6.7.1 (compiled)
+16:11:44.850: Portable mode: false
+16:11:44.872: OBS 30.1.2-2 (linux)
+16:11:44.872: ---------------------------------
+16:11:44.872: ---------------------------------
+16:11:44.872: audio settings reset:
+16:11:44.872: 	samples per sec: 48000
+16:11:44.872: 	speakers:        2
+16:11:44.872: 	max buffering:   960 milliseconds
+16:11:44.872: 	buffering type:  dynamically increasing
+16:11:44.873: ---------------------------------
+16:11:44.873: Initializing OpenGL...
+16:11:44.985: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2
+16:11:44.985: OpenGL loaded successfully, version 3.3.0 NVIDIA 555.58.02, shading language 3.30 NVIDIA via Cg compiler
+16:11:45.012: ---------------------------------
+16:11:45.012: video settings reset:
+16:11:45.012: 	base resolution:   1920x1080
+16:11:45.012: 	output resolution: 1920x1080
+16:11:45.012: 	downscale filter:  Bicubic
+16:11:45.012: 	fps:               60/1
+16:11:45.012: 	format:            NV12
+16:11:45.012: 	YUV mode:          Rec. 709/Partial
+16:11:45.013: NV12 texture support enabled
+16:11:45.013: P010 texture support not available
+16:11:45.013: Audio monitoring device:
+16:11:45.013: 	name: Default
+16:11:45.013: 	id: default
+16:11:45.013: ---------------------------------
+16:11:45.018: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:11:45.022: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+16:11:45.026: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:11:45.026: Failed to initialize module 'decklink.so'
+16:11:45.104: [pipewire] No captures available
+16:11:45.115: v4l2loopback not installed, virtual camera disabled
+16:11:45.141: NVENC supported
+16:11:45.141: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+16:11:45.141: FFmpeg VAAPI H264 encoding not supported
+16:11:45.141: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+16:11:45.141: FFmpeg VAAPI AV1 encoding not supported
+16:11:45.141: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+16:11:45.141: FFmpeg VAAPI HEVC encoding not supported
+16:11:45.198: ---------------------------------
+16:11:45.198:   Loaded Modules:
+16:11:45.198:     text-freetype2.so
+16:11:45.198:     rtmp-services.so
+16:11:45.198:     obs-x264.so
+16:11:45.198:     obs-webrtc.so
+16:11:45.198:     obs-vst.so
+16:11:45.198:     obs-transitions.so
+16:11:45.198:     obs-qsv11.so
+16:11:45.198:     obs-outputs.so
+16:11:45.198:     obs-libfdk.so
+16:11:45.198:     obs-filters.so
+16:11:45.198:     obs-ffmpeg.so
+16:11:45.198:     linux-v4l2.so
+16:11:45.198:     linux-pulseaudio.so
+16:11:45.198:     linux-pipewire.so
+16:11:45.198:     linux-jack.so
+16:11:45.198:     linux-capture.so
+16:11:45.198:     linux-alsa.so
+16:11:45.198:     image-source.so
+16:11:45.198:     frontend-tools.so
+16:11:45.198:     decklink-output-ui.so
+16:11:45.198:     decklink-captions.so
+16:11:45.198: ---------------------------------
+16:11:45.198: ==== Startup complete ===============================================
+16:11:45.214: All scene data cleared
+16:11:45.214: ------------------------------------------------
+16:11:45.216: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.1) 15.0.0'
+16:11:45.217: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+16:11:45.217: pulse-input: Started recording from 'alsa_output.usb-Generic_USB_Audio-00.HiFi__Speaker__sink.monitor' (default)
+16:11:45.217: [Loaded global audio device]: 'Desktop Audio'
+16:11:45.217: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.1) 15.0.0'
+16:11:45.217: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+16:11:45.217: pulse-input: Started recording from 'alsa_input.usb-HP__Inc_HyperX_QuadCast_S_4103-00.analog-stereo'
+16:11:45.217: [Loaded global audio device]: 'Mic/Aux'
+16:11:45.217: xshm-input: Geometry 1920x1080 @ 0,0
+16:11:45.219: Switched to scene 'Scene'
+16:11:45.219: ------------------------------------------------
+16:11:45.219: Loaded scenes:
+16:11:45.219: - scene 'Scene':
+16:11:45.219:     - source: 'Screen Capture (XSHM)' (xshm_input)
+16:11:45.219: ------------------------------------------------
+16:11:45.768: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+16:11:45.768: 
+16:11:46.323: ---------------------------------
+16:11:46.323: [FFmpeg NVENC encoder: 'advanced_video_recording'] settings:
+16:11:46.323: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+16:11:46.323: 	rate_control: CBR
+16:11:46.323: 	bitrate:      14000
+16:11:46.323: 	cqp:          0
+16:11:46.323: 	keyint:       -1
+16:11:46.323: 	preset:       p5
+16:11:46.323: 	tuning:       hq
+16:11:46.323: 	multipass:    disabled
+16:11:46.323: 	profile:      high
+16:11:46.323: 	width:        1920
+16:11:46.323: 	height:       1080
+16:11:46.323: 	b-frames:     2
+16:11:46.323: 	psycho-aq:    1
+16:11:46.323: 	GPU:          0
+16:11:46.323: 
+16:11:46.513: ---------------------------------
+16:11:46.513: [FFmpeg aac encoder: 'Track1'] bitrate: 320, channels: 2, channel_layout: stereo
+16:11:46.513: 
+16:11:46.513: ==== Replay Buffer Start ===========================================
+17:03:40.520: adding 64 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Desktop Audio)
+17:03:40.520: 
+17:12:14.370: [ffmpeg muxer: 'Replay Buffer'] Wrote replay buffer to '/home/bnn/Videos/Clips/Unfiltered/Replay 2024-07-20 17-12-14.mp4'
+17:28:24.072: The X11 connection broke (error 1). Did the X11 server die?
