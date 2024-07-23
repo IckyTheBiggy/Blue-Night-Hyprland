@@ -1,0 +1,51 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20240723_153245
+====================================================================================================
+
+0     |Info:    Found file: Main.orp attempting to validate header
+0     |Info:    Valid v4 profile found for Main
+1006  |Info:    ------------------------------------------------------
+1006  |Info:    |               Start device detection               |
+1006  |Info:    ------------------------------------------------------
+1006  |Info:    Initializing HID interfaces: Success
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    |             Detecting I2C interfaces               |
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    Registering I2C interface: /dev/i2c-3 Device 0000:0000 Subsystem: 0000:0000
+1010  |Info:    Registering I2C interface: /dev/i2c-1 Device 0000:0000 Subsystem: 0000:0000
+1010  |Info:    Registering I2C interface: /dev/i2c-2 Device 0000:0000 Subsystem: 0000:0000
+1010  |Info:    Registering I2C interface: /dev/i2c-0 Device 8086:43A3 Subsystem: 1462:7D07
+1010  |Info:    ------------------------------------------------------
+1010  |Info:    |               Detecting I2C devices                |
+1010  |Info:    ------------------------------------------------------
+1092  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1119  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1354  |Info:    ------------------------------------------------------
+1354  |Info:    |               Detecting I2C PCI devices            |
+1354  |Info:    ------------------------------------------------------
+1355  |Info:    ------------------------------------------------------
+1355  |Info:    |               Detecting HID devices                |
+1355  |Info:    ------------------------------------------------------
+1365  |Info:    [Razer Goliathus] Registering RGB controller
+1476  |Info:    [Corsair Commander Core] Registering RGB controller
+1551  |Info:    [MSI MPG Z590 GAMING EDGE WIFI (MS-7D07)] Registering RGB controller
+1939  |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+1939  |Info:    ------------------------------------------------------
+1939  |Info:    |            Detecting libusb HID devices            |
+1939  |Info:    ------------------------------------------------------
+1952  |Info:    [HyperX Quadcast S] Registering RGB controller
+1952  |Info:    ------------------------------------------------------
+1952  |Info:    |              Detecting other devices               |
+1952  |Info:    ------------------------------------------------------
+1957  |Info:    ------------------------------------------------------
+1957  |Info:    |                Detection completed                 |
+1957  |Info:    ------------------------------------------------------
+273189|Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-0, address 0x59
+273189|Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-0, address 0x5B
+273189|Info:    Profile loading: Succeeded for Razer Goliathus @ HID: /dev/hidraw8
+273189|Info:    Profile loading: Succeeded for Corsair Commander Core @ HID: /dev/hidraw5
+273189|Info:    Profile loading: Succeeded for MSI MPG Z590 GAMING EDGE WIFI (MS-7D07) @ HID: /dev/hidraw0
+273189|Info:    Profile loading: Succeeded for G502 HERO Gaming Mouse @ HID: /dev/hidraw3 (Receiver) 
+Wireless Index: 255
+273189|Info:    Profile loading: FAILED! for HyperX Quadcast S @ 1-12.1:1.0
