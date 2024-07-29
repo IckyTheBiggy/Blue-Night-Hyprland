@@ -1,6 +1,7 @@
 [font]
 size = 10.0
-
+#50524f
+#ed6d24
 [font.bold]
 family = "Iosevka Nerd Font"
 style = "Bold"
@@ -10,14 +11,14 @@ family = "Iosevka Nerd Font"
 style = "Bold Italic"
 
 [colors.primary]
-background = "#101b24"
-foreground = "#65b3e2"
+background = "#000000"
+foreground = "#ed6d24"
 
 [colors.normal]
 black = "#848d94"
 blue = "#848d94"
-cyan = "#b8c8de"
-green = "#72965c"
+cyan = "#888c87"
+green = "#50524f"
 magenta = "#3a6584"
 red = "#b8c8de"
 white = "#b8c8de"

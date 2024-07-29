@@ -25,24 +25,24 @@ listview {
 	color0: #2e3440;
 	color1: #3b4252;
 	color2: #434c5e;
-	color3: #101b24;
+	color3: #000000;
 
 	color4: #d8dee9;
 	color5: #e5e9f0;
 	color6: #eceff4;
 
 	color7: #8fbcbb;
-	color8: #88c0d0;
+	color8: #ed6d24;
 	color9: #81a1c1;
-	color10: #65b3e2;
+	color10: #ed6d24;
 	color11: #bf616a;
 
 	color12: #d08770;
-	color13: #ebcb8b;
+	color13: #888c87;
 	color14: #a3be8c;
 	color15: #b48ead;
 
-    foreground: #65b3e2;
+    foreground: #ed6d24;
     backlight: @color8;
     background-color: transparent;
     transparency: "real";
@@ -76,9 +76,9 @@ message {
 }
 
 inputbar {
-    color: #65b3e2;
+    color: #ed6d24;
     padding: 16px;
-    background-color: rgba(16,27,36,0.6);
+    background-color: #000000;
 
     border: 3px;
     border-radius:  0px 0px 0px 0px;
@@ -99,7 +99,7 @@ listview {
     border-radius: 0px 0px 0px 0px;
     border-color: @color10;
     border: 0px 3px 3px 3px;
-    background-color: rgba(16,27,36,0.6);
+    background-color: #000000;
     dynamic: false;
 }
 
