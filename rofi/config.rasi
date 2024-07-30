@@ -78,7 +78,7 @@ message {
 inputbar {
     color: #ed6d24;
     padding: 16px;
-    background-color: #000000;
+    background-color: rgba(0, 0, 0, 0.6);
 
     border: 3px;
     border-radius:  0px 0px 0px 0px;
@@ -99,7 +99,7 @@ listview {
     border-radius: 0px 0px 0px 0px;
     border-color: @color10;
     border: 0px 3px 3px 3px;
-    background-color: #000000;
+    background-color: rgba(0, 0, 0, 0.6);
     dynamic: false;
 }
 
