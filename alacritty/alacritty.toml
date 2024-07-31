@@ -2,6 +2,8 @@
 size = 10.0
 #50524f
 #ed6d24
+#1f2428
+
 [font.bold]
 family = "Iosevka Nerd Font"
 style = "Bold"
@@ -11,7 +13,7 @@ family = "Iosevka Nerd Font"
 style = "Bold Italic"
 
 [colors.primary]
-background = "#1f2428"
+background = "#000000"
 foreground = "#ed6d24"
 
 [colors.normal]
