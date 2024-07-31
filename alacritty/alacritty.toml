@@ -1,8 +1,5 @@
 [font]
 size = 10.0
-#50524f
-#ed6d24
-#1f2428
 
 [font.bold]
 family = "Iosevka Nerd Font"
@@ -13,14 +10,14 @@ family = "Iosevka Nerd Font"
 style = "Bold Italic"
 
 [colors.primary]
-background = "#000000"
-foreground = "#ed6d24"
+background = "#101b24"
+foreground = "#65b3e2"
 
 [colors.normal]
 black = "#848d94"
 blue = "#848d94"
-cyan = "#888c87"
-green = "#50524f"
+cyan = "#b8c8de"
+green = "#72965c"
 magenta = "#3a6584"
 red = "#b8c8de"
 white = "#b8c8de"
@@ -41,14 +38,3 @@ padding = {x = 20,y = 20}
 [window.dimensions]
 columns = 80
 lines = 24
-
-#[cursor]
-# Set to false to disable completely
-#smooth_motion = true
-# 0.0 = cursor is not moving, 1.0 = cursor moves instantly
-#smooth_motion_factor = 0.6
-# 0.0 = broken, 1.0 = cursor shape is unaffected by movement
-#smooth_motion_spring = 0.2
-# Override "block" cursor if you don't like how it looks in this fork
-# I prefer "underline"
-#block_replace_shape = "block"
