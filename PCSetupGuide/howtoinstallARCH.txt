@@ -1,0 +1,136 @@
+So this is a retard guide on how to install ARCH LINUX
+
+Step 1: Get the fucking ISO
+
+Step 2: Boot the fucking ISO and check the internet by doing <ping archlinux.org> this should ping shit if it doesnt your internet no worky
+
+Step 3: Check if you have UEFI mode enabled by running <ls /sys/firmware/efi/efivars> if you dont have directory then you dont need to follow the bullshit tagged with (UEFI Only)
+
+Step 4: (UEFI Only): You need to create the EFI partition at the beginning of your drive otherwise bad things will happen, (IG)? To create the partition run <fdisk> /dev/<The Drive> if you want to find out the drive name run <lsblk>. Once you run fdisk type <n> for new partition then <p> for primary and then just use default so press <Enter> on the first sector and on last sector type +512M and it will create the partition this will not yet write the partition so dont worry about that you have to type <w> for it to write the changes if you mess something up and want to quit just type <q>
+
+Step 5: (UEFI Only (I think?)) Run <fdisk> then type <t> and then enter <L> to see all the partition types and then enter the corresponding number to EFI it should look something like this (EFI (FAT-12/16/)) this will not make your partition FAT fucking 12/16 (I think you need to do this I honestly have no fucking clue if you do to be honest).
+
+Step 6: Create your partitions (Excluding EFI if you followed the above)
+
+<fdisk> yet again who would of thought then type <n> for new and then <p> for primary then press enter keep first sector default and then to the last sector just do +<Amount you want to allocate to root>.
+
+Step 7:(Optional if you want a seperate home partition) Research to be done
+
+then make your swap I dont fucking know how much SWAP you need just do 4-8GB and you should be ok if you want to hibernate your PC then research yourself how much you need probably the amount that is your memory so if you have 32GB ram IG 32GB swap no fucking idea though.
+
+To make your swap well run fucking <fdisk>, <n>, <p> again then just press enter on first sector and just add the amount of space you want as mentioned bare in mind you can allocate the rest of the drive if you want by pressing enter for the first and last sector that will make your SWAP Partition.
+
+Step 8: Create your filesystems(THIS WILL WIPE ALL DATA FROM DRIVES!!!!!)
+
+So we made the partitions above but thats your partitions not we havent assigned a filesystem to any of them yet so whats what we do now
+
+Run <lsblk> to list all your drives
+Run <mkfs.ext4> /dev/the partition you want to make the fs for so (NOT THE DRIVE) the partition so something like </dev/sda2> this will make that partition ext4 if you have a seperate home partition do this for that home partition aswell.
+
+(For UEFI) Run <mkfs.fat -F32 /dev/ <EFI Partition>> this will format your EFI partition to FAT-32
+
+Run <mkswap /dev/<Partition>> this will format your SWAP partition to SWAP
+Then enable your SWAP by running <swapon /dev/<SWAP Parition>
+
+Step 9: Mount your directories and Install ARCH LINUX BTW
+Run <mount dev/<Root Partition> /mnt>
+Ig for a home partition you would
+Run <mount /dev/<Home Partition< /mnt/home>
+
+Then you can
+Run <pacstrap /mnt base linux linux-firmware nano/nvim for your text editor you could in theory install other packages you might want here but I dont know how safe it is so I would currently stick with these and install the stuff you want when you boot.
+
+Step 10: Make your fstab
+
+This shit is fucking easy unlike Gentoo
+Run <genfstab -U /mnt >> /mnt/etc/fstab>
+
+Step 11: Chroot into your arch system
+
+Run <arch-chroot /mnt>
+
+Step 12: Setup shit
+
+Run <timedatectl -list-timeszones> if you get some systemd bullshit error then just ignore the stuff that doesnt work ig
+
+Run <timedatectl set-timezone Region/City>
+
+Now setup your locale
+TE = Your text editor so if you install nano you would run nano if nvim you do nvim
+
+Run <TE /etc/locale.gen>
+Then go and uncomment your locale in this case we will uncomment <en_GB.UTF-8 UTF-8> for GB
+
+Now
+Run <locale-gen> then
+Run <echo LANG=en_GB.UTF-8(The locale you uncommented) > /etc/locale.conf
+Run <export LANG=en_GB.UTF-8>
+
+Now we will setup your user/network
+
+Run <echo <username> > /etc/hostname>
+Run <touch /etc/hosts> to make the host file
+
+Then run with your text editor
+Run <TE /etc/hosts>
+
+Then to that file add the following
+
+127.0.0.1 localhost
+::1             localhost
+127.0.1.1 <username>
+
+Now we will setup your root password
+
+Run <passwd> enter your password
+
+
+Step 13: Install grub as your bootloader if you want to install something else follow their install guide (For EFI System)
+
+Run <pacman -S grub efibootmgr>
+Run <mkdir /boot/efi>
+Run <mount /dev/<EFI Parition> /boot/efi>
+
+Then install grub
+
+Run <grub-install --target=x86_64-efi --bootloader-id=GRUB --efi-directory=/boot/efi>
+Run <grub-mkconfig -o /boot/grub/grub.cfg>
+
+And to be safe
+Run <mkinitcpio -P>
+
+For non EFI System
+
+Run <pacman -S grub>
+Run <grub-install /dev/<Your drive the drive not partition so NOT sda2 but something like sda>>
+Run <grub-mkconfig -o /boot/grub/grub.cfg>
+
+And to be safe
+Run <mkinitcpio -P>
+
+Step 14: Setup your user
+
+Run <pacman -S sudo>
+Run <useradd -m <username>>
+Run <passwd <username>>
+Run <usermod -aG wheel, audio, video, storage <username>>
+
+Run <EDITOR=TE visudo>
+Then search for %wheel and uncomment <%wheel ALL=(ALL:ALL) ALL>
+
+Step 15: Setup your DE Optional and in this example we will setup i3 with SDDM but look up the wiki for whatever DE you want to use and display manager
+
+Run <pacman -S xorg networkmanager>
+Run <pacman -S i3>
+Run <pacman -S sddm>
+
+Run <systemctl enable sddm.service>
+Run <systemctl enable NetworkManager.service>
+
+Step 16: Actually run your system finally
+
+Run <exit>
+Run <umount /mnt> if that doesnt worky Run <umount -l /mnt>
+
+Then either
+Run <reboot> or Run <shutdown>
