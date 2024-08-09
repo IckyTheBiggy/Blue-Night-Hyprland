@@ -38,4 +38,7 @@
 !/xsettingsd/
 !/settings.zip
 
+/obs-studio/logs/
+/obs-studio/safe_mode
+/OpenRGB/logs/
 fish/fish_variables
