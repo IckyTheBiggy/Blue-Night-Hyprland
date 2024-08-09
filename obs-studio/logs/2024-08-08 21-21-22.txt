@@ -1,0 +1,151 @@
+21:21:22.839: [Safe Mode] Unclean shutdown detected!
+21:21:23.887: [Safe Mode] User elected to launch normally.
+21:21:23.890: Using EGL/X11
+21:21:23.890: CPU Name: 11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz
+21:21:23.890: CPU Speed: 4823.193MHz
+21:21:23.891: Physical Cores: 8, Logical Cores: 16
+21:21:23.891: Physical Memory: 31993MB Total, 5518MB Free
+21:21:23.891: Kernel Version: Linux 6.10.2-arch1-1
+21:21:23.891: Distribution: "Arch Linux" Unknown
+21:21:23.891: Desktop Environment: i3 (i3)
+21:21:23.891: Session Type: x11
+21:21:23.891: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+21:21:23.891: Qt Version: 6.7.2 (runtime), 6.7.2 (compiled)
+21:21:23.891: Portable mode: false
+21:21:23.905: OBS 30.2.1-1 (linux)
+21:21:23.905: ---------------------------------
+21:21:23.908: ---------------------------------
+21:21:23.908: audio settings reset:
+21:21:23.908: 	samples per sec: 48000
+21:21:23.908: 	speakers:        2
+21:21:23.908: 	max buffering:   960 milliseconds
+21:21:23.908: 	buffering type:  dynamically increasing
+21:21:23.912: ---------------------------------
+21:21:23.912: Initializing OpenGL...
+21:21:24.060: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2
+21:21:24.060: OpenGL loaded successfully, version 3.3.0 NVIDIA 555.58.02, shading language 3.30 NVIDIA via Cg compiler
+21:21:24.077: ---------------------------------
+21:21:24.077: video settings reset:
+21:21:24.077: 	base resolution:   1920x1080
+21:21:24.077: 	output resolution: 1920x1080
+21:21:24.077: 	downscale filter:  Bicubic
+21:21:24.077: 	fps:               60/1
+21:21:24.077: 	format:            NV12
+21:21:24.077: 	YUV mode:          Rec. 709/Partial
+21:21:24.078: NV12 texture support enabled
+21:21:24.078: P010 texture support not available
+21:21:24.079: Audio monitoring device:
+21:21:24.079: 	name: Default
+21:21:24.079: 	id: default
+21:21:24.079: ---------------------------------
+21:21:24.083: Failed to load 'en-US' text for module: 'decklink-captions.so'
+21:21:24.088: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+21:21:24.091: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+21:21:24.091: Failed to initialize module 'decklink.so'
+21:21:24.186: [pipewire] No capture sources available
+21:21:24.197: v4l2loopback not installed, virtual camera not registered
+21:21:24.241: NVENC supported
+21:21:24.241: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+21:21:24.241: FFmpeg VAAPI H264 encoding not supported
+21:21:24.241: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+21:21:24.241: FFmpeg VAAPI AV1 encoding not supported
+21:21:24.241: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+21:21:24.241: FFmpeg VAAPI HEVC encoding not supported
+21:21:24.301: ---------------------------------
+21:21:24.301:   Loaded Modules:
+21:21:24.301:     text-freetype2.so
+21:21:24.301:     rtmp-services.so
+21:21:24.301:     obs-x264.so
+21:21:24.301:     obs-webrtc.so
+21:21:24.301:     obs-vst.so
+21:21:24.301:     obs-transitions.so
+21:21:24.301:     obs-qsv11.so
+21:21:24.301:     obs-outputs.so
+21:21:24.301:     obs-libfdk.so
+21:21:24.301:     obs-filters.so
+21:21:24.301:     obs-ffmpeg.so
+21:21:24.301:     linux-v4l2.so
+21:21:24.301:     linux-pulseaudio.so
+21:21:24.301:     linux-pipewire.so
+21:21:24.301:     linux-jack.so
+21:21:24.301:     linux-capture.so
+21:21:24.301:     linux-alsa.so
+21:21:24.301:     image-source.so
+21:21:24.301:     frontend-tools.so
+21:21:24.301:     decklink-output-ui.so
+21:21:24.301:     decklink-captions.so
+21:21:24.301: ---------------------------------
+21:21:24.301: ---------------------------------
+21:21:24.301: Available Encoders:
+21:21:24.301:   Video Encoders:
+21:21:24.301: 	- ffmpeg_svt_av1 (SVT-AV1)
+21:21:24.301: 	- ffmpeg_aom_av1 (AOM AV1)
+21:21:24.301: 	- jim_nvenc (NVIDIA NVENC H.264)
+21:21:24.301: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+21:21:24.301: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+21:21:24.301: 	- obs_x264 (x264)
+21:21:24.301:   Audio Encoders:
+21:21:24.301: 	- ffmpeg_aac (FFmpeg AAC)
+21:21:24.301: 	- ffmpeg_opus (FFmpeg Opus)
+21:21:24.301: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+21:21:24.301: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+21:21:24.301: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+21:21:24.301: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+21:21:24.301: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+21:21:24.301: 	- libfdk_aac (libfdk AAC)
+21:21:24.301: ==== Startup complete ===============================================
+21:21:24.314: All scene data cleared
+21:21:24.314: ------------------------------------------------
+21:21:24.317: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.1) 15.0.0'
+21:21:24.317: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+21:21:24.317: pulse-input: Started recording from 'alsa_output.usb-Generic_USB_Audio-00.HiFi__Speaker__sink.monitor' (default)
+21:21:24.317: [Loaded global audio device]: 'Desktop Audio'
+21:21:24.317: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.1) 15.0.0'
+21:21:24.317: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+21:21:24.317: pulse-input: Started recording from 'alsa_input.usb-HP__Inc_HyperX_QuadCast_S_4103-00.analog-stereo'
+21:21:24.317: [Loaded global audio device]: 'Mic/Aux'
+21:21:24.317: xshm-input: Geometry 1920x1080 @ 0,0
+21:21:24.319: Switched to scene 'Scene'
+21:21:24.319: ------------------------------------------------
+21:21:24.319: Loaded scenes:
+21:21:24.319: - scene 'Scene':
+21:21:24.319:     - source: 'Screen Capture (XSHM)' (xshm_input)
+21:21:24.319: ------------------------------------------------
+21:21:24.351: QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.UnknownObject", "No such object path '/StatusNotifierWatcher'")
+21:21:24.868: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+21:21:24.868: 
+21:21:25.049: ---------------------------------
+21:21:25.049: [FFmpeg NVENC encoder: 'advanced_video_recording'] settings:
+21:21:25.049: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+21:21:25.049: 	rate_control: CBR
+21:21:25.049: 	bitrate:      14000
+21:21:25.049: 	cqp:          0
+21:21:25.049: 	keyint:       -1
+21:21:25.049: 	preset:       p5
+21:21:25.049: 	tuning:       hq
+21:21:25.049: 	multipass:    disabled
+21:21:25.049: 	profile:      high
+21:21:25.049: 	width:        1920
+21:21:25.049: 	height:       1080
+21:21:25.049: 	b-frames:     2
+21:21:25.049: 	psycho-aq:    1
+21:21:25.049: 	GPU:          0
+21:21:25.049: 
+21:21:25.235: ---------------------------------
+21:21:25.235: [FFmpeg aac encoder: 'Track1'] bitrate: 320, channels: 2, channel_layout: stereo
+21:21:25.235: 
+21:21:25.245: ==== Replay Buffer Start ===========================================
+21:21:56.926: [NVIDIA NVENC H.264 (FFmpeg) encoder: 'advanced_video_recording'] Encoding queue duration surpassed 5 seconds, terminating encoder
+21:21:56.926: Error encoding with encoder 'advanced_video_recording'
+21:21:56.926: Output 'Replay Buffer': stopping
+21:21:56.926: Output 'Replay Buffer': Total frames output: 1589
+21:21:56.926: Output 'Replay Buffer': Total drawn frames: 1590 (1601 attempted)
+21:21:56.926: Output 'Replay Buffer': Number of lagged frames due to rendering lag/stalls: 11 (0.7%)
+21:21:56.927: ==== Replay Buffer Stop ============================================
+21:22:31.932: ==== Shutting down ==================================================
+21:22:31.989: pulse-input: Stopped recording from 'alsa_output.usb-Generic_USB_Audio-00.HiFi__Speaker__sink.monitor'
+21:22:31.989: pulse-input: Got 2706 packets with 3247200 frames
+21:22:31.989: pulse-input: Stopped recording from 'alsa_input.usb-HP__Inc_HyperX_QuadCast_S_4103-00.analog-stereo'
+21:22:31.989: pulse-input: Got 2706 packets with 3247200 frames
+21:22:32.006: All scene data cleared
+21:22:32.006: ------------------------------------------------

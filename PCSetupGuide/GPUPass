@@ -1,0 +1,209 @@
+First of all make sure you have all stuff related to virtualisation enabled in your BIOS and IOMMU aswell
+
+Arch linux and modprobe only
+In /etc/default/grub on the line
+add these at the start im not sure if it matters but just in case add the at the start and the rest of your stuff goes after
+also remove quite from it if you want to see more stuff on boot
+
+For INTEL CPUS
+GRUB_CMDLINE_LINUX_DEFAULT="intel_iommu=on iommu=pt"
+
+For AMD CPUS
+GRUB_CMDLINE_LINUX_DEFAULT="amd_iommu=on iommu=pt" 
+
+Then you want to do to your /etc/mkinitcpio.conf and in MODULES add thse
+vfio_pci vfio vfio_iommu_type1
+ 
+and the rest of your stuff goes after make sure they go first before all of the other stuff thats important
+also double check that in your HOOKS you have
+
+ modconf if its not there add it 
+
+
+Now make the virtual machine and when you make it you want to set
+
+Display to VNC if it doesnt let you cause of spice edit the XML and remove the graphics and audio spice and apply and re add it
+Set the Adress to all interfaces and apply
+
+Set the Video to QXL
+Remove the USB Redirection hardware devices
+
+And add a new storage device thats a disk device and set its bus type to VirtIO and make its size 0.1GiB
+
+Now go to https://github.com/virtio-win/virtio-win-pkg-scripts/blob/master/README.md and download the
+STABLE iso once you do that
+
+Add another storage device this time its a type CDROM and then select custom storage and locate the ISO and finish that aswell
+
+Now boot the virtual machine if everything went fine it should boot and have all of the storage devices added to it click the
+virtio drive and install the drivers once you install them poweroff your virtual machine
+
+Now go back into settings and remove the CDROM device and the small VirtIO drive you made
+then go to your main storage device and change its bus type to VirtIO aswell
+
+VIRTUALMACHINENAME = The name of the virtual machine you made in virt manager
+
+Install VNC Client on different PC such as tiger VNC
+
+Run lspci -nnk and get the numbers from your gpus you will see next to your GPU VGA compatible controller 01:00:0 or something
+like that copy that and put it in here
+
+And also run ip addr to get your ip you will need this for the VNC
+
+where the 01_00_0 start the 0000 should stay there
+
+so if your number was 01:00:4
+you would do pci_0000_01_00_4
+
+on virsh nodedev-detach pci_0000_01_00_0
+
+then the next one you want to do your audio controller for nvidia
+remember to do it in that order beacause on the revert.sh you wanna do the reverse of that
+so if
+
+your gpu is 0000_01_00_4
+and your audio controller is 0000_01_00_5
+in your start.sh
+
+in the revert.sh the first one would be
+your audio controller so 0000_01_00_5
+and then your gpu second so 0000_01_00_4
+
+Note: if you have extra things on your GPU like USB ports or something and want to pass those through add those aswell and follow the reverse order with it
+to add it you would just do
+
+virsh nodedev-detach pci_0000_URDEVICEID
+and then add it in reverse order in the revert script
+
+Hooks
+
+Make start.sh in /etc/libvrt/hooks/qemu.d/VIRTUALMACHINENAME/prepare/begin/
+
+start.sh
+
+!/bin/bash
+# Helpful to read output when debugging
+set -x
+
+# Stop display manager
+systemctl stop display-manager.service
+## Uncomment the following line if you use GDM
+#killall gdm-x-session
+sudo rmmod nvidia-drm
+sudo rmmod nvidia_uvm
+sudo rmmod nvidia_modeset
+sudo rmmod nvidia
+
+# Unbind VTconsoles
+echo 0 > /sys/class/vtconsole/vtcon0/bind
+echo 0 > /sys/class/vtconsole/vtcon1/bind
+
+# Unbind EFI-Framebuffer
+echo efi-framebuffer.0 > /sys/bus/platform/drivers/efi-framebuffer/unbind
+
+# Avoid a Race condition by waiting 2 seconds. This can be calibrated to be shorter or longer if required for your system
+sleep 2
+
+# Unbind the GPU from display driver
+virsh nodedev-detach pci_0000_01_00_0
+virsh nodedev-detach pci_0000_01_00_1
+
+# Load VFIO Kernel Module
+modprobe vfio-pci
+
+Make revert.sh in /etc/libvirt/hooks/qemu.d/VIRTUALMACHINENAME/release/end/revert.sh
+
+revert.sh
+
+#!/bin/bash
+set -x
+
+# Re-Bind GPU to Nvidia Driver
+virsh nodedev-reattach pci_0000_01_00_1
+virsh nodedev-reattach pci_0000_01_00_0
+
+# Reload nvidia modules
+modprobe nvidia
+modprobe nvidia_modeset
+modprobe nvidia_uvm
+modprobe nvidia_drm
+
+# Rebind VT consoles
+echo 1 > /sys/class/vtconsole/vtcon0/bind
+# Some machines might have more than 1 virtual console. Add a line for each corresponding VTConsole
+#echo 1 > /sys/class/vtconsole/vtcon1/bind
+
+nvidia-xconfig --query-gpu-info > /dev/null 2>&1
+echo "efi-framebuffer.0" > /sys/bus/platform/drivers/efi-framebuffer/bind
+
+# Restart Display Manager
+systemctl start display-manager.service
+
+
+Now I recommend you SSH from another pc or from a android phone using something like termux into your pc to run the scripts
+to setup SSH on arch linux and probably a simular process on other distros but me examples will be arch
+
+All the below should be ran as root(sudo/doas)
+
+pacman -S openssh ufw
+
+systemctl enable sshd
+ufw enable
+ufw allow ssh
+ufw status and make sure ports ssh 22 are open
+
+now you should be able to ssh from another device by simply doing ssh TheTargetPcSshUsername@ip addr IP it should prompt you for the password
+if it does eneter it and congrats you should be ssh into your system if it doesnt work or stays blank there could be a few things
+
+Firstly you enetered the wrong IP
+Secondly your ssh config is set to a ssh key to disable this go to /etc/ssh/sshd_config and set
+PubkeyAuthentication to no or uncomment it if its commented and also uncomment/change PasswordAuthentication to yes
+
+And now try again if it still doesnt work you might have some extra services that need to be enabled or something just google
+the issue and you should find some answer
+
+Ok so now your ssh into your system from the other pc so to test if everything is working run this as root(sudo/doas)
+sh /etc/libvirt/hooks/qemu.d/YOURVMNAME/prepare/begin/start.sh now if everything is good your monitor should cut off and no
+errors should print if so you got through the unplugging statge now run as root sh /etc/libvirt/hooks/qemu.d/YOURVMNAME/release/end/revert.sh
+if your gpu plugs back in and you see your login screen on your pc congrats you have managed to unplugg and replugg your gpu the hard
+part is basically over now
+
+Now go back into virt manager and open the virtual machine and you want to passthrough anything to do with nvidia and anything you
+added isolated so in this case its the 2 devices the GPU and the GPU Audio device so go to add hardware and add a PCIE Host Device
+and located your GPU and you Audio Device and also usb ports if you ioslated those aswell
+
+Now add USB Host Devices so your Mouse, Keyboard, Mic, Audio Controller even if your speakers/headphones are not USB, and any other
+usb devices you might wanna use in the virtual machine such as a MIDI player or something
+
+Note: Your main system wont be able to use these devices but that wont matter for the most part cause you wont have access to your
+main pc anyways
+
+Now that you have do all those steps make sure of one more this that your NIC Network Interface is not Inactive if it is inactive
+your virtual machine wont boot(Found this out the hard way) if that is the case you will want to enable it by doing the following
+
+Click on your virtual machine in the main window and then go to the top and press Connection Details then go to virtual networks
+then you will see default probably and where it says Autostart check the OnBoot checkbox and hit apply
+
+Now reboot your pc
+
+Ok so now everything should be ready for your first GPU Passthrough boot where still not done but where close boot the virtual machine
+if everything worked correctly you should have nothing displaying on your screen and not be kicked back out into your login manager
+
+If you are kicked back into your login manager remove the GPU Passthrough devices rename your virtual machine to something else
+so it doesnt start the hooks and run it and see if there are any errors or warnings that could be happening and double check
+the previous steps
+
+If everything did work you will have a black screen so now your VNC client comes into play go into it and connect to the ip
+you get from ip addr and you should see your pc from the VNC client now go into any browser and search for your GPU Drivers and
+download them update the PC and the install the drivers the drivers might say they cant install for a specific reason this could be
+due to windows updates so let those do and then run the driver install again once thats all done you should see your main monitor
+show your virtual machine and your gpu should show up in task manager if not go into
+
+Display settings and set your main monitor through the OS and BOOM you should have a virtual machine that has GPU Passthrough
+
+Reboot your system for the updates and have a blast using your new VM if something didnt work recheck the previous steps and google
+what could be wrong
+
+Your wont be able to play EAC games without doing a few steps I recommend googling how to get EAC to work with a kvm Virtual Machine
+cause I dont know if I can tell you directly how its done but once you get that figured out you will have a fully working Virtual Machine
+and be able to play most things and do most things
