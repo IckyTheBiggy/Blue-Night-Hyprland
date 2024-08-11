@@ -6,14 +6,12 @@ cava
 cemu
 ckan
 downgrade
-hyprland-git
 jre8
 minecraft-launcher
 mingw-w64-openssl
 osu-lazer-bin
 picom-git
 prismlauncher-qt5-bin
-proton-ge-custom-bin
 spicetify-cli
 spotify
 spotify-tui
@@ -22,4 +20,3 @@ tty-clock
 vscodium-bin
 vscodium-bin-marketplace
 waydroid
-xdg-desktop-portal-hyprland-git
