@@ -3,6 +3,8 @@ if status is-interactive
     set -x QT_QPA_PLATFORMTHEME "qt5ct"
 end
 
+cat ~/.cache/wal/sequences
+
 function fish_greeting
     neofetch
 end

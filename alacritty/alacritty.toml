@@ -1,3 +1,7 @@
+import = [
+    "~/.config/alacritty/themes/orangenight.toml"
+]
+
 [font]
 size = 10.0
 #50524f
@@ -11,20 +15,6 @@ style = "Bold"
 [font.bold_italic]
 family = "Iosevka Nerd Font"
 style = "Bold Italic"
-
-[colors.primary]
-background = "#000000"
-foreground = "#ed6d24"
-
-[colors.normal]
-black = "#848d94"
-blue = "#848d94"
-cyan = "#888c87"
-green = "#50524f"
-magenta = "#3a6584"
-red = "#b8c8de"
-white = "#b8c8de"
-yellow = "#72965c"
 
 [font.italic]
 family = "Iosevka Nerd Font"

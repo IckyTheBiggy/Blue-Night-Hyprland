@@ -8,6 +8,7 @@
 (palette "Colour History")
 (brush-size 1)
 (brush-angle -180)
+(brush-hardness 0.5)
 (brush-force 1)
 
 # end of gimp-pencil-tool options

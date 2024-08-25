@@ -38,6 +38,7 @@
 !/xsettingsd/
 !/settings.zip
 
+/backgrounds/test
 /obs-studio/logs/
 /obs-studio/safe_mode
 /OpenRGB/logs/

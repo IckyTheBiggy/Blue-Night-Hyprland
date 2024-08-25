@@ -1,0 +1,124 @@
+@import "~/.cache/wal/colors-rofi-dark"
+
+configuration {
+    font: "Iosevka Nerd Font 14";
+    line-margin: 10;
+
+    display-ssh:    "";
+    display-run:    "";
+    display-drun:   "";
+    display-window: "";
+    display-combi:  "";
+    show-icons:     true;
+    icon-theme: "Papirus";
+}
+
+
+@theme "/dev/null"
+
+listview {
+	border-color: @border-color;
+	lines: 10;
+	columns: 1;
+}
+
+
+
+* {
+    foreground: @foreground;
+    backlight: @foreground;
+    background-color: transparent;
+    transparency: "real";
+    highlight:     underline bold #a3be8c;
+}
+
+window {
+    location: center;
+    anchor: center;
+	width: 100%;
+	height: 100%;
+    border: 30% 35% 35% 35%;
+    border-radius: 10px;
+    background-color:transparent; 
+    spacing: 0;
+    children:  [mainbox];
+    orientation: horizontal;
+}
+
+mainbox {
+    spacing: 0;
+    children: [ inputbar, message, listview ];
+}
+
+message {
+    padding: 5;
+    border-color: @foreground;
+    border:  0px 2px 2px 2px;
+}
+
+inputbar {
+    color: @foreground;
+    padding: 16px;
+    background-color: rgba(0, 0, 0, 0.6);
+
+    border: 3px;
+    border-radius:  0px 0px 0px 0px;
+    border-color: @color10;
+}
+
+entry, prompt, case-indicator {
+    text-font: inherit;
+    text-color:inherit;
+}
+
+prompt {
+    margin: 0px 1em 0em 0em ;
+}
+
+listview {
+    padding: 0px;
+    border-radius: 0px 0px 0px 0px;
+    border-color: @border-color;
+    border: 0px 3px 3px 3px;
+    background-color: rgba(0, 0, 0, 0.6);
+    dynamic: false;
+}
+
+element {
+    padding: 15px 25px 15px 6px;
+    vertical-align: 0.5;
+    border-radius: 0px;
+    background-color: transparent;
+    color: @foreground;
+    text-color: @foreground;
+}
+
+element-icon{
+	size: 1em;
+	padding: 0px 25px 0px 0px;
+}
+
+element selected.normal {
+	background-color: @normal-background;
+	text-color: @normal-foreground;
+}
+
+element-text, element-icon {
+    background-color: inherit;
+    text-color:       inherit;
+}
+
+button {
+    padding: 6px;
+    color: @foreground;
+    horizontal-align: 0.5;
+
+    border: 2px 0px 2px 2px;
+    border-radius: 4px 0px 0px 4px;
+    border-color: @foreground;
+}
+
+button selected normal {
+    border: 2px 0px 2px 2px;
+    border-color: @foreground;
+}
