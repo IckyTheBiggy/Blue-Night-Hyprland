@@ -261,7 +261,7 @@
                 },
                 "band3": {
                     "frequency": 42.82,
-                    "gain": -2.65,
+                    "gain": 8.14,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -294,7 +294,7 @@
                 },
                 "band4": {
                     "frequency": 53.14,
-                    "gain": 2.65,
+                    "gain": 4.22,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -361,7 +361,7 @@
             },
             "mode": "IIR",
             "num-bands": 32,
-            "output-gain": 0.0,
+            "output-gain": -4.4,
             "pitch-left": 3.469446951953614e-18,
             "pitch-right": -3.469446951953614e-18,
             "right": {
@@ -620,7 +620,7 @@
                 },
                 "band3": {
                     "frequency": 42.82,
-                    "gain": -2.65,
+                    "gain": 8.14,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
@@ -653,7 +653,7 @@
                 },
                 "band4": {
                     "frequency": 53.14,
-                    "gain": 2.65,
+                    "gain": 4.22,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 4.36,
