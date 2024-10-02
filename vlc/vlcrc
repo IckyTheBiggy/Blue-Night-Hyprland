@@ -1,5 +1,5 @@
 ﻿###
-###  vlc 3.0.20
+###  vlc 3.0.21
 ###
 
 ###
@@ -791,7 +791,7 @@
 #sout-avi-subject=
 
 # Encoder (string)
-#sout-avi-encoder=VLC Media Player - 3.0.20 Vetinari
+#sout-avi-encoder=VLC Media Player - 3.0.21 Vetinari
 
 # Keywords (string)
 #sout-avi-keywords=
@@ -4288,13 +4288,13 @@ input-record-path=/home/bnn/Clips
 #rt-offset=0
 
 # Play files randomly forever (boolean)
-#random=0
+random=1
 
 # Repeat all (boolean)
-#loop=0
+loop=1
 
 # Repeat current item (boolean)
-repeat=1
+#repeat=0
 
 # Play and exit (boolean)
 #play-and-exit=0
