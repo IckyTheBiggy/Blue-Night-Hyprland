@@ -3120,7 +3120,7 @@ sout-x264-tune=film
 [libbluray] # Blu-ray Disc support (libbluray)
 
 # Blu-ray menus (boolean)
-#bluray-menu=1
+bluray-menu=0
 
 # Region code (string)
 #bluray-region=B
@@ -4270,7 +4270,7 @@ input-record-path=/home/bnn/Clips
 #packetizer=
 
 # VoD server module (string)
-#vod-server=
+vod-server=any
 
 # Use a plugins cache (boolean)
 #plugins-cache=1
