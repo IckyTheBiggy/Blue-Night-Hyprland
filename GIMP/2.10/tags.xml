@@ -1852,6 +1852,111 @@
   <resource identifier="Noto Sans Chorasmian" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans CJK HK" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK HK Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK HK Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK HK Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK HK Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK HK Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK HK Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK JP" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK JP Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK JP Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK JP Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK JP Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK JP Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK JP Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK KR" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK KR Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK KR Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK KR Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK KR Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK KR Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK KR Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK SC" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK SC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK SC Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK SC Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK SC Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK SC Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK SC Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK TC" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK TC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK TC Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK TC Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK TC Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK TC Semi-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans CJK TC Thin" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Coptic" checksum="(null)">
   </resource>
 
@@ -2363,6 +2468,36 @@
   </resource>
 
   <resource identifier="Noto Sans Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK HK" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK HK Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK JP" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK JP Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK KR" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK KR Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK SC" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK SC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK TC" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono CJK TC Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Mono Heavy" checksum="(null)">
@@ -2930,6 +3065,111 @@
   </resource>
 
   <resource identifier="Noto Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK JP" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK JP Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK JP Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK JP Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK JP Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK JP Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK JP Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK KR" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK KR Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK KR Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK KR Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK KR Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK KR Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK KR Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK SC" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK SC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK SC Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK SC Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK SC Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK SC Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK SC Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK TC" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK TC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK TC Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK TC Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK TC Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK TC Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK TC Ultra-Light" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Devanagari" checksum="(null)">
